@@ -1,0 +1,1209 @@
+{
+  "version": 2,
+  "exportedAt": "2026-06-08T12:35:59.769Z",
+  "exportedBy": "SAPAT — Charles Morales",
+  "month": "June",
+  "data": [
+    {
+      "id": 1,
+      "cat": "BASIC GOODS",
+      "item": "Parents' Allowance (1st)",
+      "channel": "GCash",
+      "cutoff": "1st",
+      "ada": "No",
+      "data": {
+        "January": 3000,
+        "February": 3000,
+        "March": 3000,
+        "April": 3000,
+        "May": 3000,
+        "June": 3000,
+        "July": 3000,
+        "August": 3000,
+        "September": 3000,
+        "October": 3000,
+        "November": 3000,
+        "December": 3000
+      }
+    },
+    {
+      "id": 2,
+      "cat": "BASIC GOODS",
+      "item": "Parents' Allowance (2nd)",
+      "channel": "GCash",
+      "cutoff": "2nd",
+      "ada": "No",
+      "data": {
+        "January": 3000,
+        "February": 3000,
+        "March": 3000,
+        "April": 3000,
+        "May": 3000,
+        "June": 3000,
+        "July": 3000,
+        "August": 3000,
+        "September": 3000,
+        "October": 3000,
+        "November": 3000,
+        "December": 3000
+      }
+    },
+    {
+      "id": 3,
+      "cat": "BASIC GOODS",
+      "item": "Water",
+      "channel": "Cash",
+      "cutoff": "2nd",
+      "ada": "No",
+      "data": {
+        "January": 160,
+        "February": 160,
+        "March": 160,
+        "April": 160,
+        "May": 160,
+        "June": 160,
+        "July": 160,
+        "August": 160,
+        "September": 160,
+        "October": 160,
+        "November": 160,
+        "December": 160
+      }
+    },
+    {
+      "id": 4,
+      "cat": "BASIC GOODS",
+      "item": "Meal Plan (Week 1)",
+      "channel": "BPI",
+      "cutoff": "1st",
+      "ada": "No",
+      "data": {
+        "January": 5000,
+        "February": 5000,
+        "March": 5000,
+        "April": 5000,
+        "May": 5000,
+        "June": 5000,
+        "July": 5000,
+        "August": 5000,
+        "September": 5000,
+        "October": 5000,
+        "November": 5000,
+        "December": 5000
+      }
+    },
+    {
+      "id": 5,
+      "cat": "BASIC GOODS",
+      "item": "Meal Plan (Week 2)",
+      "channel": "BPI",
+      "cutoff": "1st",
+      "ada": "No",
+      "data": {
+        "January": 5000,
+        "February": 5000,
+        "March": 5000,
+        "April": 5000,
+        "May": 5000,
+        "June": 5000,
+        "July": 5000,
+        "August": 5000,
+        "September": 5000,
+        "October": 5000,
+        "November": 5000,
+        "December": 5000
+      }
+    },
+    {
+      "id": 6,
+      "cat": "BASIC GOODS",
+      "item": "Meal Plan (Week 3)",
+      "channel": "BPI",
+      "cutoff": "2nd",
+      "ada": "No",
+      "data": {
+        "January": 5000,
+        "February": 5000,
+        "March": 5000,
+        "April": 5000,
+        "May": 5000,
+        "June": 5000,
+        "July": 5000,
+        "August": 5000,
+        "September": 5000,
+        "October": 5000,
+        "November": 5000,
+        "December": 5000
+      }
+    },
+    {
+      "id": 7,
+      "cat": "BASIC GOODS",
+      "item": "Meal Plan (Week 4)",
+      "channel": "BPI",
+      "cutoff": "2nd",
+      "ada": "No",
+      "data": {
+        "January": 5000,
+        "February": 5000,
+        "March": 5000,
+        "April": 5000,
+        "May": 5000,
+        "June": 5000,
+        "July": 5000,
+        "August": 5000,
+        "September": 5000,
+        "October": 5000,
+        "November": 5000,
+        "December": 5000
+      }
+    },
+    {
+      "id": 8,
+      "cat": "BASIC GOODS",
+      "item": "Laundry (1st)",
+      "channel": "Cash",
+      "cutoff": "1st",
+      "ada": "No",
+      "data": {
+        "January": 700,
+        "February": 700,
+        "March": 700,
+        "April": 700,
+        "May": 700,
+        "June": 700,
+        "July": 700,
+        "August": 700,
+        "September": 700,
+        "October": 700,
+        "November": 700,
+        "December": 700
+      }
+    },
+    {
+      "id": 9,
+      "cat": "BASIC GOODS",
+      "item": "Laundry (2nd)",
+      "channel": "Cash",
+      "cutoff": "2nd",
+      "ada": "No",
+      "data": {
+        "January": 700,
+        "February": 700,
+        "March": 700,
+        "April": 700,
+        "May": 700,
+        "June": 700,
+        "July": 700,
+        "August": 700,
+        "September": 700,
+        "October": 700,
+        "November": 700,
+        "December": 700
+      }
+    },
+    {
+      "id": 10,
+      "cat": "BASIC GOODS",
+      "item": "Fitness Membership",
+      "channel": "BPI",
+      "cutoff": "2nd",
+      "ada": "Yes",
+      "data": {
+        "January": 1750,
+        "February": 1750,
+        "March": 1750,
+        "April": 1750,
+        "May": 1750,
+        "June": 1750,
+        "July": 1750,
+        "August": 1750,
+        "September": 1750,
+        "October": 1750,
+        "November": 1750,
+        "December": 1750
+      }
+    },
+    {
+      "id": 20,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Personal Debt",
+      "channel": "Bank Transfer",
+      "date": "15 & 30",
+      "ada": "No",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 15000,
+      "data": {
+        "January": 15000,
+        "February": 15000,
+        "March": 20000,
+        "April": 30844.78,
+        "May": 25000,
+        "June": 15000
+      },
+      "cutoff": "1st"
+    },
+    {
+      "id": 21,
+      "cat": "DEBT",
+      "subtype": "Credit Card",
+      "item": "BPI Credit Card",
+      "channel": "BPI",
+      "date": "12",
+      "ada": "Yes",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 28000,
+      "data": {
+        "February": 2206.77,
+        "March": 2206.77,
+        "April": 3222.66,
+        "May": 5700
+      },
+      "cutoff": "1st"
+    },
+    {
+      "id": 22,
+      "cat": "DEBT",
+      "subtype": "Credit Card",
+      "item": "Unionbank CC",
+      "channel": "Paymaya",
+      "date": "Immediately",
+      "ada": "No",
+      "status": "Delayed",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 293544.62,
+      "data": {
+        "February": 25000,
+        "May": 25000,
+        "June": 25000,
+        "July": 25000,
+        "August": 25000,
+        "September": 25000,
+        "October": 25000,
+        "November": 25000,
+        "December": 25000
+      },
+      "cutoff": "2nd"
+    },
+    {
+      "id": 23,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "BillEase",
+      "channel": "Paymaya",
+      "date": "15 & 30",
+      "ada": "No",
+      "status": "On Time",
+      "installments": 12,
+      "paid_inst": 6,
+      "balance": 50000,
+      "data": {
+        "January": 6483,
+        "February": 3113,
+        "March": 6483,
+        "May": 21552.93
+      },
+      "cutoff": "1st"
+    },
+    {
+      "id": 24,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "GLoan",
+      "channel": "GCash",
+      "date": "17",
+      "ada": "No",
+      "status": "On Time",
+      "installments": 24,
+      "paid_inst": 18,
+      "balance": 36940,
+      "data": {
+        "January": 6156.67,
+        "February": 6156.67,
+        "March": 6156.67,
+        "April": 6156.67,
+        "May": 6156.67,
+        "June": 6156.67,
+        "July": 6156.67,
+        "August": 6156.67,
+        "September": 6156.67,
+        "October": 6156.67,
+        "November": 6156.67,
+        "December": 6156.67
+      },
+      "cutoff": "2nd"
+    },
+    {
+      "id": 25,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "FidoPH",
+      "channel": "—",
+      "date": "—",
+      "ada": "No",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 3500,
+      "data": {
+        "March": 3200,
+        "May": 4893
+      },
+      "cutoff": "2nd"
+    },
+    {
+      "id": 26,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "GrabLoan B",
+      "channel": "GCash",
+      "date": "22",
+      "ada": "Yes",
+      "status": "Delayed",
+      "installments": 6,
+      "paid_inst": 1,
+      "balance": 50000,
+      "data": {
+        "May": 5617.19,
+        "June": 5617.19,
+        "July": 5617.19,
+        "August": 5617.19,
+        "September": 5617.19,
+        "October": 5617.19
+      },
+      "cutoff": "2nd"
+    },
+    {
+      "id": 27,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "GrabLoan C",
+      "channel": "GCash",
+      "date": "27",
+      "ada": "No",
+      "status": "Delayed",
+      "installments": 3,
+      "paid_inst": 2,
+      "balance": 6295.93,
+      "data": {
+        "May": 6089.42,
+        "June": 6295.93
+      },
+      "cutoff": "2nd"
+    },
+    {
+      "id": 28,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "GCredit",
+      "channel": "GCash",
+      "date": "15",
+      "ada": "No",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 25000,
+      "data": {
+        "February": 4860.87,
+        "March": 9851.06,
+        "April": 10249.1,
+        "May": 6378.01,
+        "June": 5000,
+        "July": 5000,
+        "August": 5000,
+        "September": 5000,
+        "October": 5000,
+        "November": 5000,
+        "December": 5000
+      },
+      "cutoff": "1st"
+    },
+    {
+      "id": 29,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "LazadaPayLater",
+      "channel": "—",
+      "date": "16",
+      "ada": "No",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 8000,
+      "data": {
+        "June": 3995.15
+      },
+      "cutoff": "2nd"
+    },
+    {
+      "id": 30,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "LazadaFastCash",
+      "channel": "—",
+      "date": "17",
+      "ada": "No",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 8000,
+      "data": {
+        "June": 1926.17
+      },
+      "cutoff": "2nd"
+    },
+    {
+      "id": 31,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "MayaCredit",
+      "channel": "Paymaya",
+      "date": "12",
+      "ada": "No",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 12000,
+      "data": {
+        "January": 10705.16,
+        "February": 10705.16,
+        "March": 10705.16,
+        "May": 10705.16,
+        "June": 10705.16,
+        "July": 10705.16,
+        "August": 10705.16,
+        "September": 10705.16,
+        "October": 10705.16,
+        "November": 10705.16,
+        "December": 10705.16
+      },
+      "cutoff": "1st"
+    },
+    {
+      "id": 40,
+      "cat": "INSURANCE",
+      "item": "Philamlife (Migration Fund)",
+      "channel": "Paymaya",
+      "date": "30",
+      "ada": "No",
+      "type": "VUL",
+      "delayed": 3,
+      "status": "Lapsed",
+      "data": {
+        "January": 13429.1,
+        "February": 13429.1,
+        "March": 13429.1,
+        "April": 13429.1,
+        "May": 13429.1,
+        "June": 13429.1,
+        "July": 13429.1,
+        "August": 13429.1,
+        "September": 13429.1,
+        "October": 13429.1,
+        "November": 13429.1,
+        "December": 13429.1
+      }
+    },
+    {
+      "id": 41,
+      "cat": "INSURANCE",
+      "item": "Prulife (Migration Fund)",
+      "channel": "Paymaya",
+      "date": "30",
+      "ada": "No",
+      "type": "VUL",
+      "delayed": 2,
+      "status": "Delayed",
+      "data": {
+        "January": 10000,
+        "February": 5000,
+        "March": 5000,
+        "April": 5000,
+        "May": 5000,
+        "June": 5000,
+        "July": 5000,
+        "August": 5000,
+        "September": 5000,
+        "October": 5000,
+        "November": 5000,
+        "December": 5000
+      }
+    },
+    {
+      "id": 42,
+      "cat": "INSURANCE",
+      "item": "Singlife (Income Loss)",
+      "channel": "GCash",
+      "date": "15",
+      "ada": "Yes",
+      "type": "Income",
+      "delayed": 0,
+      "status": "Active",
+      "data": {
+        "January": 444,
+        "February": 444,
+        "March": 444,
+        "April": 444,
+        "May": 444,
+        "June": 444,
+        "July": 444,
+        "August": 444,
+        "September": 444,
+        "October": 444,
+        "November": 444,
+        "December": 444
+      }
+    },
+    {
+      "id": 43,
+      "cat": "INSURANCE",
+      "item": "St. Peter",
+      "channel": "BPI",
+      "date": "15",
+      "ada": "Yes",
+      "type": "Funeral",
+      "delayed": 1,
+      "status": "Delayed",
+      "data": {
+        "January": 6600,
+        "April": 6600,
+        "July": 6600,
+        "November": 6600
+      }
+    },
+    {
+      "id": 50,
+      "cat": "INVESTMENTS",
+      "item": "Dollar / Migration Fund",
+      "channel": "BPI",
+      "date": "30",
+      "ada": "No",
+      "goal": "Migration Fund",
+      "data": {
+        "June": 6000,
+        "July": 6000,
+        "August": 6000,
+        "September": 6000,
+        "October": 6000,
+        "November": 6000,
+        "December": 6000
+      }
+    },
+    {
+      "id": 51,
+      "cat": "INVESTMENTS",
+      "item": "MP2 PAG-IBIG",
+      "channel": "Paymaya",
+      "date": "30",
+      "ada": "No",
+      "goal": "Migration Fund",
+      "data": {
+        "June": 10000,
+        "July": 10000,
+        "August": 10000,
+        "September": 10000,
+        "October": 10000,
+        "November": 10000,
+        "December": 10000
+      }
+    },
+    {
+      "id": 52,
+      "cat": "INVESTMENTS",
+      "item": "SSS WISP Plus",
+      "channel": "Paymaya",
+      "date": "30",
+      "ada": "No",
+      "goal": "Migration Fund",
+      "data": {
+        "June": 5000,
+        "July": 5000,
+        "August": 5000,
+        "September": 5000,
+        "October": 5000,
+        "November": 5000,
+        "December": 5000
+      }
+    },
+    {
+      "id": 53,
+      "cat": "INVESTMENTS",
+      "item": "Play Lotto + Banana",
+      "channel": "Cash",
+      "date": "15 & 30",
+      "ada": "No",
+      "goal": "General",
+      "data": {
+        "June": 3000,
+        "July": 3000,
+        "August": 3000,
+        "September": 3000,
+        "October": 3000,
+        "November": 3000,
+        "December": 3000
+      }
+    },
+    {
+      "id": 60,
+      "cat": "UTILITIES",
+      "item": "Condo Rent",
+      "channel": "BPI",
+      "date": "30",
+      "ada": "Yes",
+      "data": {
+        "January": 10000,
+        "May": 30000,
+        "June": 10000,
+        "July": 10000,
+        "August": 10000,
+        "September": 10000,
+        "October": 10000,
+        "November": 10000,
+        "December": 10000
+      }
+    },
+    {
+      "id": 61,
+      "cat": "UTILITIES",
+      "item": "Condo Dues",
+      "channel": "GCash",
+      "date": "30",
+      "ada": "No",
+      "data": {
+        "January": 2205.22,
+        "February": 2246.18,
+        "March": 2206.18,
+        "April": 2246.18,
+        "May": 2246.18,
+        "June": 2246.18,
+        "July": 2246.18,
+        "August": 2246.18,
+        "September": 2246.18,
+        "October": 2246.18,
+        "November": 2246.18,
+        "December": 2246.18
+      }
+    },
+    {
+      "id": 62,
+      "cat": "UTILITIES",
+      "item": "Globe Postpaid",
+      "channel": "GCash",
+      "date": "30",
+      "ada": "No",
+      "data": {
+        "January": 4614.7,
+        "February": 4614.67,
+        "March": 1400,
+        "April": 11552,
+        "May": 4848,
+        "June": 5000,
+        "July": 5000,
+        "August": 5000,
+        "September": 5000,
+        "October": 5000,
+        "November": 5000,
+        "December": 5000
+      }
+    },
+    {
+      "id": 63,
+      "cat": "UTILITIES",
+      "item": "House Rent (Mom)",
+      "channel": "BPI",
+      "date": "15",
+      "ada": "Yes",
+      "data": {
+        "January": 10000,
+        "February": 10000,
+        "March": 10000,
+        "April": 10000,
+        "May": 10000,
+        "June": 13000,
+        "July": 13000,
+        "August": 13000,
+        "September": 13000,
+        "October": 13000,
+        "November": 13000,
+        "December": 13000
+      }
+    },
+    {
+      "id": 64,
+      "cat": "UTILITIES",
+      "item": "Condo Meralco",
+      "channel": "Paymaya",
+      "date": "30",
+      "ada": "No",
+      "data": {
+        "January": 2320.47,
+        "February": 3000,
+        "March": 2301.35,
+        "April": 2841.47,
+        "May": 3000,
+        "June": 3000,
+        "July": 3000,
+        "August": 3000,
+        "September": 3000,
+        "October": 3000,
+        "November": 3000,
+        "December": 3000
+      }
+    },
+    {
+      "id": 65,
+      "cat": "UTILITIES",
+      "item": "PLDT",
+      "channel": "Paymaya",
+      "date": "15",
+      "ada": "No",
+      "data": {
+        "January": 2533.4,
+        "February": 2533.4,
+        "March": 2533.4,
+        "April": 2533.4,
+        "May": 2533.4,
+        "June": 2533.4,
+        "July": 2533.4,
+        "August": 2533.4,
+        "September": 2533.4,
+        "October": 2533.4,
+        "November": 2533.4,
+        "December": 2533.4
+      }
+    },
+    {
+      "id": 66,
+      "cat": "UTILITIES",
+      "item": "Sky Broadband",
+      "channel": "Paymaya",
+      "date": "15",
+      "ada": "No",
+      "data": {
+        "January": 4500,
+        "April": 500,
+        "May": 1382.84,
+        "June": 1500,
+        "July": 1500,
+        "August": 1500,
+        "September": 1500,
+        "October": 1500,
+        "November": 1500,
+        "December": 1500
+      }
+    },
+    {
+      "id": 70,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Apple One",
+      "channel": "GCash",
+      "date": "7",
+      "ada": "Yes",
+      "action": "Keep",
+      "data": {
+        "January": 499,
+        "February": 499,
+        "March": 499,
+        "April": 499,
+        "May": 499,
+        "June": 499,
+        "July": 499,
+        "August": 499,
+        "September": 499,
+        "October": 499,
+        "November": 499,
+        "December": 499
+      }
+    },
+    {
+      "id": 71,
+      "cat": "SUBSCRIPTIONS",
+      "item": "iCloud+ 2TB",
+      "channel": "GCash",
+      "date": "23",
+      "ada": "Yes",
+      "action": "Review",
+      "data": {
+        "January": 599,
+        "February": 599,
+        "March": 599,
+        "April": 599,
+        "May": 599,
+        "June": 599,
+        "July": 599,
+        "August": 599,
+        "September": 599,
+        "October": 599,
+        "November": 599,
+        "December": 599
+      }
+    },
+    {
+      "id": 72,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Google Drive",
+      "channel": "GCash",
+      "date": "25",
+      "ada": "Yes",
+      "action": "Keep",
+      "data": {
+        "January": 1199,
+        "February": 1199,
+        "March": 1199,
+        "April": 1100,
+        "May": 1100,
+        "June": 1100,
+        "July": 1100,
+        "August": 1100,
+        "September": 1100,
+        "October": 1100,
+        "November": 1100,
+        "December": 1100
+      }
+    },
+    {
+      "id": 73,
+      "cat": "SUBSCRIPTIONS",
+      "item": "MEGA",
+      "channel": "GCash",
+      "date": "1",
+      "ada": "Yes",
+      "action": "Cut",
+      "data": {
+        "January": 999,
+        "February": 999,
+        "March": 999,
+        "April": 999,
+        "May": 999,
+        "June": 999,
+        "July": 999,
+        "August": 999,
+        "September": 999,
+        "October": 999,
+        "November": 999,
+        "December": 999
+      }
+    },
+    {
+      "id": 74,
+      "cat": "SUBSCRIPTIONS",
+      "item": "ChatGPT",
+      "channel": "GCash",
+      "date": "25",
+      "ada": "Yes",
+      "action": "Keep",
+      "data": {
+        "April": 300,
+        "May": 300,
+        "June": 300,
+        "July": 300,
+        "August": 300,
+        "September": 300,
+        "October": 300,
+        "November": 300,
+        "December": 300
+      }
+    },
+    {
+      "id": 75,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Viber Premium",
+      "channel": "GCash",
+      "date": "23",
+      "ada": "Yes",
+      "action": "Cut",
+      "data": {
+        "January": 109,
+        "February": 109,
+        "March": 109,
+        "April": 109,
+        "May": 109,
+        "June": 109,
+        "July": 109,
+        "August": 109,
+        "September": 109,
+        "October": 109,
+        "November": 109,
+        "December": 109
+      }
+    },
+    {
+      "id": 76,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Netflix",
+      "channel": "GCash",
+      "date": "4",
+      "ada": "No",
+      "action": "Keep",
+      "data": {
+        "January": 549,
+        "February": 549,
+        "March": 549,
+        "April": 549,
+        "May": 549,
+        "June": 549,
+        "July": 549,
+        "August": 549,
+        "September": 549,
+        "October": 549,
+        "November": 549,
+        "December": 549
+      }
+    },
+    {
+      "id": 77,
+      "cat": "SUBSCRIPTIONS",
+      "item": "PrimeVideo",
+      "channel": "Paymaya",
+      "date": "11",
+      "ada": "Yes",
+      "action": "Cut",
+      "data": {
+        "January": 149,
+        "February": 149,
+        "March": 149,
+        "April": 149,
+        "May": 149,
+        "June": 149,
+        "July": 149,
+        "August": 149,
+        "September": 149,
+        "October": 149,
+        "November": 149,
+        "December": 149
+      }
+    },
+    {
+      "id": 78,
+      "cat": "SUBSCRIPTIONS",
+      "item": "MacroFactor",
+      "channel": "GCash",
+      "date": "20",
+      "ada": "Yes",
+      "action": "Review",
+      "data": {
+        "April": 799,
+        "May": 520,
+        "June": 520,
+        "July": 520,
+        "August": 520,
+        "September": 520,
+        "October": 520,
+        "November": 520,
+        "December": 520
+      }
+    },
+    {
+      "id": 79,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Hevy",
+      "channel": "GCash",
+      "date": "Sep",
+      "ada": "Yes",
+      "action": "Review",
+      "data": {
+        "September": 1250
+      }
+    },
+    {
+      "id": 80,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Apple Fitness+",
+      "channel": "GCash",
+      "date": "Jun",
+      "ada": "Yes",
+      "action": "Cut",
+      "data": {
+        "June": 149
+      }
+    },
+    {
+      "id": 81,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Disney+",
+      "channel": "GCash",
+      "date": "Oct",
+      "ada": "Yes",
+      "action": "Review",
+      "data": {
+        "October": 4850
+      }
+    },
+    {
+      "id": 82,
+      "cat": "SUBSCRIPTIONS",
+      "item": "HBO Max",
+      "channel": "GCash",
+      "date": "Dec",
+      "ada": "Yes",
+      "action": "Review",
+      "data": {
+        "December": 1890
+      }
+    },
+    {
+      "id": 83,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Co-Star",
+      "channel": "GCash",
+      "date": "Dec",
+      "ada": "Yes",
+      "action": "Cut",
+      "data": {
+        "December": 2990
+      }
+    },
+    {
+      "id": 84,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Duolingo",
+      "channel": "GCash",
+      "date": "Dec",
+      "ada": "Yes",
+      "action": "Review",
+      "data": {
+        "December": 4990
+      }
+    },
+    {
+      "id": 85,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Wanderlog",
+      "channel": "GCash",
+      "date": "—",
+      "ada": "No",
+      "action": "Review",
+      "data": {
+        "April": 1042.18,
+        "October": 2250
+      }
+    },
+    {
+      "id": 86,
+      "cat": "SUBSCRIPTIONS",
+      "item": "NSFW",
+      "channel": "Digital Bank",
+      "date": "—",
+      "ada": "No",
+      "action": "Review",
+      "data": {
+        "April": 500
+      }
+    },
+    {
+      "id": 90,
+      "cat": "LEISURE",
+      "item": "Charity",
+      "channel": "Cash",
+      "date": "—",
+      "ada": "No",
+      "data": {
+        "January": 5000,
+        "February": 1000,
+        "April": 11620,
+        "May": 2090
+      }
+    },
+    {
+      "id": 91,
+      "cat": "LEISURE",
+      "item": "Entertainment (Theater)",
+      "channel": "Cash",
+      "date": "—",
+      "ada": "No",
+      "data": {
+        "January": 9000,
+        "March": 10000,
+        "May": 4475.35,
+        "June": 4401
+      }
+    },
+    {
+      "id": 92,
+      "cat": "LEISURE",
+      "item": "Gimik / Massage",
+      "channel": "Cash",
+      "date": "—",
+      "ada": "No",
+      "data": {
+        "January": 3500,
+        "February": 4000,
+        "May": 2000
+      }
+    },
+    {
+      "id": 93,
+      "cat": "LEISURE",
+      "item": "Travel",
+      "channel": "Cash",
+      "date": "—",
+      "ada": "No",
+      "data": {
+        "January": 3357.5,
+        "March": 53824.47,
+        "April": 49423.76
+      }
+    },
+    {
+      "id": 94,
+      "cat": "LEISURE",
+      "item": "Vice (Vaping)",
+      "channel": "Cash",
+      "date": "—",
+      "ada": "No",
+      "data": {
+        "January": 3000,
+        "February": 3000,
+        "March": 3000,
+        "April": 3000,
+        "May": 600,
+        "June": 3000,
+        "July": 3000,
+        "August": 3000,
+        "September": 3000,
+        "October": 3000,
+        "November": 3000,
+        "December": 3000
+      }
+    }
+  ],
+  "paid": {
+    "May_1_1st": true,
+    "May_4_1st": true,
+    "May_5_1st": true,
+    "May_8_1st": true,
+    "May_2_2nd": true,
+    "May_3_2nd": true,
+    "May_6_2nd": true,
+    "May_7_2nd": true,
+    "May_9_2nd": true,
+    "May_10_2nd": true,
+    "June_1_1st": false,
+    "June_4_1st": false,
+    "June_2_2nd": false,
+    "June_3_2nd": false,
+    "June_6_2nd": false,
+    "June_5_1st": false,
+    "June_8_1st": false,
+    "June_10_2nd": false,
+    "June_7_2nd": false,
+    "June_9_2nd": false,
+    "May_31_debt1": true,
+    "May_28_debt1": true,
+    "May_23_debt1": true,
+    "May_21_debt1": true,
+    "May_20_debt1": true,
+    "May_22_debt2": true,
+    "May_24_debt2": true,
+    "May_25_debt2": true,
+    "May_26_debt2": true,
+    "May_27_debt2": true
+  },
+  "comments": {}
+}
