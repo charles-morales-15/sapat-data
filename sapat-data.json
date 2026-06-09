@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-09T10:21:06.699Z",
+  "exportedAt": "2026-06-09T10:23:52.014Z",
   "exportedBy": "SAPAT — Charles Morales",
   "month": "June",
   "data": [
@@ -295,9 +295,9 @@
       "cat": "DEBT",
       "subtype": "Digital Bank",
       "item": "BillEase (GCash Cash Loan)",
-      "channel": "Paymaya",
-      "date": "15 & 30",
-      "ada": "No",
+      "channel": "GCash — +639177238411",
+      "date": "1 & 15",
+      "ada": "Yes",
       "status": "On Time",
       "installments": 24,
       "paid_inst": 1,
@@ -309,7 +309,7 @@
         "May": 21552.93,
         "June": 1817.86
       },
-      "cutoff": "1st"
+      "cutoff": "both"
     },
     {
       "id": 24,
