@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-09T10:23:52.014Z",
+  "exportedAt": "2026-06-09T10:24:57.609Z",
   "exportedBy": "SAPAT — Charles Morales",
   "month": "June",
   "data": [
@@ -467,7 +467,7 @@
       "status": "On Time",
       "installments": 0,
       "paid_inst": 0,
-      "balance": 110755.16,
+      "balance": 10705.16,
       "data": {
         "January": 10705.16,
         "February": 10705.16,
