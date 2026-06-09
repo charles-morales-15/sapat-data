@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-09T08:17:34.524Z",
+  "exportedAt": "2026-06-09T08:43:44.836Z",
   "exportedBy": "SAPAT — Charles Morales",
   "month": "June",
   "data": [
@@ -228,14 +228,14 @@
       "id": 20,
       "cat": "DEBT",
       "subtype": "Personal",
-      "item": "Personal Debt",
+      "item": "Ady Evangelista",
       "channel": "Bank Transfer",
       "date": "15 & 30",
       "ada": "No",
       "status": "On Time",
       "installments": 0,
       "paid_inst": 0,
-      "balance": 15000,
+      "balance": 5000,
       "data": {
         "January": 15000,
         "February": 15000,
@@ -295,7 +295,7 @@
       "cat": "DEBT",
       "subtype": "Digital Bank",
       "item": "BillEase (GCash Cash Loan)",
-      "channel": "BPI",
+      "channel": "Paymaya",
       "date": "15 & 30",
       "ada": "No",
       "status": "On Time",
@@ -344,7 +344,7 @@
       "cat": "DEBT",
       "subtype": "Microloan",
       "item": "FidoPH",
-      "channel": "—",
+      "channel": "Paymaya",
       "date": "—",
       "ada": "No",
       "status": "On Time",
@@ -429,7 +429,7 @@
       "cat": "DEBT",
       "subtype": "Digital Bank",
       "item": "LazadaPayLater",
-      "channel": "—",
+      "channel": "Paymaya",
       "date": "16",
       "ada": "No",
       "status": "On Time",
@@ -446,7 +446,7 @@
       "cat": "DEBT",
       "subtype": "Digital Bank",
       "item": "LazadaFastCash",
-      "channel": "—",
+      "channel": "Paymaya",
       "date": "17",
       "ada": "No",
       "status": "On Time",
@@ -469,7 +469,7 @@
       "status": "On Time",
       "installments": 0,
       "paid_inst": 0,
-      "balance": 12000,
+      "balance": 110755.16,
       "data": {
         "January": 10705.16,
         "February": 10705.16,
@@ -1171,6 +1171,38 @@
         "November": 3000,
         "December": 3000
       }
+    },
+    {
+      "id": 300,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Ady Evangelista",
+      "channel": "Bank Transfer",
+      "date": "30",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 10000,
+      "data": {
+        "June": 5000
+      }
+    },
+    {
+      "id": 301,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Angel Pineda",
+      "channel": "Bank Transfer",
+      "date": "30",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 5000,
+      "data": {}
     }
   ],
   "paid": {
@@ -1204,7 +1236,8 @@
     "May_25_debt2": true,
     "May_26_debt2": true,
     "May_27_debt2": true,
-    "June_23_debt1": false
+    "June_23_debt1": false,
+    "June_22_debt1": false
   },
   "comments": {}
 }
