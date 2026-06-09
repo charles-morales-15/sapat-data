@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-09T08:43:44.836Z",
+  "exportedAt": "2026-06-09T10:21:06.699Z",
   "exportedBy": "SAPAT — Charles Morales",
   "month": "June",
   "data": [
@@ -235,14 +235,14 @@
       "status": "On Time",
       "installments": 0,
       "paid_inst": 0,
-      "balance": 5000,
+      "balance": 15000,
       "data": {
         "January": 15000,
         "February": 15000,
         "March": 20000,
         "April": 30844.78,
         "May": 25000,
-        "June": 15000
+        "June": 5000
       },
       "cutoff": "1st"
     },
@@ -365,12 +365,11 @@
       "channel": "GCash",
       "date": "22",
       "ada": "Yes",
-      "status": "Delayed",
+      "status": "On Time",
       "installments": 6,
       "paid_inst": 1,
-      "balance": 50000,
+      "balance": 28085.97,
       "data": {
-        "May": 5617.19,
         "June": 5617.19,
         "July": 5617.19,
         "August": 5617.19,
@@ -385,17 +384,16 @@
       "subtype": "Microloan",
       "item": "GrabLoan C",
       "channel": "GCash",
-      "date": "27",
-      "ada": "No",
+      "date": "9",
+      "ada": "Yes",
       "status": "Delayed",
       "installments": 3,
       "paid_inst": 2,
-      "balance": 6295.93,
+      "balance": 6295.53,
       "data": {
-        "May": 6089.42,
-        "June": 6295.93
+        "June": 6295.53
       },
-      "cutoff": "2nd"
+      "cutoff": "1st"
     },
     {
       "id": 28,
@@ -1203,6 +1201,23 @@
       "paid_inst": 0,
       "balance": 5000,
       "data": {}
+    },
+    {
+      "id": 101,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "GrabLoan A",
+      "channel": "GCash",
+      "date": "9",
+      "ada": "Yes",
+      "cutoff": "1st",
+      "status": "Delayed",
+      "installments": 1,
+      "paid_inst": 0,
+      "balance": 6089.42,
+      "data": {
+        "June": 6089.42
+      }
     }
   ],
   "paid": {
