@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-08T12:35:59.769Z",
+  "exportedAt": "2026-06-09T08:17:34.524Z",
   "exportedBy": "SAPAT — Charles Morales",
   "month": "June",
   "data": [
@@ -252,17 +252,18 @@
       "subtype": "Credit Card",
       "item": "BPI Credit Card",
       "channel": "BPI",
-      "date": "12",
+      "date": "1",
       "ada": "Yes",
       "status": "On Time",
       "installments": 0,
       "paid_inst": 0,
-      "balance": 28000,
+      "balance": 28197.74,
       "data": {
         "February": 2206.77,
         "March": 2206.77,
         "April": 3222.66,
-        "May": 5700
+        "May": 5700,
+        "June": 885
       },
       "cutoff": "1st"
     },
@@ -270,44 +271,43 @@
       "id": 22,
       "cat": "DEBT",
       "subtype": "Credit Card",
-      "item": "Unionbank CC",
-      "channel": "Paymaya",
-      "date": "Immediately",
+      "item": "Unionbank CC (Restructured)",
+      "channel": "Unionbank App / OTC",
+      "date": "15",
       "ada": "No",
-      "status": "Delayed",
-      "installments": 0,
+      "status": "On Time",
+      "installments": 12,
       "paid_inst": 0,
-      "balance": 293544.62,
+      "balance": 272184.84,
       "data": {
-        "February": 25000,
-        "May": 25000,
-        "June": 25000,
-        "July": 25000,
-        "August": 25000,
-        "September": 25000,
-        "October": 25000,
-        "November": 25000,
-        "December": 25000
+        "June": 22682.07,
+        "July": 22682.07,
+        "August": 22682.07,
+        "September": 22682.07,
+        "October": 22682.07,
+        "November": 22682.07,
+        "December": 22682.07
       },
-      "cutoff": "2nd"
+      "cutoff": "1st"
     },
     {
       "id": 23,
       "cat": "DEBT",
       "subtype": "Digital Bank",
-      "item": "BillEase",
-      "channel": "Paymaya",
+      "item": "BillEase (GCash Cash Loan)",
+      "channel": "BPI",
       "date": "15 & 30",
       "ada": "No",
       "status": "On Time",
-      "installments": 12,
-      "paid_inst": 6,
-      "balance": 50000,
+      "installments": 24,
+      "paid_inst": 1,
+      "balance": 41810.78,
       "data": {
         "January": 6483,
         "February": 3113,
         "March": 6483,
-        "May": 21552.93
+        "May": 21552.93,
+        "June": 1817.86
       },
       "cutoff": "1st"
     },
@@ -1203,7 +1203,8 @@
     "May_24_debt2": true,
     "May_25_debt2": true,
     "May_26_debt2": true,
-    "May_27_debt2": true
+    "May_27_debt2": true,
+    "June_23_debt1": false
   },
   "comments": {}
 }
