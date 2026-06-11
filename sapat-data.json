@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-11T12:38:52.345Z",
+  "exportedAt": "2026-06-11T14:06:25.995Z",
   "exportedBy": "SAPAT — Charles Morales",
   "month": "June",
   "data": [
@@ -267,27 +267,6 @@
         "December": 22682.07
       },
       "cutoff": "1st"
-    },
-    {
-      "id": 23,
-      "cat": "DEBT",
-      "subtype": "Digital Bank",
-      "item": "BillEase (GCash Cash Loan)",
-      "channel": "GCash — +639177238411",
-      "date": "1 & 15",
-      "ada": "Yes",
-      "status": "On Time",
-      "installments": 24,
-      "paid_inst": 1,
-      "balance": 41810.78,
-      "data": {
-        "January": 6483,
-        "February": 3113,
-        "March": 6483,
-        "May": 21552.93,
-        "June": 1817.86
-      },
-      "cutoff": "both"
     },
     {
       "id": 24,
@@ -1150,38 +1129,6 @@
       }
     },
     {
-      "id": 300,
-      "cat": "DEBT",
-      "subtype": "Personal",
-      "item": "Ady Evangelista",
-      "channel": "Bank Transfer",
-      "date": "30",
-      "ada": "No",
-      "cutoff": "2nd",
-      "status": "On Time",
-      "installments": 0,
-      "paid_inst": 0,
-      "balance": 10000,
-      "data": {
-        "June": 5000
-      }
-    },
-    {
-      "id": 301,
-      "cat": "DEBT",
-      "subtype": "Personal",
-      "item": "Angel Pineda",
-      "channel": "Bank Transfer",
-      "date": "30",
-      "ada": "No",
-      "cutoff": "2nd",
-      "status": "On Time",
-      "installments": 6,
-      "paid_inst": 0,
-      "balance": 5000,
-      "data": {}
-    },
-    {
       "id": 101,
       "cat": "DEBT",
       "subtype": "Microloan",
@@ -1199,24 +1146,24 @@
       }
     },
     {
-      "id": 300,
+      "id": 301,
       "cat": "DEBT",
-      "subtype": "Personal",
-      "item": "Gadget Upgrade (Charger, Headset, Tempered Glass)",
-      "channel": "Cash",
-      "date": "11",
+      "subtype": "Microloan",
+      "item": "BillEase (GCash)",
+      "channel": "BPI",
+      "date": "1 & 16",
       "ada": "No",
-      "cutoff": "1st",
+      "cutoff": "both",
       "status": "On Time",
-      "installments": 1,
-      "paid_inst": 1,
-      "balance": 1599,
+      "installments": 24,
+      "paid_inst": 2,
+      "balance": 43628.64,
       "data": {
-        "June": 1599
+        "June": 1817.86
       }
     },
     {
-      "id": 301,
+      "id": 302,
       "cat": "DEBT",
       "subtype": "Microloan",
       "item": "BillEase (BPI)",
@@ -1225,28 +1172,11 @@
       "ada": "No",
       "cutoff": "1st",
       "status": "On Time",
-      "installments": 2,
-      "paid_inst": 6,
+      "installments": 6,
+      "paid_inst": 2,
       "balance": 24900.42,
       "data": {
         "June": 4150.07
-      }
-    },
-    {
-      "id": 302,
-      "cat": "DEBT",
-      "subtype": "Microloan",
-      "item": "BillEase (GCash)",
-      "channel": "BPI",
-      "date": "1 & 30",
-      "ada": "No",
-      "cutoff": "both",
-      "status": "On Time",
-      "installments": 2,
-      "paid_inst": 24,
-      "balance": 43628.64,
-      "data": {
-        "June": 1817.86
       }
     }
   ],
@@ -1289,7 +1219,9 @@
     "June_30_debt2": true,
     "June_300_debt2": false,
     "June_25_debt2": true,
-    "June_300_debt1": true
+    "June_300_debt1": false,
+    "June_301_debt1": true,
+    "June_302_debt1": true
   },
   "comments": {}
 }
