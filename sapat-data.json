@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-09T10:24:57.609Z",
+  "exportedAt": "2026-06-11T12:38:52.345Z",
   "exportedBy": "SAPAT — Charles Morales",
   "month": "June",
   "data": [
@@ -74,28 +74,6 @@
       "id": 4,
       "cat": "BASIC GOODS",
       "item": "Meal Plan (Week 1)",
-      "channel": "BPI",
-      "cutoff": "1st",
-      "ada": "No",
-      "data": {
-        "January": 5000,
-        "February": 5000,
-        "March": 5000,
-        "April": 5000,
-        "May": 5000,
-        "June": 5000,
-        "July": 5000,
-        "August": 5000,
-        "September": 5000,
-        "October": 5000,
-        "November": 5000,
-        "December": 5000
-      }
-    },
-    {
-      "id": 5,
-      "cat": "BASIC GOODS",
-      "item": "Meal Plan (Week 2)",
       "channel": "BPI",
       "cutoff": "1st",
       "ada": "No",
@@ -321,7 +299,7 @@
       "ada": "No",
       "status": "On Time",
       "installments": 24,
-      "paid_inst": 18,
+      "paid_inst": 19,
       "balance": 36940,
       "data": {
         "January": 6156.67,
@@ -350,10 +328,11 @@
       "status": "On Time",
       "installments": 0,
       "paid_inst": 0,
-      "balance": 3500,
+      "balance": 2937,
       "data": {
         "March": 3200,
-        "May": 4893
+        "May": 4893,
+        "June": 2937
       },
       "cutoff": "2nd"
     },
@@ -435,7 +414,7 @@
       "paid_inst": 0,
       "balance": 8000,
       "data": {
-        "June": 3995.15
+        "June": 3754.67
       },
       "cutoff": "2nd"
     },
@@ -452,7 +431,7 @@
       "paid_inst": 0,
       "balance": 8000,
       "data": {
-        "June": 1926.17
+        "June": 1926.67
       },
       "cutoff": "2nd"
     },
@@ -1197,7 +1176,7 @@
       "ada": "No",
       "cutoff": "2nd",
       "status": "On Time",
-      "installments": 0,
+      "installments": 6,
       "paid_inst": 0,
       "balance": 5000,
       "data": {}
@@ -1218,6 +1197,57 @@
       "data": {
         "June": 6089.42
       }
+    },
+    {
+      "id": 300,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Gadget Upgrade (Charger, Headset, Tempered Glass)",
+      "channel": "Cash",
+      "date": "11",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 1599,
+      "data": {
+        "June": 1599
+      }
+    },
+    {
+      "id": 301,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "BillEase (BPI)",
+      "channel": "BPI",
+      "date": "1",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 2,
+      "paid_inst": 6,
+      "balance": 24900.42,
+      "data": {
+        "June": 4150.07
+      }
+    },
+    {
+      "id": 302,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "BillEase (GCash)",
+      "channel": "BPI",
+      "date": "1 & 30",
+      "ada": "No",
+      "cutoff": "both",
+      "status": "On Time",
+      "installments": 2,
+      "paid_inst": 24,
+      "balance": 43628.64,
+      "data": {
+        "June": 1817.86
+      }
     }
   ],
   "paid": {
@@ -1231,11 +1261,11 @@
     "May_7_2nd": true,
     "May_9_2nd": true,
     "May_10_2nd": true,
-    "June_1_1st": false,
-    "June_4_1st": false,
+    "June_1_1st": true,
+    "June_4_1st": true,
     "June_2_2nd": false,
     "June_3_2nd": false,
-    "June_6_2nd": false,
+    "June_6_2nd": true,
     "June_5_1st": false,
     "June_8_1st": false,
     "June_10_2nd": false,
@@ -1252,7 +1282,14 @@
     "May_26_debt2": true,
     "May_27_debt2": true,
     "June_23_debt1": false,
-    "June_22_debt1": false
+    "June_22_debt1": false,
+    "June_20_debt1": true,
+    "June_24_debt2": true,
+    "June_29_debt2": true,
+    "June_30_debt2": true,
+    "June_300_debt2": false,
+    "June_25_debt2": true,
+    "June_300_debt1": true
   },
   "comments": {}
 }
