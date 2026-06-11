@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-11T14:40:02.960Z",
-  "exportedBy": "SAPAT — Charles Morales",
+  "exportedAt": "2026-06-11T17:32:33.569Z",
+  "exportedBy": "SAPAT",
   "month": "June",
   "data": [
     {
@@ -83,7 +83,7 @@
         "March": 5000,
         "April": 5000,
         "May": 5000,
-        "June": 5000,
+        "June": 4000,
         "July": 5000,
         "August": 5000,
         "September": 5000,
@@ -105,7 +105,7 @@
         "March": 5000,
         "April": 5000,
         "May": 5000,
-        "June": 5000,
+        "June": 4000,
         "July": 5000,
         "August": 5000,
         "September": 5000,
@@ -203,49 +203,6 @@
       }
     },
     {
-      "id": 20,
-      "cat": "DEBT",
-      "subtype": "Personal",
-      "item": "Ady Evangelista",
-      "channel": "Bank Transfer",
-      "date": "15 & 30",
-      "ada": "No",
-      "status": "On Time",
-      "installments": 0,
-      "paid_inst": 0,
-      "balance": 15000,
-      "data": {
-        "January": 15000,
-        "February": 15000,
-        "March": 20000,
-        "April": 30844.78,
-        "May": 25000,
-        "June": 5000
-      },
-      "cutoff": "1st"
-    },
-    {
-      "id": 21,
-      "cat": "DEBT",
-      "subtype": "Credit Card",
-      "item": "BPI Credit Card",
-      "channel": "BPI",
-      "date": "1",
-      "ada": "Yes",
-      "status": "On Time",
-      "installments": 0,
-      "paid_inst": 0,
-      "balance": 28197.74,
-      "data": {
-        "February": 2206.77,
-        "March": 2206.77,
-        "April": 3222.66,
-        "May": 5700,
-        "June": 885
-      },
-      "cutoff": "1st"
-    },
-    {
       "id": 22,
       "cat": "DEBT",
       "subtype": "Credit Card",
@@ -332,7 +289,8 @@
         "July": 5617.19,
         "August": 5617.19,
         "September": 5617.19,
-        "October": 5617.19
+        "October": 5617.19,
+        "November": 5617.19
       },
       "cutoff": "2nd"
     },
@@ -349,34 +307,9 @@
       "paid_inst": 2,
       "balance": 6295.53,
       "data": {
-        "June": 6295.53
-      },
-      "cutoff": "1st"
-    },
-    {
-      "id": 28,
-      "cat": "DEBT",
-      "subtype": "Digital Bank",
-      "item": "GCredit",
-      "channel": "GCash",
-      "date": "15",
-      "ada": "No",
-      "status": "On Time",
-      "installments": 0,
-      "paid_inst": 0,
-      "balance": 25000,
-      "data": {
-        "February": 4860.87,
-        "March": 9851.06,
-        "April": 10249.1,
-        "May": 6378.01,
-        "June": 5000,
-        "July": 5000,
-        "August": 5000,
-        "September": 5000,
-        "October": 5000,
-        "November": 5000,
-        "December": 5000
+        "June": 6295.53,
+        "July": 6295.53,
+        "August": 6295.53
       },
       "cutoff": "1st"
     },
@@ -393,7 +326,8 @@
       "paid_inst": 0,
       "balance": 8000,
       "data": {
-        "June": 3754.67
+        "June": 3754.67,
+        "July": 3775.1
       },
       "cutoff": "2nd"
     },
@@ -413,33 +347,6 @@
         "June": 1926.67
       },
       "cutoff": "2nd"
-    },
-    {
-      "id": 31,
-      "cat": "DEBT",
-      "subtype": "Digital Bank",
-      "item": "MayaCredit",
-      "channel": "Paymaya",
-      "date": "12",
-      "ada": "No",
-      "status": "On Time",
-      "installments": 0,
-      "paid_inst": 0,
-      "balance": 10705.16,
-      "data": {
-        "January": 10705.16,
-        "February": 10705.16,
-        "March": 10705.16,
-        "May": 10705.16,
-        "June": 10705.16,
-        "July": 10705.16,
-        "August": 10705.16,
-        "September": 10705.16,
-        "October": 10705.16,
-        "November": 10705.16,
-        "December": 10705.16
-      },
-      "cutoff": "1st"
     },
     {
       "id": 40,
@@ -464,7 +371,8 @@
         "October": 13429.1,
         "November": 13429.1,
         "December": 13429.1
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 41,
@@ -489,7 +397,8 @@
         "October": 5000,
         "November": 5000,
         "December": 5000
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 42,
@@ -514,7 +423,8 @@
         "October": 444,
         "November": 444,
         "December": 444
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 43,
@@ -531,12 +441,13 @@
         "April": 6600,
         "July": 6600,
         "November": 6600
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 50,
       "cat": "INVESTMENTS",
-      "item": "Dollar / Migration Fund",
+      "item": "Dollar",
       "channel": "BPI",
       "date": "30",
       "ada": "No",
@@ -549,7 +460,8 @@
         "October": 6000,
         "November": 6000,
         "December": 6000
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 51,
@@ -558,7 +470,7 @@
       "channel": "Paymaya",
       "date": "30",
       "ada": "No",
-      "goal": "Migration Fund",
+      "goal": "Retirement",
       "data": {
         "June": 10000,
         "July": 10000,
@@ -567,7 +479,8 @@
         "October": 10000,
         "November": 10000,
         "December": 10000
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 52,
@@ -576,7 +489,7 @@
       "channel": "Paymaya",
       "date": "30",
       "ada": "No",
-      "goal": "Migration Fund",
+      "goal": "Retirement",
       "data": {
         "June": 5000,
         "July": 5000,
@@ -585,7 +498,8 @@
         "October": 5000,
         "November": 5000,
         "December": 5000
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 53,
@@ -603,7 +517,8 @@
         "October": 3000,
         "November": 3000,
         "December": 3000
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 60,
@@ -622,7 +537,8 @@
         "October": 10000,
         "November": 10000,
         "December": 10000
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 61,
@@ -644,7 +560,8 @@
         "October": 2246.18,
         "November": 2246.18,
         "December": 2246.18
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 62,
@@ -666,7 +583,8 @@
         "October": 5000,
         "November": 5000,
         "December": 5000
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 63,
@@ -688,7 +606,8 @@
         "October": 13000,
         "November": 13000,
         "December": 13000
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 64,
@@ -710,7 +629,8 @@
         "October": 3000,
         "November": 3000,
         "December": 3000
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 65,
@@ -732,7 +652,8 @@
         "October": 2533.4,
         "November": 2533.4,
         "December": 2533.4
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 66,
@@ -752,7 +673,8 @@
         "October": 1500,
         "November": 1500,
         "December": 1500
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 70,
@@ -775,7 +697,8 @@
         "October": 499,
         "November": 499,
         "December": 499
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 71,
@@ -798,7 +721,8 @@
         "October": 599,
         "November": 599,
         "December": 599
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 72,
@@ -821,7 +745,8 @@
         "October": 1100,
         "November": 1100,
         "December": 1100
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 73,
@@ -844,7 +769,8 @@
         "October": 999,
         "November": 999,
         "December": 999
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 74,
@@ -864,7 +790,8 @@
         "October": 300,
         "November": 300,
         "December": 300
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 75,
@@ -887,7 +814,8 @@
         "October": 109,
         "November": 109,
         "December": 109
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 76,
@@ -910,7 +838,8 @@
         "October": 549,
         "November": 549,
         "December": 549
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 77,
@@ -933,7 +862,8 @@
         "October": 149,
         "November": 149,
         "December": 149
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 78,
@@ -953,7 +883,8 @@
         "October": 520,
         "November": 520,
         "December": 520
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 79,
@@ -965,7 +896,8 @@
       "action": "Review",
       "data": {
         "September": 1250
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 80,
@@ -977,7 +909,8 @@
       "action": "Cut",
       "data": {
         "June": 149
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 81,
@@ -989,7 +922,8 @@
       "action": "Review",
       "data": {
         "October": 4850
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 82,
@@ -1001,7 +935,8 @@
       "action": "Review",
       "data": {
         "December": 1890
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 83,
@@ -1013,7 +948,8 @@
       "action": "Cut",
       "data": {
         "December": 2990
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 84,
@@ -1025,7 +961,8 @@
       "action": "Review",
       "data": {
         "December": 4990
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 85,
@@ -1038,7 +975,8 @@
       "data": {
         "April": 1042.18,
         "October": 2250
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 86,
@@ -1050,7 +988,8 @@
       "action": "Review",
       "data": {
         "April": 500
-      }
+      },
+      "cutoff": "1st"
     },
     {
       "id": 90,
@@ -1064,7 +1003,8 @@
         "February": 1000,
         "April": 11620,
         "May": 2090
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 91,
@@ -1078,7 +1018,8 @@
         "March": 10000,
         "May": 4475.35,
         "June": 4401
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 92,
@@ -1091,7 +1032,8 @@
         "January": 3500,
         "February": 4000,
         "May": 2000
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 93,
@@ -1104,7 +1046,8 @@
         "January": 3357.5,
         "March": 53824.47,
         "April": 49423.76
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 94,
@@ -1126,7 +1069,8 @@
         "October": 3000,
         "November": 3000,
         "December": 3000
-      }
+      },
+      "cutoff": "2nd"
     },
     {
       "id": 101,
@@ -1146,40 +1090,6 @@
       }
     },
     {
-      "id": 301,
-      "cat": "DEBT",
-      "subtype": "Microloan",
-      "item": "BillEase (GCash)",
-      "channel": "BPI",
-      "date": "1 & 16",
-      "ada": "No",
-      "cutoff": "both",
-      "status": "On Time",
-      "installments": 24,
-      "paid_inst": 2,
-      "balance": 43628.64,
-      "data": {
-        "June": 1817.86
-      }
-    },
-    {
-      "id": 302,
-      "cat": "DEBT",
-      "subtype": "Microloan",
-      "item": "BillEase (BPI)",
-      "channel": "BPI",
-      "date": "1",
-      "ada": "No",
-      "cutoff": "1st",
-      "status": "On Time",
-      "installments": 6,
-      "paid_inst": 2,
-      "balance": 24900.42,
-      "data": {
-        "June": 4150.07
-      }
-    },
-    {
       "id": 303,
       "cat": "BASIC GOODS",
       "item": "Gadget Upgrade (Charger, Headset, Tempered Glass)",
@@ -1190,12 +1100,86 @@
       "data": {
         "June": 1599
       }
+    },
+    {
+      "id": 102,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "BillEase (GCash Cash Loan)",
+      "channel": "GCash",
+      "date": "1 & 15",
+      "ada": "Yes",
+      "cutoff": "both",
+      "status": "On Time",
+      "installments": 24,
+      "paid_inst": 1,
+      "balance": 41810.78,
+      "data": {
+        "June": 3635.72,
+        "July": 3635.72,
+        "August": 3635.72,
+        "September": 3635.72,
+        "October": 3635.72,
+        "November": 3635.72,
+        "December": 3635.72
+      }
+    },
+    {
+      "id": 304,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Ady Evangelista",
+      "channel": "BPI",
+      "date": "15 & 30",
+      "ada": "No",
+      "cutoff": "both",
+      "status": "On Time",
+      "installments": 3,
+      "paid_inst": 1,
+      "balance": 15000,
+      "data": {
+        "June": 5000,
+        "July": 5000
+      }
+    },
+    {
+      "id": 305,
+      "cat": "DEBT",
+      "subtype": "Credit Card",
+      "item": "BPI Credit Card",
+      "channel": "BPI",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 27966.29,
+      "data": {
+        "June": 5000
+      }
+    },
+    {
+      "id": 306,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "BillEase (GCash Cash Loan)",
+      "channel": "Paymaya",
+      "date": "15 & 30",
+      "ada": "No",
+      "cutoff": "both",
+      "status": "On Time",
+      "installments": 24,
+      "paid_inst": 2,
+      "balance": 43628.64,
+      "data": {
+        "June": 1817.86
+      }
     }
   ],
   "paid": {
     "May_1_1st": true,
     "May_4_1st": true,
-    "May_5_1st": true,
     "May_8_1st": true,
     "May_2_2nd": true,
     "May_3_2nd": true,
@@ -1208,33 +1192,23 @@
     "June_2_2nd": false,
     "June_3_2nd": false,
     "June_6_2nd": true,
-    "June_5_1st": false,
     "June_8_1st": false,
     "June_10_2nd": false,
     "June_7_2nd": false,
     "June_9_2nd": false,
-    "May_31_debt1": true,
-    "May_28_debt1": true,
-    "May_23_debt1": true,
-    "May_21_debt1": true,
-    "May_20_debt1": true,
     "May_22_debt2": true,
     "May_24_debt2": true,
     "May_25_debt2": true,
     "May_26_debt2": true,
     "May_27_debt2": true,
-    "June_23_debt1": false,
     "June_22_debt1": false,
-    "June_20_debt1": true,
     "June_24_debt2": true,
     "June_29_debt2": true,
     "June_30_debt2": true,
-    "June_300_debt2": false,
     "June_25_debt2": true,
-    "June_300_debt1": false,
-    "June_301_debt1": true,
-    "June_302_debt1": true,
-    "June_303_1st": true
+    "June_303_1st": true,
+    "June_304_debt1": true,
+    "June_306_debt1": true
   },
   "comments": {}
 }
