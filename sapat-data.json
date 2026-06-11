@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-11T14:32:10.311Z",
+  "exportedAt": "2026-06-11T14:40:02.960Z",
   "exportedBy": "SAPAT — Charles Morales",
   "month": "June",
   "data": [
@@ -1178,6 +1178,18 @@
       "data": {
         "June": 4150.07
       }
+    },
+    {
+      "id": 303,
+      "cat": "BASIC GOODS",
+      "item": "Gadget Upgrade (Charger, Headset, Tempered Glass)",
+      "channel": "Cash",
+      "cutoff": "1st",
+      "ada": "No",
+      "date": "11",
+      "data": {
+        "June": 1599
+      }
     }
   ],
   "paid": {
@@ -1221,7 +1233,8 @@
     "June_25_debt2": true,
     "June_300_debt1": false,
     "June_301_debt1": true,
-    "June_302_debt1": true
+    "June_302_debt1": true,
+    "June_303_1st": true
   },
   "comments": {}
 }
