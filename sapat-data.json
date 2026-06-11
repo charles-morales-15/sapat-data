@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-11T17:32:33.569Z",
+  "exportedAt": "2026-06-11T18:16:00.600Z",
   "exportedBy": "SAPAT",
-  "month": "June",
+  "month": "August",
   "data": [
     {
       "id": 1,
@@ -223,95 +223,9 @@
         "November": 22682.07,
         "December": 22682.07
       },
-      "cutoff": "1st"
-    },
-    {
-      "id": 24,
-      "cat": "DEBT",
-      "subtype": "Digital Bank",
-      "item": "GLoan",
-      "channel": "GCash",
-      "date": "17",
-      "ada": "No",
-      "status": "On Time",
-      "installments": 24,
-      "paid_inst": 19,
-      "balance": 36940,
-      "data": {
-        "January": 6156.67,
-        "February": 6156.67,
-        "March": 6156.67,
-        "April": 6156.67,
-        "May": 6156.67,
-        "June": 6156.67,
-        "July": 6156.67,
-        "August": 6156.67,
-        "September": 6156.67,
-        "October": 6156.67,
-        "November": 6156.67,
-        "December": 6156.67
-      },
-      "cutoff": "2nd"
-    },
-    {
-      "id": 25,
-      "cat": "DEBT",
-      "subtype": "Microloan",
-      "item": "FidoPH",
-      "channel": "Paymaya",
-      "date": "—",
-      "ada": "No",
-      "status": "On Time",
-      "installments": 0,
-      "paid_inst": 0,
-      "balance": 2937,
-      "data": {
-        "March": 3200,
-        "May": 4893,
-        "June": 2937
-      },
-      "cutoff": "2nd"
-    },
-    {
-      "id": 26,
-      "cat": "DEBT",
-      "subtype": "Microloan",
-      "item": "GrabLoan B",
-      "channel": "GCash",
-      "date": "22",
-      "ada": "Yes",
-      "status": "On Time",
-      "installments": 6,
-      "paid_inst": 1,
-      "balance": 28085.97,
-      "data": {
-        "June": 5617.19,
-        "July": 5617.19,
-        "August": 5617.19,
-        "September": 5617.19,
-        "October": 5617.19,
-        "November": 5617.19
-      },
-      "cutoff": "2nd"
-    },
-    {
-      "id": 27,
-      "cat": "DEBT",
-      "subtype": "Microloan",
-      "item": "GrabLoan C",
-      "channel": "GCash",
-      "date": "9",
-      "ada": "Yes",
-      "status": "Delayed",
-      "installments": 3,
-      "paid_inst": 2,
-      "balance": 6295.53,
-      "data": {
-        "June": 6295.53,
-        "July": 6295.53,
-        "August": 6295.53
-      },
-      "cutoff": "1st"
+      "cutoff": "1st",
+      "minPayment": 22682.07,
+      "totalPayments": 12
     },
     {
       "id": 29,
@@ -329,7 +243,9 @@
         "June": 3754.67,
         "July": 3775.1
       },
-      "cutoff": "2nd"
+      "cutoff": "2nd",
+      "minPayment": 3995.15,
+      "totalPayments": 0
     },
     {
       "id": 30,
@@ -346,7 +262,9 @@
       "data": {
         "June": 1926.67
       },
-      "cutoff": "2nd"
+      "cutoff": "2nd",
+      "minPayment": 1926.17,
+      "totalPayments": 0
     },
     {
       "id": 40,
@@ -1073,23 +991,6 @@
       "cutoff": "2nd"
     },
     {
-      "id": 101,
-      "cat": "DEBT",
-      "subtype": "Microloan",
-      "item": "GrabLoan A",
-      "channel": "GCash",
-      "date": "9",
-      "ada": "Yes",
-      "cutoff": "1st",
-      "status": "Delayed",
-      "installments": 1,
-      "paid_inst": 0,
-      "balance": 6089.42,
-      "data": {
-        "June": 6089.42
-      }
-    },
-    {
       "id": 303,
       "cat": "BASIC GOODS",
       "item": "Gadget Upgrade (Charger, Headset, Tempered Glass)",
@@ -1099,47 +1000,6 @@
       "date": "11",
       "data": {
         "June": 1599
-      }
-    },
-    {
-      "id": 102,
-      "cat": "DEBT",
-      "subtype": "Digital Bank",
-      "item": "BillEase (GCash Cash Loan)",
-      "channel": "GCash",
-      "date": "1 & 15",
-      "ada": "Yes",
-      "cutoff": "both",
-      "status": "On Time",
-      "installments": 24,
-      "paid_inst": 1,
-      "balance": 41810.78,
-      "data": {
-        "June": 3635.72,
-        "July": 3635.72,
-        "August": 3635.72,
-        "September": 3635.72,
-        "October": 3635.72,
-        "November": 3635.72,
-        "December": 3635.72
-      }
-    },
-    {
-      "id": 304,
-      "cat": "DEBT",
-      "subtype": "Personal",
-      "item": "Ady Evangelista",
-      "channel": "BPI",
-      "date": "15 & 30",
-      "ada": "No",
-      "cutoff": "both",
-      "status": "On Time",
-      "installments": 3,
-      "paid_inst": 1,
-      "balance": 15000,
-      "data": {
-        "June": 5000,
-        "July": 5000
       }
     },
     {
@@ -1157,24 +1017,102 @@
       "balance": 27966.29,
       "data": {
         "June": 5000
-      }
+      },
+      "minPayment": 5000,
+      "totalPayments": 0
     },
     {
       "id": 306,
       "cat": "DEBT",
       "subtype": "Microloan",
       "item": "BillEase (GCash Cash Loan)",
-      "channel": "Paymaya",
+      "channel": "GCash",
       "date": "15 & 30",
-      "ada": "No",
+      "ada": "Yes",
       "cutoff": "both",
       "status": "On Time",
       "installments": 24,
       "paid_inst": 2,
       "balance": 43628.64,
       "data": {
-        "June": 1817.86
-      }
+        "June": 1817.86,
+        "July": 1817.86,
+        "August": 1817.86,
+        "September": 1817.86,
+        "October": 1817.86,
+        "November": 1817.86,
+        "December": 1817.86
+      },
+      "minPayment": 1817.86,
+      "totalPayments": 23
+    },
+    {
+      "id": 307,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "BillEase (BPI Loan)",
+      "channel": "BPI ",
+      "date": "1",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 6,
+      "paid_inst": 1,
+      "balance": 20750.35,
+      "data": {
+        "June": 4150.07,
+        "July": 4150.07,
+        "August": 4150.07,
+        "September": 4150.07,
+        "October": 4150.07,
+        "November": 4150.07
+      },
+      "minPayment": 4150.07,
+      "totalPayments": 6
+    },
+    {
+      "id": 308,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "GLoan",
+      "channel": "GCash",
+      "date": "15",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 6,
+      "paid_inst": 1,
+      "balance": 36940.02,
+      "data": {
+        "July": 6156.67,
+        "August": 6156.67,
+        "September": 6156.67,
+        "October": 6156.67,
+        "November": 6156.67,
+        "December": 6156.67
+      },
+      "minPayment": 6156.67,
+      "totalPayments": 6
+    },
+    {
+      "id": 310,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "FidoPH",
+      "channel": "Paymaya",
+      "date": "11",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 2937,
+      "minPayment": 2937,
+      "totalPayments": 0,
+      "data": {
+        "June": 2937
+      },
+      "_deletedOnFullPay": {}
     }
   ],
   "paid": {
@@ -1197,18 +1135,17 @@
     "June_7_2nd": false,
     "June_9_2nd": false,
     "May_22_debt2": true,
-    "May_24_debt2": true,
-    "May_25_debt2": true,
     "May_26_debt2": true,
     "May_27_debt2": true,
     "June_22_debt1": false,
-    "June_24_debt2": true,
     "June_29_debt2": true,
     "June_30_debt2": true,
-    "June_25_debt2": true,
     "June_303_1st": true,
-    "June_304_debt1": true,
-    "June_306_debt1": true
+    "June_306_debt1": true,
+    "June_307_debt2": true,
+    "June_308_debt1": true,
+    "June_309_debt1": false,
+    "June_310_debt1": true
   },
   "comments": {}
 }
