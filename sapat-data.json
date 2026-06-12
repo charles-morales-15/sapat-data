@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-12T09:50:12.639Z",
+  "exportedAt": "2026-06-12T10:07:33.540Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -1026,7 +1026,7 @@
       "cat": "DEBT",
       "subtype": "Microloan",
       "item": "BillEase (GCash Cash Loan)",
-      "channel": "GCash — +639177238411",
+      "channel": "GCash",
       "date": "15 & 30",
       "ada": "Yes",
       "cutoff": "both",
@@ -1051,7 +1051,7 @@
       "cat": "DEBT",
       "subtype": "Digital Bank",
       "item": "BillEase (BPI Loan)",
-      "channel": "BPI — acct 0019523152",
+      "channel": "BPI ",
       "date": "1",
       "ada": "No",
       "cutoff": "2nd",
@@ -1188,7 +1188,12 @@
       "minPayment": 5617.19,
       "totalPayments": 0,
       "data": {
-        "June": 5617.19
+        "June": 5617.19,
+        "July": 5617.19,
+        "August": 5617.19,
+        "September": 5617.19,
+        "October": 5617.19,
+        "November": 5617.19
       }
     },
     {
@@ -1208,25 +1213,6 @@
       "totalPayments": 0,
       "data": {
         "June": 4209.54
-      }
-    },
-    {
-      "id": 315,
-      "cat": "DEBT",
-      "subtype": "Microloan",
-      "item": "GCredit",
-      "channel": "GCash",
-      "date": "12",
-      "ada": "No",
-      "cutoff": "1st",
-      "status": "On Time",
-      "installments": 0,
-      "paid_inst": 0,
-      "balance": 24848,
-      "minPayment": 5000,
-      "totalPayments": 0,
-      "data": {
-        "June": 5000
       }
     }
   ],
