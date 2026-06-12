@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-11T18:16:00.600Z",
+  "exportedAt": "2026-06-12T09:32:27.933Z",
   "exportedBy": "SAPAT",
-  "month": "August",
+  "month": "June",
   "data": [
     {
       "id": 1,
@@ -1026,7 +1026,7 @@
       "cat": "DEBT",
       "subtype": "Microloan",
       "item": "BillEase (GCash Cash Loan)",
-      "channel": "GCash",
+      "channel": "Paymaya",
       "date": "15 & 30",
       "ada": "Yes",
       "cutoff": "both",
@@ -1051,7 +1051,7 @@
       "cat": "DEBT",
       "subtype": "Digital Bank",
       "item": "BillEase (BPI Loan)",
-      "channel": "BPI ",
+      "channel": "Paymaya",
       "date": "1",
       "ada": "No",
       "cutoff": "2nd",
@@ -1103,14 +1103,14 @@
       "date": "11",
       "ada": "No",
       "cutoff": "1st",
-      "status": "On Time",
-      "installments": 1,
-      "paid_inst": 1,
-      "balance": 2937,
-      "minPayment": 2937,
+      "status": "Delayed",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 3500,
+      "minPayment": 3500,
       "totalPayments": 0,
       "data": {
-        "June": 2937
+        "June": 3500
       },
       "_deletedOnFullPay": {}
     }
@@ -1135,8 +1135,6 @@
     "June_7_2nd": false,
     "June_9_2nd": false,
     "May_22_debt2": true,
-    "May_26_debt2": true,
-    "May_27_debt2": true,
     "June_22_debt1": false,
     "June_29_debt2": true,
     "June_30_debt2": true,
@@ -1144,7 +1142,6 @@
     "June_306_debt1": true,
     "June_307_debt2": true,
     "June_308_debt1": true,
-    "June_309_debt1": false,
     "June_310_debt1": true
   },
   "comments": {}
