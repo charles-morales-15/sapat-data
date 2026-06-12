@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-12T12:50:50.586Z",
+  "exportedAt": "2026-06-12T14:24:16.804Z",
   "exportedBy": "SAPAT",
-  "month": "July",
+  "month": "March",
   "data": [
     {
       "id": 1,
@@ -618,65 +618,14 @@
       },
       "cutoff": "1st",
       "subtype": "Cloud Storage",
-      "paymentTerms": "Monthly"
-    },
-    {
-      "id": 72,
-      "cat": "SUBSCRIPTIONS",
-      "item": "Google Drive",
-      "channel": "GCash",
-      "date": "25",
-      "ada": "Yes",
-      "action": "Keep",
-      "data": {
-        "January": 1199,
-        "February": 1199,
-        "March": 1199,
-        "April": 1100,
-        "May": 1100,
-        "June": 1100,
-        "July": 1100,
-        "August": 1100,
-        "September": 1100,
-        "October": 1100,
-        "November": 1100,
-        "December": 1100
-      },
-      "cutoff": "2nd",
-      "subtype": "Cloud Storage",
-      "paymentTerms": "Monthly"
-    },
-    {
-      "id": 73,
-      "cat": "SUBSCRIPTIONS",
-      "item": "MEGA",
-      "channel": "GCash",
-      "date": "1",
-      "ada": "Yes",
-      "action": "Cut",
-      "data": {
-        "January": 999,
-        "February": 999,
-        "March": 999,
-        "April": 999,
-        "May": 999,
-        "June": 999,
-        "July": 999,
-        "August": 999,
-        "September": 999,
-        "October": 999,
-        "November": 999,
-        "December": 999
-      },
-      "cutoff": "1st",
-      "subtype": "Cloud Storage",
-      "paymentTerms": "Monthly"
+      "paymentTerms": "Monthly",
+      "amount": 499
     },
     {
       "id": 74,
       "cat": "SUBSCRIPTIONS",
       "item": "ChatGPT",
-      "channel": "GCash",
+      "channel": "Paymaya",
       "date": "25",
       "ada": "Yes",
       "action": "Keep",
@@ -693,13 +642,14 @@
       },
       "cutoff": "2nd",
       "subtype": "AI Tools",
-      "paymentTerms": "Monthly"
+      "paymentTerms": "Monthly",
+      "amount": 300
     },
     {
       "id": 75,
       "cat": "SUBSCRIPTIONS",
       "item": "Viber Premium",
-      "channel": "GCash",
+      "channel": "Paymaya",
       "date": "23",
       "ada": "Yes",
       "action": "Cut",
@@ -719,7 +669,8 @@
       },
       "cutoff": "2nd",
       "subtype": "Communication Channel",
-      "paymentTerms": "Monthly"
+      "paymentTerms": "Monthly",
+      "amount": 109
     },
     {
       "id": 76,
@@ -745,7 +696,8 @@
       },
       "cutoff": "1st",
       "subtype": "Entertainment",
-      "paymentTerms": "Monthly"
+      "paymentTerms": "Monthly",
+      "amount": 549
     },
     {
       "id": 77,
@@ -771,30 +723,8 @@
       },
       "cutoff": "1st",
       "subtype": "Entertainment",
-      "paymentTerms": "Monthly"
-    },
-    {
-      "id": 78,
-      "cat": "SUBSCRIPTIONS",
-      "item": "MacroFactor",
-      "channel": "GCash",
-      "date": "20",
-      "ada": "Yes",
-      "action": "Review",
-      "data": {
-        "April": 799,
-        "May": 520,
-        "June": 520,
-        "July": 520,
-        "August": 520,
-        "September": 520,
-        "October": 520,
-        "November": 520,
-        "December": 520
-      },
-      "cutoff": "2nd",
-      "subtype": "Health & Fitness",
-      "paymentTerms": "Monthly"
+      "paymentTerms": "Monthly",
+      "amount": 149
     },
     {
       "id": 85,
@@ -810,7 +740,8 @@
       },
       "cutoff": "1st",
       "subtype": "Entertainment",
-      "paymentTerms": "Annual"
+      "paymentTerms": "Annual",
+      "amount": 1042.18
     },
     {
       "id": 86,
@@ -825,7 +756,8 @@
       },
       "cutoff": "1st",
       "subtype": "Entertainment",
-      "paymentTerms": "Annual"
+      "paymentTerms": "Annual",
+      "amount": 500
     },
     {
       "id": 90,
@@ -1213,7 +1145,8 @@
       "cutoff": "2nd",
       "data": {
         "June": 149
-      }
+      },
+      "amount": 149
     },
     {
       "id": 319,
@@ -1228,7 +1161,8 @@
       "cutoff": "2nd",
       "data": {
         "December": 2990
-      }
+      },
+      "amount": 2990
     },
     {
       "id": 320,
@@ -1243,7 +1177,8 @@
       "cutoff": "2nd",
       "data": {
         "October": 4850
-      }
+      },
+      "amount": 4850
     },
     {
       "id": 321,
@@ -1258,7 +1193,8 @@
       "cutoff": "2nd",
       "data": {
         "December": 4990
-      }
+      },
+      "amount": 4990
     },
     {
       "id": 322,
@@ -1273,7 +1209,8 @@
       "cutoff": "2nd",
       "data": {
         "December": 1890
-      }
+      },
+      "amount": 1890
     },
     {
       "id": 323,
@@ -1288,7 +1225,8 @@
       "cutoff": "2nd",
       "data": {
         "September": 1250
-      }
+      },
+      "amount": 1250
     },
     {
       "id": 324,
@@ -1303,6 +1241,92 @@
       "cutoff": "2nd",
       "data": {
         "June": 599
+      },
+      "amount": 599
+    },
+    {
+      "id": 325,
+      "cat": "SUBSCRIPTIONS",
+      "item": "MacroFactor - Macro Tracker",
+      "channel": "Paymaya",
+      "date": "20",
+      "ada": "Yes",
+      "action": "Keep",
+      "subtype": "Health & Fitness",
+      "paymentTerms": "Monthly",
+      "cutoff": "2nd",
+      "amount": 589,
+      "data": {
+        "June": 589,
+        "July": 589,
+        "August": 589,
+        "September": 589,
+        "October": 589,
+        "November": 589,
+        "December": 589
+      }
+    },
+    {
+      "id": 326,
+      "cat": "SUBSCRIPTIONS",
+      "item": "MEGA",
+      "channel": "Paymaya",
+      "date": "1",
+      "ada": "Yes",
+      "action": "Review",
+      "subtype": "Cloud Storage",
+      "paymentTerms": "Monthly",
+      "cutoff": "1st",
+      "amount": 999,
+      "data": {
+        "June": 999,
+        "July": 999,
+        "August": 999,
+        "September": 999,
+        "October": 999,
+        "November": 999,
+        "December": 999
+      }
+    },
+    {
+      "id": 327,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Telegram",
+      "channel": "Paymaya",
+      "date": "14",
+      "ada": "Yes",
+      "action": "Cut",
+      "subtype": "Communication Channel",
+      "paymentTerms": "Annual",
+      "cutoff": "1st",
+      "amount": 1590,
+      "data": {
+        "March": 1590
+      }
+    },
+    {
+      "id": 328,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Google AI Pro (5TB)",
+      "channel": "Paymaya",
+      "date": "25",
+      "ada": "Yes",
+      "action": "Keep",
+      "subtype": "Cloud Storage",
+      "paymentTerms": "Monthly",
+      "cutoff": "2nd",
+      "amount": 1100,
+      "data": {
+        "March": 1100,
+        "April": 1100,
+        "May": 1100,
+        "June": 1100,
+        "July": 1100,
+        "August": 1100,
+        "September": 1100,
+        "October": 1100,
+        "November": 1100,
+        "December": 1100
       }
     }
   ],
@@ -1338,7 +1362,8 @@
     "June_42_ins": true,
     "December_319_subs": true,
     "October_320_subs": true,
-    "December_322_subs": true
+    "December_322_subs": true,
+    "March_327_subs": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\""
