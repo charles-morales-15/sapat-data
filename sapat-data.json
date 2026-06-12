@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-12T10:44:53.045Z",
+  "exportedAt": "2026-06-12T12:50:50.586Z",
   "exportedBy": "SAPAT",
-  "month": "June",
+  "month": "July",
   "data": [
     {
       "id": 1,
@@ -140,7 +140,7 @@
       "id": 8,
       "cat": "BASIC GOODS",
       "item": "Laundry (1st)",
-      "channel": "Cash",
+      "channel": "BPI",
       "cutoff": "1st",
       "ada": "No",
       "data": {
@@ -149,7 +149,7 @@
         "March": 700,
         "April": 700,
         "May": 700,
-        "June": 700,
+        "June": 680,
         "July": 700,
         "August": 700,
         "September": 700,
@@ -244,7 +244,7 @@
         "July": 3775.1
       },
       "cutoff": "2nd",
-      "minPayment": 3775.1,
+      "minPayment": 3995.15,
       "totalPayments": 0
     },
     {
@@ -263,7 +263,7 @@
         "June": 1926.67
       },
       "cutoff": "2nd",
-      "minPayment": 1926.67,
+      "minPayment": 1926.17,
       "totalPayments": 0
     },
     {
@@ -598,7 +598,7 @@
       "id": 70,
       "cat": "SUBSCRIPTIONS",
       "item": "Apple One",
-      "channel": "GCash",
+      "channel": "Paymaya",
       "date": "7",
       "ada": "Yes",
       "action": "Keep",
@@ -616,31 +616,9 @@
         "November": 499,
         "December": 499
       },
-      "cutoff": "1st"
-    },
-    {
-      "id": 71,
-      "cat": "SUBSCRIPTIONS",
-      "item": "iCloud+ 2TB",
-      "channel": "GCash",
-      "date": "23",
-      "ada": "Yes",
-      "action": "Review",
-      "data": {
-        "January": 599,
-        "February": 599,
-        "March": 599,
-        "April": 599,
-        "May": 599,
-        "June": 599,
-        "July": 599,
-        "August": 599,
-        "September": 599,
-        "October": 599,
-        "November": 599,
-        "December": 599
-      },
-      "cutoff": "2nd"
+      "cutoff": "1st",
+      "subtype": "Cloud Storage",
+      "paymentTerms": "Monthly"
     },
     {
       "id": 72,
@@ -664,7 +642,9 @@
         "November": 1100,
         "December": 1100
       },
-      "cutoff": "2nd"
+      "cutoff": "2nd",
+      "subtype": "Cloud Storage",
+      "paymentTerms": "Monthly"
     },
     {
       "id": 73,
@@ -688,7 +668,9 @@
         "November": 999,
         "December": 999
       },
-      "cutoff": "1st"
+      "cutoff": "1st",
+      "subtype": "Cloud Storage",
+      "paymentTerms": "Monthly"
     },
     {
       "id": 74,
@@ -709,7 +691,9 @@
         "November": 300,
         "December": 300
       },
-      "cutoff": "2nd"
+      "cutoff": "2nd",
+      "subtype": "AI Tools",
+      "paymentTerms": "Monthly"
     },
     {
       "id": 75,
@@ -733,7 +717,9 @@
         "November": 109,
         "December": 109
       },
-      "cutoff": "2nd"
+      "cutoff": "2nd",
+      "subtype": "Communication Channel",
+      "paymentTerms": "Monthly"
     },
     {
       "id": 76,
@@ -757,7 +743,9 @@
         "November": 549,
         "December": 549
       },
-      "cutoff": "1st"
+      "cutoff": "1st",
+      "subtype": "Entertainment",
+      "paymentTerms": "Monthly"
     },
     {
       "id": 77,
@@ -781,7 +769,9 @@
         "November": 149,
         "December": 149
       },
-      "cutoff": "1st"
+      "cutoff": "1st",
+      "subtype": "Entertainment",
+      "paymentTerms": "Monthly"
     },
     {
       "id": 78,
@@ -802,85 +792,9 @@
         "November": 520,
         "December": 520
       },
-      "cutoff": "2nd"
-    },
-    {
-      "id": 79,
-      "cat": "SUBSCRIPTIONS",
-      "item": "Hevy",
-      "channel": "GCash",
-      "date": "Sep",
-      "ada": "Yes",
-      "action": "Review",
-      "data": {
-        "September": 1250
-      },
-      "cutoff": "1st"
-    },
-    {
-      "id": 80,
-      "cat": "SUBSCRIPTIONS",
-      "item": "Apple Fitness+",
-      "channel": "GCash",
-      "date": "Jun",
-      "ada": "Yes",
-      "action": "Cut",
-      "data": {
-        "June": 149
-      },
-      "cutoff": "1st"
-    },
-    {
-      "id": 81,
-      "cat": "SUBSCRIPTIONS",
-      "item": "Disney+",
-      "channel": "GCash",
-      "date": "Oct",
-      "ada": "Yes",
-      "action": "Review",
-      "data": {
-        "October": 4850
-      },
-      "cutoff": "1st"
-    },
-    {
-      "id": 82,
-      "cat": "SUBSCRIPTIONS",
-      "item": "HBO Max",
-      "channel": "GCash",
-      "date": "Dec",
-      "ada": "Yes",
-      "action": "Review",
-      "data": {
-        "December": 1890
-      },
-      "cutoff": "1st"
-    },
-    {
-      "id": 83,
-      "cat": "SUBSCRIPTIONS",
-      "item": "Co-Star",
-      "channel": "GCash",
-      "date": "Dec",
-      "ada": "Yes",
-      "action": "Cut",
-      "data": {
-        "December": 2990
-      },
-      "cutoff": "1st"
-    },
-    {
-      "id": 84,
-      "cat": "SUBSCRIPTIONS",
-      "item": "Duolingo",
-      "channel": "GCash",
-      "date": "Dec",
-      "ada": "Yes",
-      "action": "Review",
-      "data": {
-        "December": 4990
-      },
-      "cutoff": "1st"
+      "cutoff": "2nd",
+      "subtype": "Health & Fitness",
+      "paymentTerms": "Monthly"
     },
     {
       "id": 85,
@@ -894,7 +808,9 @@
         "April": 1042.18,
         "October": 2250
       },
-      "cutoff": "1st"
+      "cutoff": "1st",
+      "subtype": "Entertainment",
+      "paymentTerms": "Annual"
     },
     {
       "id": 86,
@@ -907,7 +823,9 @@
       "data": {
         "April": 500
       },
-      "cutoff": "1st"
+      "cutoff": "1st",
+      "subtype": "Entertainment",
+      "paymentTerms": "Annual"
     },
     {
       "id": 90,
@@ -1241,7 +1159,7 @@
       "channel": "GCash",
       "date": "29",
       "ada": "No",
-      "cutoff": "2nd",
+      "cutoff": "1st",
       "status": "On Time",
       "installments": 6,
       "paid_inst": 0,
@@ -1254,7 +1172,8 @@
         "September": 5000,
         "October": 5000,
         "November": 5000
-      }
+      },
+      "totalPayments": 0
     },
     {
       "id": 317,
@@ -1269,7 +1188,7 @@
       "installments": 12,
       "paid_inst": 0,
       "balance": 10755.16,
-      "minPayment": 10755.16,
+      "minPayment": 10705.16,
       "data": {
         "June": 10755.16,
         "July": 10755.16,
@@ -1278,6 +1197,112 @@
         "October": 10755.16,
         "November": 10755.16,
         "December": 10755.16
+      },
+      "totalPayments": 0
+    },
+    {
+      "id": 318,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Apple Fitness+",
+      "channel": "Paymaya",
+      "date": "28",
+      "ada": "Yes",
+      "action": "Keep",
+      "subtype": "Health & Fitness",
+      "paymentTerms": "Monthly",
+      "cutoff": "2nd",
+      "data": {
+        "June": 149
+      }
+    },
+    {
+      "id": 319,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Co-Star Personalized Astrology",
+      "channel": "Paymaya",
+      "date": "17",
+      "ada": "Yes",
+      "action": "Cut",
+      "subtype": "Educational",
+      "paymentTerms": "Annual",
+      "cutoff": "2nd",
+      "data": {
+        "December": 2990
+      }
+    },
+    {
+      "id": 320,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Disney+",
+      "channel": "Paymaya",
+      "date": "30",
+      "ada": "Yes",
+      "action": "Cut",
+      "subtype": "Entertainment",
+      "paymentTerms": "Annual",
+      "cutoff": "2nd",
+      "data": {
+        "October": 4850
+      }
+    },
+    {
+      "id": 321,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Duolingo",
+      "channel": "Paymaya",
+      "date": "16",
+      "ada": "Yes",
+      "action": "Keep",
+      "subtype": "Educational",
+      "paymentTerms": "Annual",
+      "cutoff": "2nd",
+      "data": {
+        "December": 4990
+      }
+    },
+    {
+      "id": 322,
+      "cat": "SUBSCRIPTIONS",
+      "item": "HBO Max",
+      "channel": "Paymaya",
+      "date": "30",
+      "ada": "Yes",
+      "action": "Cut",
+      "subtype": "Entertainment",
+      "paymentTerms": "Annual",
+      "cutoff": "2nd",
+      "data": {
+        "December": 1890
+      }
+    },
+    {
+      "id": 323,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Hevy - Workout Tracker Gym Log",
+      "channel": "Paymaya",
+      "date": "29",
+      "ada": "Yes",
+      "action": "Keep",
+      "subtype": "Health & Fitness",
+      "paymentTerms": "Annual",
+      "cutoff": "2nd",
+      "data": {
+        "September": 1250
+      }
+    },
+    {
+      "id": 324,
+      "cat": "SUBSCRIPTIONS",
+      "item": "iCloud+ with 2 TB of storage",
+      "channel": "Paymaya",
+      "date": "23",
+      "ada": "Yes",
+      "action": "Keep",
+      "subtype": "Cloud Storage",
+      "paymentTerms": "Monthly",
+      "cutoff": "2nd",
+      "data": {
+        "June": 599
       }
     }
   ],
@@ -1296,7 +1321,7 @@
     "June_2_2nd": false,
     "June_3_2nd": false,
     "June_6_2nd": true,
-    "June_8_1st": false,
+    "June_8_1st": true,
     "June_10_2nd": false,
     "June_7_2nd": false,
     "June_9_2nd": false,
@@ -1309,7 +1334,13 @@
     "June_307_debt2": true,
     "June_308_debt1": true,
     "June_310_debt1": true,
-    "June_311_debt1": true
+    "June_311_debt1": true,
+    "June_42_ins": true,
+    "December_319_subs": true,
+    "October_320_subs": true,
+    "December_322_subs": true
   },
-  "comments": {}
+  "comments": {
+    "cmt_8_1st_June": "\"June 12 pick up\""
+  }
 }
