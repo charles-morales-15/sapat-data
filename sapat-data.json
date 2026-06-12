@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-12T10:43:25.475Z",
+  "exportedAt": "2026-06-12T10:44:53.045Z",
   "exportedBy": "SAPAT",
-  "month": "July",
+  "month": "June",
   "data": [
     {
       "id": 1,
@@ -1254,6 +1254,30 @@
         "September": 5000,
         "October": 5000,
         "November": 5000
+      }
+    },
+    {
+      "id": 317,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "MayaCredit",
+      "channel": "Paymaya",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 12,
+      "paid_inst": 0,
+      "balance": 10755.16,
+      "minPayment": 10755.16,
+      "data": {
+        "June": 10755.16,
+        "July": 10755.16,
+        "August": 10755.16,
+        "September": 10755.16,
+        "October": 10755.16,
+        "November": 10755.16,
+        "December": 10755.16
       }
     }
   ],
