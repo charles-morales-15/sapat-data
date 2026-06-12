@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-12T14:24:16.804Z",
+  "exportedAt": "2026-06-12T22:40:49.975Z",
   "exportedBy": "SAPAT",
-  "month": "March",
+  "month": "July",
   "data": [
     {
       "id": 1,
@@ -975,13 +975,14 @@
       "cutoff": "1st",
       "status": "Delayed",
       "installments": 1,
-      "paid_inst": 0,
+      "paid_inst": 1,
       "balance": 6089.42,
       "data": {
         "June": 6089.42
       },
       "minPayment": 6089.42,
-      "totalPayments": 1
+      "totalPayments": 1,
+      "_deletedOnFullPay": {}
     },
     {
       "id": 311,
@@ -1057,13 +1058,14 @@
       "cutoff": "1st",
       "status": "Delayed",
       "installments": 1,
-      "paid_inst": 0,
+      "paid_inst": 1,
       "balance": 4209.54,
       "minPayment": 4209.54,
       "totalPayments": 0,
       "data": {
         "June": 4209.54
-      }
+      },
+      "_deletedOnFullPay": {}
     },
     {
       "id": 315,
@@ -1082,30 +1084,6 @@
       "data": {
         "June": 4410
       }
-    },
-    {
-      "id": 316,
-      "cat": "DEBT",
-      "subtype": "Digital Bank",
-      "item": "GCredit",
-      "channel": "GCash",
-      "date": "29",
-      "ada": "No",
-      "cutoff": "1st",
-      "status": "On Time",
-      "installments": 6,
-      "paid_inst": 0,
-      "balance": 24848,
-      "minPayment": 5000,
-      "data": {
-        "June": 5000,
-        "July": 5000,
-        "August": 5000,
-        "September": 5000,
-        "October": 5000,
-        "November": 5000
-      },
-      "totalPayments": 0
     },
     {
       "id": 317,
@@ -1328,6 +1306,30 @@
         "November": 1100,
         "December": 1100
       }
+    },
+    {
+      "id": 316,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "GCredit",
+      "channel": "GCash",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 6,
+      "paid_inst": 0,
+      "balance": 24848,
+      "minPayment": 5000,
+      "data": {
+        "June": 5000,
+        "July": 5000,
+        "August": 5000,
+        "September": 5000,
+        "October": 5000,
+        "November": 5000
+      },
+      "totalPayments": 0
     }
   ],
   "paid": {
@@ -1363,7 +1365,16 @@
     "December_319_subs": true,
     "October_320_subs": true,
     "December_322_subs": true,
-    "March_327_subs": true
+    "March_327_subs": true,
+    "February_63_ut": true,
+    "February_65_ut": true,
+    "March_63_ut": true,
+    "February_61_ut": true,
+    "February_62_ut": true,
+    "February_64_ut": true,
+    "June_101_debt1": true,
+    "June_314_debt1": true,
+    "June_306_debt2": false
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\""
