@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-12T09:32:27.933Z",
+  "exportedAt": "2026-06-12T09:50:12.639Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -1026,7 +1026,7 @@
       "cat": "DEBT",
       "subtype": "Microloan",
       "item": "BillEase (GCash Cash Loan)",
-      "channel": "Paymaya",
+      "channel": "GCash — +639177238411",
       "date": "15 & 30",
       "ada": "Yes",
       "cutoff": "both",
@@ -1051,7 +1051,7 @@
       "cat": "DEBT",
       "subtype": "Digital Bank",
       "item": "BillEase (BPI Loan)",
-      "channel": "Paymaya",
+      "channel": "BPI — acct 0019523152",
       "date": "1",
       "ada": "No",
       "cutoff": "2nd",
@@ -1113,6 +1113,121 @@
         "June": 3500
       },
       "_deletedOnFullPay": {}
+    },
+    {
+      "id": 101,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "GrabLoan A",
+      "channel": "GCash",
+      "date": "9",
+      "ada": "Yes",
+      "cutoff": "1st",
+      "status": "Delayed",
+      "installments": 1,
+      "paid_inst": 0,
+      "balance": 6089.42,
+      "data": {
+        "June": 6089.42
+      },
+      "minPayment": 6089.42,
+      "totalPayments": 1
+    },
+    {
+      "id": 311,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Ady Evangelista",
+      "channel": "BPI",
+      "date": "15 & 30",
+      "ada": "No",
+      "cutoff": "both",
+      "status": "On Time",
+      "installments": 3,
+      "paid_inst": 0,
+      "balance": 15000,
+      "minPayment": 5000,
+      "totalPayments": 3,
+      "data": {
+        "June": 5000,
+        "July": 5000
+      }
+    },
+    {
+      "id": 312,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Cha Mendoza Batongbakal",
+      "channel": "BPI",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 0,
+      "balance": 15000,
+      "minPayment": 15000,
+      "totalPayments": 0,
+      "data": {
+        "June": 15000
+      }
+    },
+    {
+      "id": 313,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "Grab Loan B",
+      "channel": "GCash",
+      "date": "22",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "Delayed",
+      "installments": 6,
+      "paid_inst": 0,
+      "balance": 33703.16,
+      "minPayment": 5617.19,
+      "totalPayments": 0,
+      "data": {
+        "June": 5617.19
+      }
+    },
+    {
+      "id": 314,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "Grab Loan C",
+      "channel": "GCash",
+      "date": "12",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "Delayed",
+      "installments": 1,
+      "paid_inst": 0,
+      "balance": 4209.54,
+      "minPayment": 4209.54,
+      "totalPayments": 0,
+      "data": {
+        "June": 4209.54
+      }
+    },
+    {
+      "id": 315,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "GCredit",
+      "channel": "GCash",
+      "date": "12",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 24848,
+      "minPayment": 5000,
+      "totalPayments": 0,
+      "data": {
+        "June": 5000
+      }
     }
   ],
   "paid": {
@@ -1142,7 +1257,8 @@
     "June_306_debt1": true,
     "June_307_debt2": true,
     "June_308_debt1": true,
-    "June_310_debt1": true
+    "June_310_debt1": true,
+    "June_311_debt1": true
   },
   "comments": {}
 }
