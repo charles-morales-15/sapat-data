@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-12T10:07:33.540Z",
+  "exportedAt": "2026-06-12T10:43:25.475Z",
   "exportedBy": "SAPAT",
-  "month": "June",
+  "month": "July",
   "data": [
     {
       "id": 1,
@@ -244,7 +244,7 @@
         "July": 3775.1
       },
       "cutoff": "2nd",
-      "minPayment": 3995.15,
+      "minPayment": 3775.1,
       "totalPayments": 0
     },
     {
@@ -258,12 +258,12 @@
       "status": "On Time",
       "installments": 0,
       "paid_inst": 0,
-      "balance": 8000,
+      "balance": 8500,
       "data": {
         "June": 1926.67
       },
       "cutoff": "2nd",
-      "minPayment": 1926.17,
+      "minPayment": 1926.67,
       "totalPayments": 0
     },
     {
@@ -1051,7 +1051,7 @@
       "cat": "DEBT",
       "subtype": "Digital Bank",
       "item": "BillEase (BPI Loan)",
-      "channel": "BPI ",
+      "channel": "BPI",
       "date": "1",
       "ada": "No",
       "cutoff": "2nd",
@@ -1213,6 +1213,47 @@
       "totalPayments": 0,
       "data": {
         "June": 4209.54
+      }
+    },
+    {
+      "id": 315,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Angelica Franzes Pineda",
+      "channel": "BPI",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 4410,
+      "minPayment": 4410,
+      "data": {
+        "June": 4410
+      }
+    },
+    {
+      "id": 316,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "GCredit",
+      "channel": "GCash",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 6,
+      "paid_inst": 0,
+      "balance": 24848,
+      "minPayment": 5000,
+      "data": {
+        "June": 5000,
+        "July": 5000,
+        "August": 5000,
+        "September": 5000,
+        "October": 5000,
+        "November": 5000
       }
     }
   ],
