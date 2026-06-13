@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-12T22:40:49.975Z",
+  "exportedAt": "2026-06-13T00:19:37.580Z",
   "exportedBy": "SAPAT",
-  "month": "July",
+  "month": "June",
   "data": [
     {
       "id": 1,
@@ -784,8 +784,7 @@
       "data": {
         "January": 9000,
         "March": 10000,
-        "May": 4475.35,
-        "June": 4401
+        "May": 4475.35
       },
       "cutoff": "2nd"
     },
@@ -830,7 +829,6 @@
         "March": 3000,
         "April": 3000,
         "May": 600,
-        "June": 3000,
         "July": 3000,
         "August": 3000,
         "September": 3000,
@@ -1322,7 +1320,6 @@
       "balance": 24848,
       "minPayment": 5000,
       "data": {
-        "June": 5000,
         "July": 5000,
         "August": 5000,
         "September": 5000,
@@ -1374,7 +1371,11 @@
     "February_64_ut": true,
     "June_101_debt1": true,
     "June_314_debt1": true,
-    "June_306_debt2": false
+    "June_306_debt2": false,
+    "June_70_subs": true,
+    "June_326_subs": true,
+    "June_76_subs": true,
+    "June_77_subs": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\""
