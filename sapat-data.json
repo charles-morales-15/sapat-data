@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-14T17:39:49.796Z",
+  "exportedAt": "2026-06-14T17:43:01.518Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -1363,6 +1363,18 @@
         "October": 6156.67,
         "November": 6156.67
       }
+    },
+    {
+      "id": 330,
+      "cat": "BASIC GOODS",
+      "item": "Meal Plan (Week 2)",
+      "channel": "BPI",
+      "cutoff": "1st",
+      "ada": "No",
+      "date": "11",
+      "data": {
+        "June": 4000
+      }
     }
   ],
   "paid": {
@@ -1426,7 +1438,8 @@
     "May_61_ut": true,
     "May_62_ut": true,
     "May_64_ut": true,
-    "June_329_debt2": true
+    "June_329_debt2": true,
+    "June_330_1st": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\""
