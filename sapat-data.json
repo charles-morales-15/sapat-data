@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-14T17:02:59.984Z",
+  "exportedAt": "2026-06-14T17:39:49.796Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -1323,7 +1323,7 @@
       "subtype": "Digital Bank",
       "item": "GCredit",
       "channel": "GCash",
-      "date": "29",
+      "date": "13",
       "ada": "No",
       "cutoff": "1st",
       "status": "On Time",
@@ -1340,6 +1340,29 @@
         "December": 5000
       },
       "totalPayments": 0
+    },
+    {
+      "id": 329,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "GLoan",
+      "channel": "GCash",
+      "date": "17",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 6,
+      "paid_inst": 1,
+      "balance": 30783.25,
+      "minPayment": 6156.67,
+      "data": {
+        "June": 6156.67,
+        "July": 6156.67,
+        "August": 6156.67,
+        "September": 6156.67,
+        "October": 6156.67,
+        "November": 6156.67
+      }
     }
   ],
   "paid": {
@@ -1402,7 +1425,8 @@
     "May_60_ut": true,
     "May_61_ut": true,
     "May_62_ut": true,
-    "May_64_ut": true
+    "May_64_ut": true,
+    "June_329_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\""
