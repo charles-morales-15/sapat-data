@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-13T00:19:37.580Z",
+  "exportedAt": "2026-06-14T11:05:31.613Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -454,9 +454,13 @@
         "September": 10000,
         "October": 10000,
         "November": 10000,
-        "December": 10000
+        "December": 10000,
+        "February": 10000,
+        "March": 10000,
+        "April": 10000
       },
-      "cutoff": "2nd"
+      "cutoff": "2nd",
+      "subtype": "Condo"
     },
     {
       "id": 61,
@@ -479,7 +483,8 @@
         "November": 2246.18,
         "December": 2246.18
       },
-      "cutoff": "2nd"
+      "cutoff": "2nd",
+      "subtype": "Condo"
     },
     {
       "id": 62,
@@ -494,7 +499,7 @@
         "March": 1400,
         "April": 11552,
         "May": 4848,
-        "June": 5000,
+        "June": 5246,
         "July": 5000,
         "August": 5000,
         "September": 5000,
@@ -502,12 +507,13 @@
         "November": 5000,
         "December": 5000
       },
-      "cutoff": "2nd"
+      "cutoff": "2nd",
+      "subtype": "Personal"
     },
     {
       "id": 63,
       "cat": "UTILITIES",
-      "item": "House Rent (Mom)",
+      "item": "House Rent",
       "channel": "BPI",
       "date": "15",
       "ada": "Yes",
@@ -517,15 +523,16 @@
         "March": 10000,
         "April": 10000,
         "May": 10000,
-        "June": 13000,
-        "July": 13000,
+        "June": 10000,
+        "July": 10000,
         "August": 13000,
         "September": 13000,
         "October": 13000,
         "November": 13000,
         "December": 13000
       },
-      "cutoff": "1st"
+      "cutoff": "1st",
+      "subtype": "House"
     },
     {
       "id": 64,
@@ -548,7 +555,8 @@
         "November": 3000,
         "December": 3000
       },
-      "cutoff": "2nd"
+      "cutoff": "2nd",
+      "subtype": "Condo"
     },
     {
       "id": 65,
@@ -571,7 +579,8 @@
         "November": 2533.4,
         "December": 2533.4
       },
-      "cutoff": "1st"
+      "cutoff": "1st",
+      "subtype": "House"
     },
     {
       "id": 66,
@@ -590,9 +599,12 @@
         "September": 1500,
         "October": 1500,
         "November": 1500,
-        "December": 1500
+        "December": 1500,
+        "February": 4500,
+        "March": 4500
       },
-      "cutoff": "1st"
+      "cutoff": "1st",
+      "subtype": "Condo"
     },
     {
       "id": 70,
@@ -1324,7 +1336,8 @@
         "August": 5000,
         "September": 5000,
         "October": 5000,
-        "November": 5000
+        "November": 5000,
+        "December": 5000
       },
       "totalPayments": 0
     }
@@ -1375,7 +1388,21 @@
     "June_70_subs": true,
     "June_326_subs": true,
     "June_76_subs": true,
-    "June_77_subs": true
+    "June_77_subs": true,
+    "May_63_ut": true,
+    "May_65_ut": true,
+    "May_66_ut": true,
+    "June_63_ut": true,
+    "June_65_ut": false,
+    "June_66_ut": true,
+    "June_60_ut": false,
+    "June_61_ut": false,
+    "June_62_ut": false,
+    "June_64_ut": false,
+    "May_60_ut": true,
+    "May_61_ut": true,
+    "May_62_ut": true,
+    "May_64_ut": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\""
