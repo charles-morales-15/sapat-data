@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-14T17:43:01.518Z",
+  "exportedAt": "2026-06-14T17:47:27.187Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -1353,7 +1353,7 @@
       "status": "On Time",
       "installments": 6,
       "paid_inst": 1,
-      "balance": 30783.25,
+      "balance": 36939.92,
       "minPayment": 6156.67,
       "data": {
         "June": 6156.67,
