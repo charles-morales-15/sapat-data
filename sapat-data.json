@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-14T16:58:32.046Z",
+  "exportedAt": "2026-06-14T17:02:59.984Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -1356,7 +1356,7 @@
     "June_4_1st": true,
     "June_2_2nd": false,
     "June_3_2nd": false,
-    "June_6_2nd": true,
+    "June_6_2nd": false,
     "June_8_1st": true,
     "June_10_2nd": false,
     "June_7_2nd": false,
