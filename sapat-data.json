@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-28T07:35:36.188Z",
+  "exportedAt": "2026-06-28T07:50:06.037Z",
   "exportedBy": "SAPAT",
-  "month": "June",
+  "month": "July",
   "data": [
     {
       "id": 1,
@@ -1000,7 +1000,7 @@
       "cutoff": "2nd",
       "status": "Delayed",
       "installments": 6,
-      "paid_inst": 0,
+      "paid_inst": 1,
       "balance": 33703.16,
       "minPayment": 5617.19,
       "totalPayments": 0,
@@ -1062,19 +1062,21 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 12,
-      "paid_inst": 0,
+      "paid_inst": 12,
       "balance": 10755.16,
       "minPayment": 10705.16,
       "data": {
-        "June": 10755.16,
+        "June": 10755.16
+      },
+      "totalPayments": 0,
+      "_deletedOnFullPay": {
         "July": 10755.16,
         "August": 10755.16,
         "September": 10755.16,
         "October": 10755.16,
         "November": 10755.16,
         "December": 10755.16
-      },
-      "totalPayments": 0
+      }
     },
     {
       "id": 318,
@@ -1285,8 +1287,8 @@
       "status": "On Time",
       "installments": 6,
       "paid_inst": 0,
-      "balance": 24848,
-      "minPayment": 5000,
+      "balance": 26438.27,
+      "minPayment": 6438.27,
       "data": {
         "July": 5000,
         "August": 5000,
@@ -1406,6 +1408,83 @@
       "balance": 3440,
       "minPayment": 0,
       "data": {}
+    },
+    {
+      "id": 337,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Raynold Louie Salazar",
+      "channel": "BPI",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 0,
+      "balance": 3440,
+      "minPayment": 3440,
+      "data": {
+        "June": 3440
+      }
+    },
+    {
+      "id": 338,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Francis Nicko Ramos",
+      "channel": "BPI",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 0,
+      "balance": 5789.94,
+      "minPayment": 5789.94,
+      "data": {
+        "June": 5789.94
+      }
+    },
+    {
+      "id": 339,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "Maya Credit",
+      "channel": "Paymaya",
+      "date": "12",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 0,
+      "balance": 10755.16,
+      "minPayment": 10755.16,
+      "data": {
+        "July": 10755.16
+      }
+    },
+    {
+      "id": 340,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "GGives - Zalora",
+      "channel": "GCash",
+      "date": "24",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 6,
+      "paid_inst": 0,
+      "balance": 20298.06,
+      "minPayment": 3383.01,
+      "data": {
+        "July": 3383.01,
+        "August": 3383.01,
+        "September": 3383.01,
+        "October": 3383.01,
+        "November": 3383.01,
+        "December": 3383.01
+      }
     }
   ],
   "paid": {
@@ -1468,7 +1547,9 @@
     "May_62_ut": true,
     "May_64_ut": true,
     "June_329_debt2": true,
-    "June_330_1st": true
+    "June_330_1st": true,
+    "June_313_debt2": true,
+    "June_317_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\""
