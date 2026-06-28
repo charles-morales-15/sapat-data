@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-28T07:50:06.037Z",
+  "exportedAt": "2026-06-28T15:00:47.821Z",
   "exportedBy": "SAPAT",
   "month": "July",
   "data": [
@@ -372,25 +372,6 @@
         "October": 10000,
         "November": 10000,
         "December": 10000
-      },
-      "cutoff": "2nd"
-    },
-    {
-      "id": 52,
-      "cat": "INVESTMENTS",
-      "item": "SSS WISP Plus",
-      "channel": "Paymaya",
-      "date": "30",
-      "ada": "No",
-      "goal": "Retirement",
-      "data": {
-        "June": 5000,
-        "July": 5000,
-        "August": 5000,
-        "September": 5000,
-        "October": 5000,
-        "November": 5000,
-        "December": 5000
       },
       "cutoff": "2nd"
     },
@@ -1549,7 +1530,14 @@
     "June_329_debt2": true,
     "June_330_1st": true,
     "June_313_debt2": true,
-    "June_317_debt2": true
+    "June_317_debt2": true,
+    "July_42_ins": true,
+    "June_75_subs": true,
+    "June_324_subs": true,
+    "June_325_subs": true,
+    "June_74_subs": true,
+    "June_328_subs": true,
+    "June_318_subs": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\""
