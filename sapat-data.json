@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-14T17:47:27.187Z",
+  "exportedAt": "2026-06-28T07:35:36.188Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -171,7 +171,7 @@
         "March": 700,
         "April": 700,
         "May": 700,
-        "June": 700,
+        "June": 1140,
         "July": 700,
         "August": 700,
         "September": 700,
@@ -203,31 +203,6 @@
       }
     },
     {
-      "id": 22,
-      "cat": "DEBT",
-      "subtype": "Credit Card",
-      "item": "Unionbank CC (Restructured)",
-      "channel": "Unionbank App / OTC",
-      "date": "15",
-      "ada": "No",
-      "status": "On Time",
-      "installments": 12,
-      "paid_inst": 0,
-      "balance": 272184.84,
-      "data": {
-        "June": 22682.07,
-        "July": 22682.07,
-        "August": 22682.07,
-        "September": 22682.07,
-        "October": 22682.07,
-        "November": 22682.07,
-        "December": 22682.07
-      },
-      "cutoff": "1st",
-      "minPayment": 22682.07,
-      "totalPayments": 12
-    },
-    {
       "id": 29,
       "cat": "DEBT",
       "subtype": "Digital Bank",
@@ -238,7 +213,7 @@
       "status": "On Time",
       "installments": 0,
       "paid_inst": 0,
-      "balance": 8000,
+      "balance": 11488.24,
       "data": {
         "June": 3754.67,
         "July": 3775.1
@@ -863,25 +838,6 @@
       }
     },
     {
-      "id": 305,
-      "cat": "DEBT",
-      "subtype": "Credit Card",
-      "item": "BPI Credit Card",
-      "channel": "BPI",
-      "date": "29",
-      "ada": "No",
-      "cutoff": "2nd",
-      "status": "On Time",
-      "installments": 0,
-      "paid_inst": 0,
-      "balance": 27966.29,
-      "data": {
-        "June": 5000
-      },
-      "minPayment": 5000,
-      "totalPayments": 0
-    },
-    {
       "id": 306,
       "cat": "DEBT",
       "subtype": "Microloan",
@@ -1375,6 +1331,81 @@
       "data": {
         "June": 4000
       }
+    },
+    {
+      "id": 331,
+      "cat": "BASIC GOODS",
+      "item": "Ate Chie's Medicine",
+      "channel": "BPI",
+      "cutoff": "2nd",
+      "ada": "No",
+      "date": "29",
+      "data": {
+        "June": 5000
+      }
+    },
+    {
+      "id": 334,
+      "cat": "DEBT",
+      "subtype": "Credit Card",
+      "item": "Unionbank",
+      "channel": "Unionbank",
+      "date": "7",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 11,
+      "paid_inst": 0,
+      "balance": 249502.77,
+      "minPayment": 22682.07,
+      "data": {
+        "July": 22682.07,
+        "August": 22682.07,
+        "September": 22682.07,
+        "October": 22682.07,
+        "November": 22682.07,
+        "December": 22682.07
+      }
+    },
+    {
+      "id": 335,
+      "cat": "DEBT",
+      "subtype": "Credit Card",
+      "item": "BPI CC",
+      "channel": "BPI",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 36,
+      "paid_inst": 0,
+      "balance": 27966.29,
+      "minPayment": 5966.29,
+      "data": {
+        "June": 5966.29,
+        "July": 5966.29,
+        "August": 5966.29,
+        "September": 5966.29,
+        "October": 5966.29,
+        "November": 5966.29,
+        "December": 5966.29
+      }
+    },
+    {
+      "id": 336,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Raynold Louie Salazar",
+      "channel": "BPI",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 0,
+      "balance": 3440,
+      "minPayment": 0,
+      "data": {}
     }
   ],
   "paid": {
@@ -1391,13 +1422,11 @@
     "June_4_1st": true,
     "June_2_2nd": false,
     "June_3_2nd": false,
-    "June_6_2nd": false,
+    "June_6_2nd": true,
     "June_8_1st": true,
     "June_10_2nd": false,
-    "June_7_2nd": false,
+    "June_7_2nd": true,
     "June_9_2nd": false,
-    "May_22_debt2": true,
-    "June_22_debt1": false,
     "June_29_debt2": true,
     "June_30_debt2": true,
     "June_303_1st": true,
