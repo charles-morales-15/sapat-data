@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-29T10:57:48.500Z",
+  "exportedAt": "2026-06-29T11:37:45.526Z",
   "exportedBy": "SAPAT",
-  "month": "June",
+  "month": "July",
   "data": [
     {
       "id": 1,
@@ -24,7 +24,8 @@
         "October": 3000,
         "November": 3000,
         "December": 3000
-      }
+      },
+      "subtype": "Family"
     },
     {
       "id": 2,
@@ -46,7 +47,8 @@
         "October": 3000,
         "November": 3000,
         "December": 3000
-      }
+      },
+      "subtype": "Family"
     },
     {
       "id": 3,
@@ -68,7 +70,8 @@
         "October": 160,
         "November": 160,
         "December": 160
-      }
+      },
+      "subtype": "Food & Grocery"
     },
     {
       "id": 4,
@@ -90,7 +93,8 @@
         "October": 5000,
         "November": 5000,
         "December": 5000
-      }
+      },
+      "subtype": "Food & Grocery"
     },
     {
       "id": 6,
@@ -112,7 +116,8 @@
         "October": 5000,
         "November": 5000,
         "December": 5000
-      }
+      },
+      "subtype": "Food & Grocery"
     },
     {
       "id": 7,
@@ -134,7 +139,8 @@
         "October": 5000,
         "November": 5000,
         "December": 5000
-      }
+      },
+      "subtype": "Food & Grocery"
     },
     {
       "id": 8,
@@ -156,7 +162,8 @@
         "October": 700,
         "November": 700,
         "December": 700
-      }
+      },
+      "subtype": "Clothing"
     },
     {
       "id": 9,
@@ -178,7 +185,8 @@
         "October": 700,
         "November": 700,
         "December": 700
-      }
+      },
+      "subtype": "Clothing"
     },
     {
       "id": 10,
@@ -200,7 +208,8 @@
         "October": 1750,
         "November": 1750,
         "December": 1750
-      }
+      },
+      "subtype": "Health"
     },
     {
       "id": 29,
@@ -1260,7 +1269,7 @@
       "installments": 6,
       "paid_inst": 1,
       "balance": 26438.27,
-      "minPayment": 6438.27,
+      "minPayment": 5000,
       "data": {
         "July": 5000,
         "August": 5000,
@@ -1304,7 +1313,8 @@
       "date": "11",
       "data": {
         "June": 4000
-      }
+      },
+      "subtype": "Food & Grocery"
     },
     {
       "id": 331,
@@ -1316,7 +1326,8 @@
       "date": "29",
       "data": {
         "June": 5000
-      }
+      },
+      "subtype": "Health"
     },
     {
       "id": 334,
@@ -1460,6 +1471,44 @@
         "November": 3383.01,
         "December": 3383.01
       }
+    },
+    {
+      "id": 341,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "FidoPH",
+      "channel": "Paymaya",
+      "date": "30",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 2,
+      "paid_inst": 1,
+      "balance": 2740,
+      "minPayment": 1370,
+      "data": {
+        "June": 1370,
+        "July": 1370
+      }
+    },
+    {
+      "id": 342,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "Fido PH",
+      "channel": "Paymaya",
+      "date": "15",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 2,
+      "paid_inst": 0,
+      "balance": 2740,
+      "minPayment": 1370,
+      "data": {
+        "July": 1370,
+        "August": 1370
+      }
     }
   ],
   "paid": {
@@ -1544,7 +1593,8 @@
     "June_41_ins": true,
     "June_334_debt1": true,
     "July_316_debt1": true,
-    "July_339_debt1": true
+    "July_339_debt1": true,
+    "June_341_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\""
