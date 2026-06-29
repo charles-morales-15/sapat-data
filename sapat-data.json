@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-28T15:00:47.821Z",
+  "exportedAt": "2026-06-29T10:04:11.047Z",
   "exportedBy": "SAPAT",
-  "month": "July",
+  "month": "June",
   "data": [
     {
       "id": 1,
@@ -332,7 +332,6 @@
       "data": {
         "January": 6600,
         "April": 6600,
-        "July": 6600,
         "November": 6600
       },
       "cutoff": "1st"
@@ -807,18 +806,6 @@
       "cutoff": "2nd"
     },
     {
-      "id": 303,
-      "cat": "BASIC GOODS",
-      "item": "Gadget Upgrade (Charger, Headset, Tempered Glass)",
-      "channel": "Cash",
-      "cutoff": "1st",
-      "ada": "No",
-      "date": "11",
-      "data": {
-        "June": 1599
-      }
-    },
-    {
       "id": 306,
       "cat": "DEBT",
       "subtype": "Microloan",
@@ -829,7 +816,7 @@
       "cutoff": "both",
       "status": "On Time",
       "installments": 24,
-      "paid_inst": 2,
+      "paid_inst": 3,
       "balance": 43628.64,
       "data": {
         "June": 1817.86,
@@ -942,12 +929,14 @@
       "cutoff": "both",
       "status": "On Time",
       "installments": 3,
-      "paid_inst": 0,
+      "paid_inst": 3,
       "balance": 15000,
       "minPayment": 5000,
       "totalPayments": 3,
       "data": {
-        "June": 5000,
+        "June": 5000
+      },
+      "_deletedOnFullPay": {
         "July": 5000
       }
     },
@@ -962,13 +951,14 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 1,
-      "paid_inst": 0,
+      "paid_inst": 1,
       "balance": 15000,
       "minPayment": 15000,
       "totalPayments": 0,
       "data": {
         "June": 15000
-      }
+      },
+      "_deletedOnFullPay": {}
     },
     {
       "id": 313,
@@ -1030,7 +1020,8 @@
       "minPayment": 4410,
       "data": {
         "June": 4410
-      }
+      },
+      "_deletedOnFullPay": {}
     },
     {
       "id": 317,
@@ -1267,7 +1258,7 @@
       "cutoff": "1st",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 0,
+      "paid_inst": 1,
       "balance": 26438.27,
       "minPayment": 6438.27,
       "data": {
@@ -1331,17 +1322,18 @@
       "id": 334,
       "cat": "DEBT",
       "subtype": "Credit Card",
-      "item": "Unionbank",
-      "channel": "Unionbank",
+      "item": "Unionbank CC (Restructured)",
+      "channel": "Unionbank App / OTC",
       "date": "7",
       "ada": "No",
       "cutoff": "1st",
       "status": "On Time",
-      "installments": 11,
-      "paid_inst": 0,
-      "balance": 249502.77,
+      "installments": 12,
+      "paid_inst": 1,
+      "balance": 272184.84,
       "minPayment": 22682.07,
       "data": {
+        "June": 22682.07,
         "July": 22682.07,
         "August": 22682.07,
         "September": 22682.07,
@@ -1361,7 +1353,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 36,
-      "paid_inst": 0,
+      "paid_inst": 1,
       "balance": 27966.29,
       "minPayment": 5966.29,
       "data": {
@@ -1401,9 +1393,9 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 1,
-      "paid_inst": 0,
-      "balance": 3440,
-      "minPayment": 3440,
+      "paid_inst": 1,
+      "balance": 5000,
+      "minPayment": 5000,
       "data": {
         "June": 3440
       }
@@ -1419,12 +1411,13 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 1,
-      "paid_inst": 0,
+      "paid_inst": 1,
       "balance": 5789.94,
       "minPayment": 5789.94,
       "data": {
         "June": 5789.94
-      }
+      },
+      "_deletedOnFullPay": {}
     },
     {
       "id": 339,
@@ -1437,12 +1430,13 @@
       "cutoff": "1st",
       "status": "On Time",
       "installments": 1,
-      "paid_inst": 0,
+      "paid_inst": 1,
       "balance": 10755.16,
       "minPayment": 10755.16,
       "data": {
         "July": 10755.16
-      }
+      },
+      "_deletedOnFullPay": {}
     },
     {
       "id": 340,
@@ -1480,16 +1474,15 @@
     "May_10_2nd": true,
     "June_1_1st": true,
     "June_4_1st": true,
-    "June_2_2nd": false,
-    "June_3_2nd": false,
+    "June_2_2nd": true,
+    "June_3_2nd": true,
     "June_6_2nd": true,
     "June_8_1st": true,
     "June_10_2nd": false,
     "June_7_2nd": true,
-    "June_9_2nd": false,
+    "June_9_2nd": true,
     "June_29_debt2": true,
     "June_30_debt2": true,
-    "June_303_1st": true,
     "June_306_debt1": true,
     "June_307_debt2": true,
     "June_308_debt1": true,
@@ -1508,7 +1501,7 @@
     "February_64_ut": true,
     "June_101_debt1": true,
     "June_314_debt1": true,
-    "June_306_debt2": false,
+    "June_306_debt2": true,
     "June_70_subs": true,
     "June_326_subs": true,
     "June_76_subs": true,
@@ -1531,13 +1524,27 @@
     "June_330_1st": true,
     "June_313_debt2": true,
     "June_317_debt2": true,
-    "July_42_ins": true,
+    "July_42_ins": false,
     "June_75_subs": true,
     "June_324_subs": true,
     "June_325_subs": true,
     "June_74_subs": true,
     "June_328_subs": true,
-    "June_318_subs": true
+    "June_318_subs": true,
+    "June_312_debt2": true,
+    "June_311_debt2": true,
+    "June_315_debt2": true,
+    "June_337_debt2": true,
+    "June_338_debt2": true,
+    "June_335_debt2": true,
+    "July_41_ins": false,
+    "July_40_ins": false,
+    "June_43_ins": true,
+    "June_40_ins": true,
+    "June_41_ins": true,
+    "June_334_debt1": true,
+    "July_316_debt1": true,
+    "July_339_debt1": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\""
