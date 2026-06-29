@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-29T14:53:19.994Z",
+  "exportedAt": "2026-06-29T15:03:25.783Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -355,7 +355,6 @@
       "ada": "No",
       "goal": "Migration Fund",
       "data": {
-        "June": 6000,
         "July": 6000,
         "August": 6000,
         "September": 6000,
@@ -374,7 +373,6 @@
       "ada": "No",
       "goal": "Retirement",
       "data": {
-        "June": 10000,
         "July": 10000,
         "August": 10000,
         "September": 10000,
@@ -383,25 +381,6 @@
         "December": 10000
       },
       "cutoff": "2nd"
-    },
-    {
-      "id": 53,
-      "cat": "INVESTMENTS",
-      "item": "Play Lotto + Banana",
-      "channel": "Cash",
-      "date": "15 & 30",
-      "ada": "No",
-      "goal": "General",
-      "data": {
-        "June": 3000,
-        "July": 3000,
-        "August": 3000,
-        "September": 3000,
-        "October": 3000,
-        "November": 3000,
-        "December": 3000
-      },
-      "cutoff": "1st"
     },
     {
       "id": 60,
@@ -512,7 +491,7 @@
         "March": 2301.35,
         "April": 2841.47,
         "May": 3000,
-        "June": 3000,
+        "June": 2913.89,
         "July": 3000,
         "August": 3000,
         "September": 3000,
@@ -1510,6 +1489,24 @@
         "July": 1370,
         "August": 1370
       }
+    },
+    {
+      "id": 343,
+      "cat": "UTILITIES",
+      "subtype": "Condo",
+      "item": "Meralco",
+      "channel": "Paymaya",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "data": {
+        "July": 2913.89,
+        "August": 2913.89,
+        "September": 2913.89,
+        "October": 2913.89,
+        "November": 2913.89,
+        "December": 2913.89
+      }
     }
   ],
   "paid": {
@@ -1560,12 +1557,12 @@
     "May_65_ut": true,
     "May_66_ut": true,
     "June_63_ut": true,
-    "June_65_ut": false,
+    "June_65_ut": true,
     "June_66_ut": true,
     "June_60_ut": false,
     "June_61_ut": true,
     "June_62_ut": false,
-    "June_64_ut": false,
+    "June_64_ut": true,
     "May_60_ut": true,
     "May_61_ut": true,
     "May_62_ut": true,
