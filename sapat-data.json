@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-29T15:03:25.783Z",
+  "exportedAt": "2026-06-29T15:18:34.451Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -48,7 +48,8 @@
         "November": 3000,
         "December": 3000
       },
-      "subtype": "Family"
+      "subtype": "Family",
+      "date": "29"
     },
     {
       "id": 3,
@@ -117,7 +118,8 @@
         "November": 5000,
         "December": 5000
       },
-      "subtype": "Food & Grocery"
+      "subtype": "Food & Grocery",
+      "date": "29"
     },
     {
       "id": 7,
@@ -140,7 +142,8 @@
         "November": 5000,
         "December": 5000
       },
-      "subtype": "Food & Grocery"
+      "subtype": "Food & Grocery",
+      "date": "29"
     },
     {
       "id": 8,
@@ -186,7 +189,8 @@
         "November": 700,
         "December": 700
       },
-      "subtype": "Clothing"
+      "subtype": "Clothing",
+      "date": "29"
     },
     {
       "id": 10,
@@ -209,7 +213,8 @@
         "November": 1750,
         "December": 1750
       },
-      "subtype": "Health"
+      "subtype": "Health",
+      "date": "30"
     },
     {
       "id": 29,
@@ -483,7 +488,7 @@
       "cat": "UTILITIES",
       "item": "Condo Meralco",
       "channel": "Paymaya",
-      "date": "30",
+      "date": "9",
       "ada": "No",
       "data": {
         "January": 2320.47,
@@ -499,7 +504,7 @@
         "November": 3000,
         "December": 3000
       },
-      "cutoff": "2nd",
+      "cutoff": "1st",
       "subtype": "Condo"
     },
     {
@@ -507,7 +512,7 @@
       "cat": "UTILITIES",
       "item": "PLDT",
       "channel": "Paymaya",
-      "date": "15",
+      "date": "29",
       "ada": "No",
       "data": {
         "January": 2533.4,
@@ -523,7 +528,7 @@
         "November": 2533.4,
         "December": 2533.4
       },
-      "cutoff": "1st",
+      "cutoff": "2nd",
       "subtype": "House"
     },
     {
@@ -531,14 +536,14 @@
       "cat": "UTILITIES",
       "item": "Sky Broadband",
       "channel": "Paymaya",
-      "date": "15",
+      "date": "4",
       "ada": "No",
       "data": {
         "January": 4500,
         "April": 500,
         "May": 1382.84,
         "June": 1500,
-        "July": 1500,
+        "July": 1499,
         "August": 1500,
         "September": 1500,
         "October": 1500,
@@ -786,7 +791,6 @@
         "April": 3000,
         "May": 600,
         "July": 3000,
-        "August": 3000,
         "September": 3000,
         "October": 3000,
         "November": 3000,
@@ -1489,24 +1493,6 @@
         "July": 1370,
         "August": 1370
       }
-    },
-    {
-      "id": 343,
-      "cat": "UTILITIES",
-      "subtype": "Condo",
-      "item": "Meralco",
-      "channel": "Paymaya",
-      "date": "29",
-      "ada": "No",
-      "cutoff": "2nd",
-      "data": {
-        "July": 2913.89,
-        "August": 2913.89,
-        "September": 2913.89,
-        "October": 2913.89,
-        "November": 2913.89,
-        "December": 2913.89
-      }
     }
   ],
   "paid": {
@@ -1592,7 +1578,9 @@
     "June_334_debt1": true,
     "July_316_debt1": true,
     "July_339_debt1": true,
-    "June_341_debt2": true
+    "June_341_debt2": true,
+    "July_66_ut": true,
+    "July_64_ut": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\""
