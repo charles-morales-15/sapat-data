@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-29T11:40:44.736Z",
+  "exportedAt": "2026-06-29T14:53:19.994Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -341,7 +341,8 @@
       "data": {
         "January": 6600,
         "April": 6600,
-        "November": 6600
+        "November": 6600,
+        "June": 6600
       },
       "cutoff": "1st"
     },
