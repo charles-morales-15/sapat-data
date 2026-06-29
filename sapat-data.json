@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-29T15:18:34.451Z",
+  "exportedAt": "2026-06-29T15:40:15.887Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -360,8 +360,6 @@
       "ada": "No",
       "goal": "Migration Fund",
       "data": {
-        "July": 6000,
-        "August": 6000,
         "September": 6000,
         "October": 6000,
         "November": 6000,
@@ -378,7 +376,6 @@
       "ada": "No",
       "goal": "Retirement",
       "data": {
-        "July": 10000,
         "August": 10000,
         "September": 10000,
         "October": 10000,
