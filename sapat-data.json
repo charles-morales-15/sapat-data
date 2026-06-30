@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-29T17:51:03.004Z",
+  "exportedAt": "2026-06-30T04:53:41.723Z",
   "exportedBy": "SAPAT",
   "month": "July",
   "data": [
@@ -88,7 +88,7 @@
         "April": 5000,
         "May": 5000,
         "June": 4000,
-        "July": 3840,
+        "July": 5000,
         "August": 5000,
         "September": 5000,
         "October": 5000,
@@ -110,7 +110,7 @@
         "March": 5000,
         "April": 5000,
         "May": 5000,
-        "June": 5000,
+        "June": 4000,
         "July": 5000,
         "August": 5000,
         "September": 5000,
@@ -436,8 +436,8 @@
       "id": 62,
       "cat": "UTILITIES",
       "item": "Globe Postpaid",
-      "channel": "GCash",
-      "date": "30",
+      "channel": "BPI",
+      "date": "3",
       "ada": "No",
       "data": {
         "January": 4614.7,
@@ -445,15 +445,14 @@
         "March": 1400,
         "April": 11552,
         "May": 4848,
-        "June": 5246,
-        "July": 5000,
+        "July": 5246,
         "August": 5000,
         "September": 5000,
         "October": 5000,
         "November": 5000,
         "December": 5000
       },
-      "cutoff": "2nd",
+      "cutoff": "1st",
       "subtype": "Personal"
     },
     {
@@ -1544,7 +1543,6 @@
     "June_66_ut": true,
     "June_60_ut": false,
     "June_61_ut": true,
-    "June_62_ut": false,
     "June_64_ut": true,
     "May_60_ut": true,
     "May_61_ut": true,
@@ -1578,11 +1576,9 @@
     "June_341_debt2": true,
     "July_66_ut": true,
     "July_64_ut": true,
-    "July_4_1st": true
+    "July_62_ut": true
   },
   "comments": {
-    "cmt_9_2nd_June": "\"June 29 Delivered\"",
-    "cmt_8_1st_June": "\"June 12 pick up\"",
-    "cmt_4_1st_July": "\"July 6 - 10\""
+    "cmt_8_1st_June": "\"June 12 pick up\""
   }
 }
