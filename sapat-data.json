@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-02T04:53:40.036Z",
+  "exportedAt": "2026-07-02T13:49:15.071Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -1321,7 +1321,7 @@
       "cutoff": "1st",
       "status": "On Time",
       "installments": 12,
-      "paid_inst": 1,
+      "paid_inst": 2,
       "balance": 272184.84,
       "minPayment": 22682.07,
       "data": {
@@ -1577,7 +1577,9 @@
     "June_341_debt2": true,
     "July_66_ut": true,
     "July_64_ut": true,
-    "July_62_ut": true
+    "July_62_ut": true,
+    "July_334_debt1": true,
+    "June_331_2nd": true
   },
   "comments": {
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
