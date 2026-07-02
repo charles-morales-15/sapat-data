@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T04:53:41.723Z",
+  "exportedAt": "2026-07-02T04:53:40.036Z",
   "exportedBy": "SAPAT",
-  "month": "July",
+  "month": "June",
   "data": [
     {
       "id": 1,
@@ -450,7 +450,8 @@
         "September": 5000,
         "October": 5000,
         "November": 5000,
-        "December": 5000
+        "December": 5000,
+        "June": 4614.7
       },
       "cutoff": "1st",
       "subtype": "Personal"
@@ -1579,6 +1580,8 @@
     "July_62_ut": true
   },
   "comments": {
-    "cmt_8_1st_June": "\"June 12 pick up\""
+    "cmt_9_2nd_June": "\"June 29 Delivered\"",
+    "cmt_8_1st_June": "\"June 12 pick up\"",
+    "cmt_4_1st_July": "\"July 6 - 10\""
   }
 }
