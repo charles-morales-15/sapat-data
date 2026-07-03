@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-02T13:49:15.071Z",
+  "exportedAt": "2026-07-03T05:55:55.263Z",
   "exportedBy": "SAPAT",
   "month": "June",
   "data": [
@@ -205,7 +205,7 @@
         "March": 1750,
         "April": 1750,
         "May": 1750,
-        "June": 1750,
+        "June": 1991.92,
         "July": 1750,
         "August": 1750,
         "September": 1750,
@@ -1508,7 +1508,7 @@
     "June_3_2nd": true,
     "June_6_2nd": true,
     "June_8_1st": true,
-    "June_10_2nd": false,
+    "June_10_2nd": true,
     "June_7_2nd": true,
     "June_9_2nd": true,
     "June_29_debt2": true,
