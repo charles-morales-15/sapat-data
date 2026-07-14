@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-14T10:32:35.268Z",
+  "exportedAt": "2026-07-14T17:32:07.232Z",
   "exportedBy": "SAPAT",
-  "month": "August",
+  "month": "September",
   "data": [
     {
       "id": 1,
@@ -775,27 +775,6 @@
       "cutoff": "2nd"
     },
     {
-      "id": 94,
-      "cat": "LEISURE",
-      "item": "Vice (Vaping)",
-      "channel": "Cash",
-      "date": "—",
-      "ada": "No",
-      "data": {
-        "January": 3000,
-        "February": 3000,
-        "March": 3000,
-        "April": 3000,
-        "May": 600,
-        "July": 3000,
-        "September": 3000,
-        "October": 3000,
-        "November": 3000,
-        "December": 3000
-      },
-      "cutoff": "2nd"
-    },
-    {
       "id": 306,
       "cat": "DEBT",
       "subtype": "Microloan",
@@ -817,7 +796,7 @@
         "November": 1817.86,
         "December": 1817.86
       },
-      "minPayment": 1817.86,
+      "minPayment": 5697.93,
       "totalPayments": 23
     },
     {
@@ -835,7 +814,6 @@
       "balance": 20750.35,
       "data": {
         "June": 4150.07,
-        "July": 4150.07,
         "August": 4150.07,
         "September": 4150.07,
         "October": 4150.07,
