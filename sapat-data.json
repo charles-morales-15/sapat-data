@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-14T07:05:49.548Z",
+  "exportedAt": "2026-07-14T07:06:32.572Z",
   "exportedBy": "SAPAT",
   "month": "July",
   "data": [
@@ -662,7 +662,7 @@
       "cat": "SUBSCRIPTIONS",
       "item": "PrimeVideo",
       "channel": "Paymaya",
-      "date": "11",
+      "date": "28",
       "ada": "Yes",
       "action": "Cut",
       "data": {
