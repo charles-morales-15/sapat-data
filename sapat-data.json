@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-03T05:56:53.541Z",
+  "exportedAt": "2026-07-14T06:42:04.654Z",
   "exportedBy": "SAPAT",
-  "month": "June",
+  "month": "July",
   "data": [
     {
       "id": 1,
@@ -65,7 +65,7 @@
         "April": 160,
         "May": 160,
         "June": 160,
-        "July": 160,
+        "July": 140,
         "August": 160,
         "September": 160,
         "October": 160,
@@ -159,7 +159,7 @@
         "April": 700,
         "May": 700,
         "June": 680,
-        "July": 700,
+        "July": 740,
         "August": 700,
         "September": 700,
         "October": 700,
@@ -806,7 +806,7 @@
       "cutoff": "both",
       "status": "On Time",
       "installments": 24,
-      "paid_inst": 3,
+      "paid_inst": 4,
       "balance": 43628.64,
       "data": {
         "June": 1817.86,
@@ -1346,8 +1346,8 @@
       "status": "On Time",
       "installments": 36,
       "paid_inst": 1,
-      "balance": 27966.29,
-      "minPayment": 5966.29,
+      "balance": 33985.65,
+      "minPayment": 850,
       "data": {
         "June": 5966.29,
         "July": 5966.29,
@@ -1483,7 +1483,7 @@
       "cutoff": "1st",
       "status": "On Time",
       "installments": 2,
-      "paid_inst": 0,
+      "paid_inst": 1,
       "balance": 2740,
       "minPayment": 1370,
       "data": {
@@ -1580,7 +1580,13 @@
     "July_62_ut": true,
     "July_334_debt1": true,
     "June_331_2nd": true,
-    "June_62_ut": true
+    "June_62_ut": true,
+    "July_8_1st": true,
+    "July_1_1st": true,
+    "July_4_1st": true,
+    "July_3_2nd": true,
+    "July_306_debt1": true,
+    "July_342_debt1": true
   },
   "comments": {
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
