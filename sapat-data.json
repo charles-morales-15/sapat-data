@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-14T17:32:07.232Z",
+  "exportedAt": "2026-07-14T17:43:26.835Z",
   "exportedBy": "SAPAT",
-  "month": "September",
+  "month": "June",
   "data": [
     {
       "id": 1,
@@ -796,7 +796,7 @@
         "November": 1817.86,
         "December": 1817.86
       },
-      "minPayment": 5697.93,
+      "minPayment": 1817.86,
       "totalPayments": 23
     },
     {
@@ -814,6 +814,7 @@
       "balance": 20750.35,
       "data": {
         "June": 4150.07,
+        "July": 4150.07,
         "August": 4150.07,
         "September": 4150.07,
         "October": 4150.07,
