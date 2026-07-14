@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-14T06:42:04.654Z",
+  "exportedAt": "2026-07-14T07:05:49.548Z",
   "exportedBy": "SAPAT",
   "month": "July",
   "data": [
@@ -233,7 +233,7 @@
         "July": 3775.1
       },
       "cutoff": "2nd",
-      "minPayment": 3995.15,
+      "minPayment": 7733.57,
       "totalPayments": 0
     },
     {
@@ -635,7 +635,7 @@
       "cat": "SUBSCRIPTIONS",
       "item": "Netflix",
       "channel": "GCash",
-      "date": "4",
+      "date": "24",
       "ada": "No",
       "action": "Keep",
       "data": {
@@ -855,7 +855,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 1,
+      "paid_inst": 2,
       "balance": 36940.02,
       "data": {
         "July": 6156.67,
@@ -1277,7 +1277,6 @@
       "minPayment": 6156.67,
       "data": {
         "June": 6156.67,
-        "July": 6156.67,
         "August": 6156.67,
         "September": 6156.67,
         "October": 6156.67,
@@ -1441,7 +1440,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 0,
+      "paid_inst": 1,
       "balance": 20298.06,
       "minPayment": 3383.01,
       "data": {
@@ -1490,6 +1489,67 @@
         "July": 1370,
         "August": 1370
       }
+    },
+    {
+      "id": 343,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "GGives - Unionbank Payment",
+      "channel": "GCash",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 9,
+      "paid_inst": 1,
+      "balance": 16862.22,
+      "minPayment": 1873.58,
+      "data": {
+        "July": 1873.58,
+        "August": 1873.58,
+        "September": 1873.58,
+        "October": 1873.58,
+        "November": 1873.58,
+        "December": 1873.58
+      }
+    },
+    {
+      "id": 344,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Ady Evangelista",
+      "channel": "BPI",
+      "date": "14",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 5000,
+      "minPayment": 5000,
+      "data": {
+        "July": 5000
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 345,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "LazadaFastCash",
+      "channel": "Paymaya",
+      "date": "14",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 3410.67,
+      "minPayment": 3410.67,
+      "data": {
+        "July": 3410.67
+      },
+      "_deletedOnFullPay": {}
     }
   ],
   "paid": {
@@ -1553,7 +1613,7 @@
     "June_330_1st": true,
     "June_313_debt2": true,
     "June_317_debt2": true,
-    "July_42_ins": false,
+    "July_42_ins": true,
     "June_75_subs": true,
     "June_324_subs": true,
     "June_325_subs": true,
@@ -1586,7 +1646,17 @@
     "July_4_1st": true,
     "July_3_2nd": true,
     "July_306_debt1": true,
-    "July_342_debt1": true
+    "July_342_debt1": true,
+    "July_308_debt2": true,
+    "July_340_debt2": true,
+    "July_343_debt2": true,
+    "July_344_debt1": true,
+    "July_6_2nd": true,
+    "July_7_2nd": true,
+    "July_29_debt2": true,
+    "July_345_debt1": true,
+    "July_326_subs": true,
+    "July_70_subs": true
   },
   "comments": {
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
