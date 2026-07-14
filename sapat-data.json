@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-14T17:55:12.031Z",
+  "exportedAt": "2026-07-14T18:05:21.762Z",
   "exportedBy": "SAPAT",
-  "month": "July",
+  "month": "August",
   "data": [
     {
       "id": 1,
@@ -663,7 +663,7 @@
         "November": 549,
         "December": 549
       },
-      "cutoff": "1st",
+      "cutoff": "2nd",
       "subtype": "Entertainment",
       "paymentTerms": "Monthly",
       "amount": 549
@@ -690,7 +690,7 @@
         "November": 149,
         "December": 149
       },
-      "cutoff": "1st",
+      "cutoff": "2nd",
       "subtype": "Entertainment",
       "paymentTerms": "Monthly",
       "amount": 149
