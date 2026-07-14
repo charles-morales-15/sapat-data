@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-14T07:38:12.234Z",
+  "exportedAt": "2026-07-14T10:32:35.268Z",
   "exportedBy": "SAPAT",
-  "month": "June",
+  "month": "August",
   "data": [
     {
       "id": 1,
@@ -233,7 +233,7 @@
         "July": 3775.1
       },
       "cutoff": "2nd",
-      "minPayment": 7733.57,
+      "minPayment": 3995.15,
       "totalPayments": 0
     },
     {
@@ -446,7 +446,7 @@
         "April": 11552,
         "May": 4848,
         "July": 5246,
-        "August": 5000,
+        "August": 4848,
         "September": 5000,
         "October": 5000,
         "November": 5000,
@@ -1280,7 +1280,8 @@
         "August": 6156.67,
         "September": 6156.67,
         "October": 6156.67,
-        "November": 6156.67
+        "November": 6156.67,
+        "December": 6156.67
       }
     },
     {
