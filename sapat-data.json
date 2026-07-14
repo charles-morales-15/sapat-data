@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-14T07:13:29.389Z",
+  "exportedAt": "2026-07-14T07:23:36.571Z",
   "exportedBy": "SAPAT",
   "month": "July",
   "data": [
@@ -1683,7 +1683,7 @@
     "June_337_debt2": true,
     "June_338_debt2": true,
     "June_335_debt2": true,
-    "July_41_ins": false,
+    "July_41_ins": true,
     "July_40_ins": false,
     "June_43_ins": true,
     "June_40_ins": true,
@@ -1715,7 +1715,8 @@
     "July_326_subs": true,
     "July_70_subs": true,
     "July_346_debt1": true,
-    "July_348_subs": true
+    "July_348_subs": true,
+    "July_63_ut": true
   },
   "comments": {
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
