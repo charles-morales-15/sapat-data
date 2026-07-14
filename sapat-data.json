@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-14T17:43:26.835Z",
+  "exportedAt": "2026-07-14T17:55:12.031Z",
   "exportedBy": "SAPAT",
-  "month": "June",
+  "month": "July",
   "data": [
     {
       "id": 1,
@@ -88,7 +88,7 @@
         "April": 5000,
         "May": 5000,
         "June": 4000,
-        "July": 5000,
+        "July": 3840,
         "August": 5000,
         "September": 5000,
         "October": 5000,
@@ -347,7 +347,15 @@
         "January": 6600,
         "April": 6600,
         "November": 6600,
-        "June": 6600
+        "June": 6600,
+        "February": 6600,
+        "March": 6600,
+        "May": 6600,
+        "July": 6600,
+        "August": 6600,
+        "September": 6600,
+        "October": 6600,
+        "December": 6600
       },
       "cutoff": "1st"
     },
@@ -596,7 +604,10 @@
         "September": 300,
         "October": 300,
         "November": 300,
-        "December": 300
+        "December": 300,
+        "January": 300,
+        "February": 300,
+        "March": 300
       },
       "cutoff": "2nd",
       "subtype": "AI Tools",
@@ -782,7 +793,7 @@
       "channel": "GCash",
       "date": "15 & 30",
       "ada": "Yes",
-      "cutoff": "both",
+      "cutoff": "1st",
       "status": "On Time",
       "installments": 24,
       "paid_inst": 4,
@@ -1031,7 +1042,18 @@
       "paymentTerms": "Monthly",
       "cutoff": "2nd",
       "data": {
-        "June": 149
+        "June": 149,
+        "January": 149,
+        "February": 149,
+        "March": 149,
+        "April": 149,
+        "May": 149,
+        "July": 149,
+        "August": 149,
+        "September": 149,
+        "October": 149,
+        "November": 149,
+        "December": 149
       },
       "amount": 149
     },
@@ -1127,7 +1149,18 @@
       "paymentTerms": "Monthly",
       "cutoff": "2nd",
       "data": {
-        "June": 599
+        "June": 599,
+        "January": 599,
+        "February": 599,
+        "March": 599,
+        "April": 599,
+        "May": 599,
+        "July": 599,
+        "August": 599,
+        "September": 599,
+        "October": 599,
+        "November": 599,
+        "December": 599
       },
       "amount": 599
     },
@@ -1150,7 +1183,12 @@
         "September": 589,
         "October": 589,
         "November": 589,
-        "December": 589
+        "December": 589,
+        "January": 589,
+        "February": 589,
+        "March": 589,
+        "April": 589,
+        "May": 589
       }
     },
     {
@@ -1172,7 +1210,12 @@
         "September": 999,
         "October": 999,
         "November": 999,
-        "December": 999
+        "December": 999,
+        "January": 999,
+        "February": 999,
+        "March": 999,
+        "April": 999,
+        "May": 999
       }
     },
     {
@@ -1213,7 +1256,9 @@
         "September": 1100,
         "October": 1100,
         "November": 1100,
-        "December": 1100
+        "December": 1100,
+        "January": 1100,
+        "February": 1100
       }
     },
     {
@@ -1272,7 +1317,18 @@
       "ada": "No",
       "date": "11",
       "data": {
-        "June": 4000
+        "June": 4000,
+        "January": 4000,
+        "February": 4000,
+        "March": 4000,
+        "April": 4000,
+        "May": 4000,
+        "July": 3840,
+        "August": 4000,
+        "September": 4000,
+        "October": 4000,
+        "November": 4000,
+        "December": 4000
       },
       "subtype": "Food & Grocery"
     },
@@ -1285,7 +1341,18 @@
       "ada": "No",
       "date": "29",
       "data": {
-        "June": 5000
+        "June": 5000,
+        "January": 5000,
+        "February": 5000,
+        "March": 5000,
+        "April": 5000,
+        "May": 5000,
+        "July": 5000,
+        "August": 5000,
+        "September": 5000,
+        "October": 5000,
+        "November": 5000,
+        "December": 5000
       },
       "subtype": "Health"
     },
@@ -1568,7 +1635,13 @@
         "September": 299,
         "October": 299,
         "November": 299,
-        "December": 299
+        "December": 299,
+        "January": 299,
+        "February": 299,
+        "March": 299,
+        "April": 299,
+        "May": 299,
+        "June": 299
       }
     },
     {
@@ -1696,11 +1769,13 @@
     "July_70_subs": true,
     "July_346_debt1": true,
     "July_348_subs": true,
-    "July_63_ut": true
+    "July_63_ut": true,
+    "July_330_1st": true
   },
   "comments": {
-    "cmt_9_2nd_June": "\"June 29 Delivered\"",
     "cmt_8_1st_June": "\"June 12 pick up\"",
+    "cmt_330_1st_July": "\"July 13 - 17\"",
+    "cmt_9_2nd_June": "\"June 29 Delivered\"",
     "cmt_4_1st_July": "\"July 6 - 10\""
   }
 }
