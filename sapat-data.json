@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-30T07:43:22.116Z",
+  "exportedAt": "2026-07-30T08:21:18.710Z",
   "exportedBy": "SAPAT",
-  "month": "July",
+  "month": "August",
   "data": [
     {
       "id": 1,
@@ -197,7 +197,7 @@
       "cat": "BASIC GOODS",
       "item": "Fitness Membership",
       "channel": "BPI",
-      "cutoff": "2nd",
+      "cutoff": "1st",
       "ada": "Yes",
       "data": {
         "January": 1750,
@@ -206,7 +206,6 @@
         "April": 1750,
         "May": 1750,
         "June": 1991.92,
-        "July": 1750,
         "August": 1750,
         "September": 1750,
         "October": 1750,
@@ -214,7 +213,7 @@
         "December": 1750
       },
       "subtype": "Health",
-      "date": "30"
+      "date": "1"
     },
     {
       "id": 29,
@@ -1347,7 +1346,6 @@
         "March": 5000,
         "April": 5000,
         "May": 5000,
-        "July": 5000,
         "August": 5000,
         "September": 5000,
         "October": 5000,
