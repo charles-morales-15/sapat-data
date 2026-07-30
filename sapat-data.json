@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-30T07:06:10.811Z",
+  "exportedAt": "2026-07-30T07:21:16.134Z",
   "exportedBy": "SAPAT",
   "month": "August",
   "data": [
@@ -821,7 +821,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 1,
+      "paid_inst": 2,
       "balance": 20750.35,
       "data": {
         "June": 4150.07,
@@ -831,7 +831,7 @@
         "October": 4150.07,
         "November": 4150.07
       },
-      "minPayment": 4150.07,
+      "minPayment": 5967.93,
       "totalPayments": 6
     },
     {
@@ -1510,9 +1510,9 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 2,
-      "paid_inst": 1,
-      "balance": 2740,
-      "minPayment": 1370,
+      "paid_inst": 2,
+      "balance": 3163,
+      "minPayment": 1793,
       "data": {
         "June": 1370,
         "July": 1370
@@ -1679,6 +1679,64 @@
         "August": 10755.16
       },
       "_deletedOnFullPay": {}
+    },
+    {
+      "id": 350,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "LazadaPayLater",
+      "channel": "Paymaya",
+      "date": "16",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 5798.96,
+      "minPayment": 5798.96,
+      "data": {
+        "August": 5798.96
+      }
+    },
+    {
+      "id": 351,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "LazadaFastCash",
+      "channel": "Paymaya",
+      "date": "17",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 3224.67,
+      "minPayment": 3224.67,
+      "data": {
+        "August": 3224.67
+      }
+    },
+    {
+      "id": 352,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "SLoan",
+      "channel": "Paymaya",
+      "date": "25",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 9,
+      "paid_inst": 0,
+      "balance": 8511.12,
+      "minPayment": 945.68,
+      "data": {
+        "August": 945.68,
+        "September": 945.68,
+        "October": 945.68,
+        "November": 945.68,
+        "December": 945.68
+      }
     }
   ],
   "paid": {
@@ -1799,7 +1857,9 @@
     "August_62_ut": true,
     "July_65_ut": true,
     "August_349_debt1": true,
-    "August_316_debt1": true
+    "August_316_debt1": true,
+    "July_307_debt2": true,
+    "July_341_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
