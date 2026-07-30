@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-30T07:36:38.818Z",
+  "exportedAt": "2026-07-30T07:43:22.116Z",
   "exportedBy": "SAPAT",
   "month": "July",
   "data": [
@@ -1868,7 +1868,8 @@
     "July_324_subs": true,
     "July_347_subs": true,
     "July_77_subs": true,
-    "July_76_subs": true
+    "July_76_subs": true,
+    "July_61_ut": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
