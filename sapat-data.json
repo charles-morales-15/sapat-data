@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-30T08:21:18.710Z",
+  "exportedAt": "2026-07-30T08:27:20.744Z",
   "exportedBy": "SAPAT",
   "month": "August",
   "data": [
@@ -350,7 +350,6 @@
         "February": 6600,
         "March": 6600,
         "May": 6600,
-        "July": 6600,
         "August": 6600,
         "September": 6600,
         "October": 6600,
@@ -383,7 +382,6 @@
       "ada": "No",
       "goal": "Retirement",
       "data": {
-        "August": 10000,
         "September": 10000,
         "October": 10000,
         "November": 10000,
@@ -402,7 +400,6 @@
         "January": 10000,
         "May": 30000,
         "June": 10000,
-        "July": 10000,
         "August": 10000,
         "September": 10000,
         "October": 10000,
@@ -950,9 +947,9 @@
       "cutoff": "2nd",
       "status": "Delayed",
       "installments": 6,
-      "paid_inst": 1,
+      "paid_inst": 2,
       "balance": 33703.16,
-      "minPayment": 5617.19,
+      "minPayment": 3365,
       "totalPayments": 0,
       "data": {
         "June": 5617.19,
@@ -1867,7 +1864,8 @@
     "July_347_subs": true,
     "July_77_subs": true,
     "July_76_subs": true,
-    "July_61_ut": true
+    "July_61_ut": true,
+    "July_313_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
