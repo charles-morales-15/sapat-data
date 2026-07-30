@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-30T07:00:38.908Z",
+  "exportedAt": "2026-07-30T07:06:10.811Z",
   "exportedBy": "SAPAT",
-  "month": "July",
+  "month": "August",
   "data": [
     {
       "id": 1,
@@ -1267,14 +1267,14 @@
       "subtype": "Digital Bank",
       "item": "GCredit",
       "channel": "GCash",
-      "date": "13",
+      "date": "12",
       "ada": "No",
       "cutoff": "1st",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 1,
-      "balance": 26438.27,
-      "minPayment": 5000,
+      "paid_inst": 2,
+      "balance": 31276.95,
+      "minPayment": 6276.95,
       "data": {
         "July": 5000,
         "August": 5000,
@@ -1660,6 +1660,25 @@
         "July": 599,
         "October": 599
       }
+    },
+    {
+      "id": 349,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "MayaCredit",
+      "channel": "Paymaya",
+      "date": "11",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 10755.16,
+      "minPayment": 10755.16,
+      "data": {
+        "August": 10755.16
+      },
+      "_deletedOnFullPay": {}
     }
   ],
   "paid": {
@@ -1778,7 +1797,9 @@
     "August_64_ut": true,
     "August_66_ut": true,
     "August_62_ut": true,
-    "July_65_ut": true
+    "July_65_ut": true,
+    "August_349_debt1": true,
+    "August_316_debt1": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
