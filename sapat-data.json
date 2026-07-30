@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-14T18:05:21.762Z",
+  "exportedAt": "2026-07-30T06:46:27.465Z",
   "exportedBy": "SAPAT",
-  "month": "August",
+  "month": "July",
   "data": [
     {
       "id": 1,
@@ -182,7 +182,7 @@
         "April": 700,
         "May": 700,
         "June": 1140,
-        "July": 700,
+        "July": 920,
         "August": 700,
         "September": 700,
         "October": 700,
@@ -1770,7 +1770,9 @@
     "July_346_debt1": true,
     "July_348_subs": true,
     "July_63_ut": true,
-    "July_330_1st": true
+    "July_330_1st": true,
+    "July_9_2nd": true,
+    "July_2_2nd": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
