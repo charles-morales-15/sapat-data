@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-13T10:38:51.958Z",
+  "exportedAt": "2026-08-13T10:43:58.188Z",
   "exportedBy": "SAPAT",
   "month": "August",
   "data": [
@@ -1901,7 +1901,10 @@
     "August_343_debt2": true,
     "August_350_debt2": true,
     "August_351_debt2": true,
-    "August_352_debt2": true
+    "August_352_debt2": true,
+    "August_41_ins": true,
+    "August_63_ut": true,
+    "August_43_ins": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
