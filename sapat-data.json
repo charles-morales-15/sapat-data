@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-13T10:43:58.188Z",
+  "exportedAt": "2026-08-13T10:49:30.286Z",
   "exportedBy": "SAPAT",
-  "month": "August",
+  "month": "September",
   "data": [
     {
       "id": 1,
@@ -1757,6 +1757,25 @@
       "data": {
         "August": 1
       }
+    },
+    {
+      "id": 354,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Youtube Premium",
+      "channel": "Paymaya",
+      "date": "8",
+      "ada": "No",
+      "action": "Review",
+      "subtype": "Entertainment",
+      "paymentTerms": "Monthly",
+      "cutoff": "1st",
+      "amount": 249,
+      "data": {
+        "September": 249,
+        "October": 249,
+        "November": 249,
+        "December": 249
+      }
     }
   ],
   "paid": {
@@ -1904,7 +1923,9 @@
     "August_352_debt2": true,
     "August_41_ins": true,
     "August_63_ut": true,
-    "August_43_ins": true
+    "August_43_ins": true,
+    "August_70_subs": true,
+    "August_326_subs": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
