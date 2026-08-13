@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-30T08:27:20.744Z",
+  "exportedAt": "2026-08-13T10:38:51.958Z",
   "exportedBy": "SAPAT",
   "month": "August",
   "data": [
@@ -25,7 +25,8 @@
         "November": 3000,
         "December": 3000
       },
-      "subtype": "Family"
+      "subtype": "Family",
+      "date": "13"
     },
     {
       "id": 2,
@@ -160,13 +161,14 @@
         "May": 700,
         "June": 680,
         "July": 740,
-        "August": 700,
+        "August": 440,
         "September": 700,
         "October": 700,
         "November": 700,
         "December": 700
       },
-      "subtype": "Clothing"
+      "subtype": "Clothing",
+      "date": "11"
     },
     {
       "id": 9,
@@ -210,7 +212,8 @@
         "September": 1750,
         "October": 1750,
         "November": 1750,
-        "December": 1750
+        "December": 1750,
+        "July": 1750
       },
       "subtype": "Health",
       "date": "1"
@@ -353,7 +356,8 @@
         "August": 6600,
         "September": 6600,
         "October": 6600,
-        "December": 6600
+        "December": 6600,
+        "July": 6600
       },
       "cutoff": "1st"
     },
@@ -407,7 +411,8 @@
         "December": 10000,
         "February": 10000,
         "March": 10000,
-        "April": 10000
+        "April": 10000,
+        "July": 10000
       },
       "cutoff": "2nd",
       "subtype": "Condo"
@@ -792,7 +797,7 @@
       "cutoff": "1st",
       "status": "On Time",
       "installments": 24,
-      "paid_inst": 4,
+      "paid_inst": 5,
       "balance": 43628.64,
       "data": {
         "June": 1817.86,
@@ -841,7 +846,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 2,
+      "paid_inst": 3,
       "balance": 36940.02,
       "data": {
         "July": 6156.67,
@@ -1297,7 +1302,6 @@
       "minPayment": 6156.67,
       "data": {
         "June": 6156.67,
-        "August": 6156.67,
         "September": 6156.67,
         "October": 6156.67,
         "November": 6156.67,
@@ -1482,7 +1486,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 1,
+      "paid_inst": 2,
       "balance": 20298.06,
       "minPayment": 3383.01,
       "data": {
@@ -1524,13 +1528,14 @@
       "cutoff": "1st",
       "status": "On Time",
       "installments": 2,
-      "paid_inst": 1,
+      "paid_inst": 2,
       "balance": 2740,
-      "minPayment": 1370,
+      "minPayment": 1793,
       "data": {
         "July": 1370,
         "August": 1370
-      }
+      },
+      "_deletedOnFullPay": {}
     },
     {
       "id": 343,
@@ -1543,7 +1548,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 9,
-      "paid_inst": 1,
+      "paid_inst": 2,
       "balance": 16862.22,
       "minPayment": 1873.58,
       "data": {
@@ -1688,10 +1693,11 @@
       "installments": 0,
       "paid_inst": 0,
       "balance": 5798.96,
-      "minPayment": 5798.96,
+      "minPayment": 4438.72,
       "data": {
         "August": 5798.96
-      }
+      },
+      "_deletedOnFullPay": {}
     },
     {
       "id": 351,
@@ -1709,7 +1715,8 @@
       "minPayment": 3224.67,
       "data": {
         "August": 3224.67
-      }
+      },
+      "_deletedOnFullPay": {}
     },
     {
       "id": 352,
@@ -1722,15 +1729,33 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 9,
-      "paid_inst": 0,
+      "paid_inst": 1,
       "balance": 8511.12,
-      "minPayment": 945.68,
+      "minPayment": 964.57,
       "data": {
         "August": 945.68,
         "September": 945.68,
         "October": 945.68,
         "November": 945.68,
         "December": 945.68
+      }
+    },
+    {
+      "id": 353,
+      "cat": "DEBT",
+      "subtype": "Credit Card",
+      "item": "Atome",
+      "channel": "Paymaya",
+      "date": "25",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 7000,
+      "minPayment": 1,
+      "data": {
+        "August": 1
       }
     }
   ],
@@ -1865,7 +1890,18 @@
     "July_77_subs": true,
     "July_76_subs": true,
     "July_61_ut": true,
-    "July_313_debt2": true
+    "July_313_debt2": true,
+    "July_10_1st": true,
+    "August_8_1st": true,
+    "August_1_1st": true,
+    "August_342_debt1": true,
+    "August_306_debt1": true,
+    "August_308_debt2": true,
+    "August_340_debt2": true,
+    "August_343_debt2": true,
+    "August_350_debt2": true,
+    "August_351_debt2": true,
+    "August_352_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
