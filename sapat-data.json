@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-13T11:01:53.796Z",
+  "exportedAt": "2026-08-16T10:04:27.305Z",
   "exportedBy": "SAPAT",
   "month": "August",
   "data": [
@@ -113,14 +113,14 @@
         "May": 5000,
         "June": 4000,
         "July": 3840,
-        "August": 5000,
+        "August": 2688.8,
         "September": 5000,
         "October": 5000,
         "November": 5000,
         "December": 5000
       },
       "subtype": "Food & Grocery",
-      "date": "29"
+      "date": "16"
     },
     {
       "id": 7,
@@ -137,14 +137,14 @@
         "May": 5000,
         "June": 5000,
         "July": 3840,
-        "August": 5000,
+        "August": 3383.7,
         "September": 5000,
         "October": 5000,
         "November": 5000,
         "December": 5000
       },
       "subtype": "Food & Grocery",
-      "date": "29"
+      "date": "16"
     },
     {
       "id": 8,
@@ -1350,7 +1350,8 @@
         "September": 5000,
         "October": 5000,
         "November": 5000,
-        "December": 5000
+        "December": 5000,
+        "July": 5000
       },
       "subtype": "Health"
     },
@@ -1773,7 +1774,65 @@
         "September": 249,
         "October": 249,
         "November": 249,
-        "December": 249
+        "December": 249,
+        "January": 249,
+        "February": 249,
+        "March": 249,
+        "April": 249,
+        "May": 249,
+        "June": 249,
+        "July": 249,
+        "August": 249
+      }
+    },
+    {
+      "id": 355,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Angelica Frances Pineda",
+      "channel": "BPI",
+      "date": "14",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 7500,
+      "minPayment": 7500,
+      "data": {
+        "August": 7500
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 356,
+      "cat": "LEISURE",
+      "item": "Pansol",
+      "channel": "BPI",
+      "date": "14",
+      "cutoff": "1st",
+      "data": {
+        "August": 2000
+      }
+    },
+    {
+      "id": 357,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Canva",
+      "channel": "BPI",
+      "date": "21",
+      "ada": "No",
+      "action": "Review",
+      "subtype": "Entertainment",
+      "paymentTerms": "Monthly",
+      "cutoff": "2nd",
+      "amount": 1260,
+      "data": {
+        "August": 1260,
+        "September": 1260,
+        "October": 1260,
+        "November": 1260,
+        "December": 1260
       }
     }
   ],
@@ -1926,7 +1985,12 @@
     "August_70_subs": true,
     "August_326_subs": true,
     "August_353_debt2": true,
-    "August_4_1st": true
+    "August_4_1st": true,
+    "August_6_2nd": true,
+    "August_7_2nd": true,
+    "August_355_debt1": true,
+    "August_356_ls": true,
+    "August_354_subs": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
