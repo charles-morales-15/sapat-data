@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-16T10:04:27.305Z",
+  "exportedAt": "2026-08-27T15:17:44.670Z",
   "exportedBy": "SAPAT",
   "month": "August",
   "data": [
@@ -43,7 +43,7 @@
         "May": 3000,
         "June": 3000,
         "July": 3000,
-        "August": 3000,
+        "August": 4000,
         "September": 3000,
         "October": 3000,
         "November": 3000,
@@ -456,7 +456,7 @@
         "May": 4848,
         "July": 5246,
         "August": 4848,
-        "September": 5000,
+        "September": 4848,
         "October": 5000,
         "November": 5000,
         "December": 5000,
@@ -551,7 +551,7 @@
         "June": 1500,
         "July": 1499,
         "August": 1499,
-        "September": 1500,
+        "September": 1499,
         "October": 1500,
         "November": 1500,
         "December": 1500,
@@ -601,7 +601,7 @@
         "May": 300,
         "June": 300,
         "July": 300,
-        "August": 300,
+        "August": 309.3,
         "September": 300,
         "October": 300,
         "November": 300,
@@ -658,7 +658,7 @@
         "May": 549,
         "June": 549,
         "July": 549,
-        "August": 549,
+        "August": 619,
         "September": 549,
         "October": 549,
         "November": 549,
@@ -822,7 +822,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 2,
+      "paid_inst": 3,
       "balance": 20750.35,
       "data": {
         "June": 4150.07,
@@ -832,7 +832,7 @@
         "October": 4150.07,
         "November": 4150.07
       },
-      "minPayment": 5967.93,
+      "minPayment": 12450.21,
       "totalPayments": 6
     },
     {
@@ -945,16 +945,16 @@
       "id": 313,
       "cat": "DEBT",
       "subtype": "Microloan",
-      "item": "Grab Loan B",
+      "item": "Grab Loan",
       "channel": "GCash",
       "date": "22",
       "ada": "No",
       "cutoff": "2nd",
       "status": "Delayed",
       "installments": 6,
-      "paid_inst": 2,
-      "balance": 33703.16,
-      "minPayment": 3365,
+      "paid_inst": 3,
+      "balance": 18758.35,
+      "minPayment": 7523.97,
       "totalPayments": 0,
       "data": {
         "June": 5617.19,
@@ -1157,7 +1157,7 @@
         "April": 599,
         "May": 599,
         "July": 599,
-        "August": 599,
+        "August": 699,
         "September": 599,
         "October": 599,
         "November": 599,
@@ -1180,7 +1180,7 @@
       "data": {
         "June": 589,
         "July": 579,
-        "August": 589,
+        "August": 579,
         "September": 589,
         "October": 589,
         "November": 589,
@@ -1253,7 +1253,7 @@
         "May": 1100,
         "June": 1100,
         "July": 1100,
-        "August": 1100,
+        "August": 1134.1,
         "September": 1100,
         "October": 1100,
         "November": 1100,
@@ -1346,7 +1346,6 @@
         "March": 5000,
         "April": 5000,
         "May": 5000,
-        "August": 5000,
         "September": 5000,
         "October": 5000,
         "November": 5000,
@@ -1366,9 +1365,9 @@
       "cutoff": "1st",
       "status": "On Time",
       "installments": 12,
-      "paid_inst": 3,
+      "paid_inst": 4,
       "balance": 272184.84,
-      "minPayment": 22682.07,
+      "minPayment": 23000,
       "data": {
         "June": 22682.07,
         "July": 22682.07,
@@ -1390,9 +1389,9 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 36,
-      "paid_inst": 2,
-      "balance": 33985.65,
-      "minPayment": 2000,
+      "paid_inst": 3,
+      "balance": 39405.55,
+      "minPayment": 3472.97,
       "data": {
         "June": 5966.29,
         "July": 5966.29,
@@ -1812,7 +1811,7 @@
       "date": "14",
       "cutoff": "1st",
       "data": {
-        "August": 2000
+        "August": 3001
       }
     },
     {
@@ -1832,8 +1831,53 @@
         "September": 1260,
         "October": 1260,
         "November": 1260,
-        "December": 1260
+        "December": 1260,
+        "January": 1260,
+        "February": 1260,
+        "March": 1260,
+        "April": 1260,
+        "May": 1260,
+        "June": 1260,
+        "July": 1260
       }
+    },
+    {
+      "id": 358,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "Fido PH",
+      "channel": "BPI",
+      "date": "27",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "Settled",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 3591,
+      "minPayment": 3591,
+      "data": {
+        "August": 3591
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 359,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Angelica Frances Pineda",
+      "channel": "BPI",
+      "date": "27",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "Settled",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 3000,
+      "minPayment": 3000,
+      "data": {
+        "August": 3000
+      },
+      "_deletedOnFullPay": {}
     }
   ],
   "paid": {
@@ -1990,7 +2034,30 @@
     "August_7_2nd": true,
     "August_355_debt1": true,
     "August_356_ls": true,
-    "August_354_subs": true
+    "August_354_subs": true,
+    "August_3_2nd": true,
+    "September_334_debt1": true,
+    "August_358_debt2": true,
+    "August_307_debt2": true,
+    "September_62_ut": true,
+    "September_66_ut": true,
+    "August_65_ut": true,
+    "August_335_debt2": true,
+    "August_313_debt2": true,
+    "August_42_ins": true,
+    "August_74_subs": true,
+    "August_328_subs": true,
+    "August_325_subs": true,
+    "August_324_subs": true,
+    "August_75_subs": true,
+    "August_357_subs": true,
+    "August_76_subs": true,
+    "August_77_subs": true,
+    "August_347_subs": true,
+    "August_318_subs": true,
+    "August_61_ut": true,
+    "August_2_2nd": true,
+    "August_359_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
