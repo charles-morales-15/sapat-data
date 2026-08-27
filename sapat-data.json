@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-27T16:26:06.653Z",
+  "exportedAt": "2026-08-27T16:29:54.054Z",
   "exportedBy": "SAPAT",
-  "month": "September",
+  "month": "August",
   "data": [
     {
       "id": 1,
@@ -1349,8 +1349,7 @@
         "September": 5000,
         "October": 5000,
         "November": 5000,
-        "December": 5000,
-        "July": 5000
+        "December": 5000
       },
       "subtype": "Health"
     },
@@ -2060,7 +2059,8 @@
     "August_359_debt2": true,
     "September_4_1st": true,
     "September_330_1st": true,
-    "September_316_debt1": true
+    "September_316_debt1": true,
+    "July_10_2nd": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
