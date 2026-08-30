@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-30T09:14:51.394Z",
+  "exportedAt": "2026-08-30T09:15:29.224Z",
   "exportedBy": "SAPAT",
-  "month": "September",
+  "month": "August",
   "data": [
     {
       "id": 1,
@@ -1880,6 +1880,17 @@
         "August": 3000
       },
       "_deletedOnFullPay": {}
+    },
+    {
+      "id": 360,
+      "cat": "LEISURE",
+      "item": "Chinito Night",
+      "channel": "BPI",
+      "date": "27",
+      "cutoff": "2nd",
+      "data": {
+        "August": 599
+      }
     }
   ],
   "paid": {
@@ -2065,7 +2076,8 @@
     "September_316_debt1": true,
     "July_10_2nd": true,
     "August_10_2nd": true,
-    "September_64_ut": true
+    "September_64_ut": true,
+    "August_360_ls": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
