@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-28T07:32:45.797Z",
+  "exportedAt": "2026-08-30T09:14:51.394Z",
   "exportedBy": "SAPAT",
-  "month": "August",
+  "month": "September",
   "data": [
     {
       "id": 1,
@@ -505,7 +505,7 @@
         "June": 2913.89,
         "July": 3000,
         "August": 3727.64,
-        "September": 3000,
+        "September": 2546.24,
         "October": 3000,
         "November": 3000,
         "December": 3000
@@ -1327,7 +1327,8 @@
         "September": 3361,
         "October": 4000,
         "November": 4000,
-        "December": 4000
+        "December": 4000,
+        "August": 4000
       },
       "subtype": "Food & Grocery"
     },
@@ -1349,7 +1350,9 @@
         "September": 5000,
         "October": 5000,
         "November": 5000,
-        "December": 5000
+        "December": 5000,
+        "July": 5000,
+        "August": 5000
       },
       "subtype": "Health"
     },
@@ -2061,7 +2064,8 @@
     "September_330_1st": true,
     "September_316_debt1": true,
     "July_10_2nd": true,
-    "August_10_2nd": true
+    "August_10_2nd": true,
+    "September_64_ut": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
