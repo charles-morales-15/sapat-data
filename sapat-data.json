@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-14T12:06:54.469Z",
+  "exportedAt": "2026-09-14T16:13:55.254Z",
   "exportedBy": "SAPAT",
   "month": "September",
   "data": [
@@ -2004,6 +2004,28 @@
         "September": 1517
       },
       "_deletedOnFullPay": {}
+    },
+    {
+      "id": 372,
+      "cat": "LEISURE",
+      "item": "Kel GF",
+      "channel": "BPI",
+      "date": "14",
+      "cutoff": "1st",
+      "data": {
+        "September": 1000
+      }
+    },
+    {
+      "id": 373,
+      "cat": "LEISURE",
+      "item": "GFExclusives",
+      "channel": "GCash",
+      "date": "4",
+      "cutoff": "1st",
+      "data": {
+        "September": 500
+      }
     }
   ],
   "paid": {
@@ -2209,12 +2231,14 @@
     "September_70_subs": true,
     "September_326_subs": true,
     "September_354_subs": true,
-    "September_371_debt2": true
+    "September_371_debt2": true,
+    "September_372_ls": true,
+    "September_373_ls": true
   },
   "comments": {
-    "cmt_9_2nd_June": "\"June 29 Delivered\"",
     "cmt_8_1st_June": "\"June 12 pick up\"",
-    "cmt_4_1st_July": "\"July 6 - 10\"",
-    "cmt_330_1st_July": "\"July 13 - 17\""
+    "cmt_330_1st_July": "\"July 13 - 17\"",
+    "cmt_9_2nd_June": "\"June 29 Delivered\"",
+    "cmt_4_1st_July": "\"July 6 - 10\""
   }
 }
