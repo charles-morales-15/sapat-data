@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-14T08:47:08.730Z",
+  "exportedAt": "2026-09-14T08:59:11.263Z",
   "exportedBy": "SAPAT",
   "month": "September",
   "data": [
@@ -1880,9 +1880,102 @@
       "paid_inst": 0,
       "balance": 434.89,
       "minPayment": 434.89,
+      "data": {}
+    },
+    {
+      "id": 362,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "ShopeePayLater",
+      "channel": "GCash",
+      "date": "15",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 426.36,
+      "minPayment": 426.36,
       "data": {
-        "June": 434.89
-      }
+        "September": 426.36
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 363,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "LazadaPayLater",
+      "channel": "BPI",
+      "date": "16",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 4114.35,
+      "minPayment": 4114.35,
+      "data": {
+        "September": 4114.35
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 364,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "LazadaFastCash",
+      "channel": "BPI",
+      "date": "17",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 4601.35,
+      "minPayment": 4601.35,
+      "data": {
+        "September": 4601.35
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 365,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Angelica Frances Pineda",
+      "channel": "—",
+      "date": "14",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 10000,
+      "minPayment": 10000,
+      "data": {
+        "September": 10000
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 366,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Erica Anne Baldo",
+      "channel": "BPI",
+      "date": "14",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 3000,
+      "minPayment": 3000,
+      "data": {
+        "September": 3000
+      },
+      "_deletedOnFullPay": {}
     }
   ],
   "paid": {
@@ -2076,7 +2169,12 @@
     "September_308_debt2": true,
     "September_340_debt2": true,
     "September_343_debt2": true,
-    "September_352_debt2": true
+    "September_352_debt2": true,
+    "September_362_debt1": true,
+    "September_363_debt2": true,
+    "September_364_debt2": true,
+    "September_365_debt1": true,
+    "September_366_debt1": true
   },
   "comments": {
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
