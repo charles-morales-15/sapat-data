@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-14T09:29:54.564Z",
+  "exportedAt": "2026-09-14T09:34:22.600Z",
   "exportedBy": "SAPAT",
   "month": "September",
   "data": [
@@ -335,32 +335,6 @@
       "cutoff": "1st"
     },
     {
-      "id": 43,
-      "cat": "INSURANCE",
-      "item": "St. Peter",
-      "channel": "BPI",
-      "date": "15",
-      "ada": "Yes",
-      "type": "Funeral",
-      "delayed": 1,
-      "status": "Delayed",
-      "data": {
-        "January": 6600,
-        "April": 6600,
-        "November": 6600,
-        "June": 6600,
-        "February": 6600,
-        "March": 6600,
-        "May": 6600,
-        "August": 6600,
-        "September": 6600,
-        "October": 6600,
-        "December": 6600,
-        "July": 6600
-      },
-      "cutoff": "1st"
-    },
-    {
       "id": 60,
       "cat": "UTILITIES",
       "item": "Condo Rent",
@@ -672,8 +646,7 @@
       "ada": "No",
       "action": "Review",
       "data": {
-        "April": 1042.18,
-        "October": 2250
+        "April": 1042.18
       },
       "cutoff": "1st",
       "subtype": "Entertainment",
@@ -1974,6 +1947,44 @@
       "data": {
         "September": 900
       }
+    },
+    {
+      "id": 369,
+      "cat": "SUBSCRIPTIONS",
+      "item": "X",
+      "channel": "GCash",
+      "date": "30",
+      "ada": "No",
+      "action": "Review",
+      "subtype": "Entertainment",
+      "paymentTerms": "Monthly",
+      "cutoff": "2nd",
+      "amount": 350,
+      "data": {
+        "September": 350,
+        "October": 350,
+        "November": 350,
+        "December": 350
+      }
+    },
+    {
+      "id": 370,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Amazon Prime Video",
+      "channel": "GCash",
+      "date": "30",
+      "ada": "No",
+      "action": "Keep",
+      "subtype": "Entertainment",
+      "paymentTerms": "Monthly",
+      "cutoff": "2nd",
+      "amount": 149,
+      "data": {
+        "September": 149,
+        "October": 149,
+        "November": 149,
+        "December": 149
+      }
     }
   ],
   "paid": {
@@ -2052,7 +2063,6 @@
     "June_335_debt2": true,
     "July_41_ins": true,
     "July_40_ins": true,
-    "June_43_ins": true,
     "June_40_ins": true,
     "June_41_ins": true,
     "June_334_debt1": true,
@@ -2120,7 +2130,6 @@
     "August_352_debt2": true,
     "August_41_ins": true,
     "August_63_ut": true,
-    "August_43_ins": true,
     "August_70_subs": true,
     "August_326_subs": true,
     "August_353_debt2": true,
@@ -2176,7 +2185,11 @@
     "October_367_debt1": true,
     "September_63_ut": true,
     "September_368_ls": true,
-    "September_313_debt2": true
+    "September_313_debt2": true,
+    "September_42_ins": true,
+    "September_70_subs": true,
+    "September_326_subs": true,
+    "September_354_subs": true
   },
   "comments": {
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
