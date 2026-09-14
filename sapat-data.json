@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-14T16:13:55.254Z",
+  "exportedAt": "2026-09-14T16:15:31.445Z",
   "exportedBy": "SAPAT",
   "month": "September",
   "data": [
@@ -161,13 +161,13 @@
         "June": 680,
         "July": 740,
         "August": 440,
-        "September": 700,
+        "September": 1940,
         "October": 700,
         "November": 700,
         "December": 700
       },
       "subtype": "Clothing",
-      "date": "11"
+      "date": "14"
     },
     {
       "id": 9,
@@ -2233,12 +2233,14 @@
     "September_354_subs": true,
     "September_371_debt2": true,
     "September_372_ls": true,
-    "September_373_ls": true
+    "September_373_ls": true,
+    "September_8_1st": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
     "cmt_330_1st_July": "\"July 13 - 17\"",
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
-    "cmt_4_1st_July": "\"July 6 - 10\""
+    "cmt_4_1st_July": "\"July 6 - 10\"",
+    "cmt_8_1st_September": "\"Dry Cleaning + 440\""
   }
 }
