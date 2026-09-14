@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-14T08:59:11.263Z",
+  "exportedAt": "2026-09-14T09:06:35.021Z",
   "exportedBy": "SAPAT",
   "month": "September",
   "data": [
@@ -373,22 +373,6 @@
         "October": 6000,
         "November": 6000,
         "December": 6000
-      },
-      "cutoff": "2nd"
-    },
-    {
-      "id": 51,
-      "cat": "INVESTMENTS",
-      "item": "MP2 PAG-IBIG",
-      "channel": "Paymaya",
-      "date": "30",
-      "ada": "No",
-      "goal": "Retirement",
-      "data": {
-        "September": 10000,
-        "October": 10000,
-        "November": 10000,
-        "December": 10000
       },
       "cutoff": "2nd"
     },
@@ -1976,6 +1960,25 @@
         "September": 3000
       },
       "_deletedOnFullPay": {}
+    },
+    {
+      "id": 367,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "Atome",
+      "channel": "BPI",
+      "date": "4",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 6387.93,
+      "minPayment": 6387.93,
+      "data": {
+        "October": 6387.93
+      },
+      "_deletedOnFullPay": {}
     }
   ],
   "paid": {
@@ -2174,7 +2177,9 @@
     "September_363_debt2": true,
     "September_364_debt2": true,
     "September_365_debt1": true,
-    "September_366_debt1": true
+    "September_366_debt1": true,
+    "October_367_debt1": true,
+    "September_63_ut": true
   },
   "comments": {
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
