@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-30T09:15:29.224Z",
+  "exportedAt": "2026-09-14T08:37:53.645Z",
   "exportedBy": "SAPAT",
   "month": "August",
   "data": [
@@ -185,7 +185,7 @@
         "May": 700,
         "June": 1140,
         "July": 920,
-        "August": 700,
+        "August": 660,
         "September": 700,
         "October": 700,
         "November": 700,
@@ -1333,30 +1333,6 @@
       "subtype": "Food & Grocery"
     },
     {
-      "id": 331,
-      "cat": "BASIC GOODS",
-      "item": "Ate Chie's Medicine",
-      "channel": "BPI",
-      "cutoff": "2nd",
-      "ada": "No",
-      "date": "29",
-      "data": {
-        "June": 5000,
-        "January": 5000,
-        "February": 5000,
-        "March": 5000,
-        "April": 5000,
-        "May": 5000,
-        "September": 5000,
-        "October": 5000,
-        "November": 5000,
-        "December": 5000,
-        "July": 5000,
-        "August": 5000
-      },
-      "subtype": "Health"
-    },
-    {
       "id": 334,
       "cat": "DEBT",
       "subtype": "Credit Card",
@@ -1980,7 +1956,6 @@
     "July_64_ut": true,
     "July_62_ut": true,
     "July_334_debt1": true,
-    "June_331_2nd": true,
     "June_62_ut": true,
     "July_8_1st": true,
     "July_1_1st": true,
@@ -2077,12 +2052,15 @@
     "July_10_2nd": true,
     "August_10_2nd": true,
     "September_64_ut": true,
-    "August_360_ls": true
+    "August_360_ls": true,
+    "September_1_1st": true,
+    "August_330_1st": true,
+    "August_9_2nd": true
   },
   "comments": {
-    "cmt_8_1st_June": "\"June 12 pick up\"",
-    "cmt_330_1st_July": "\"July 13 - 17\"",
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
-    "cmt_4_1st_July": "\"July 6 - 10\""
+    "cmt_8_1st_June": "\"June 12 pick up\"",
+    "cmt_4_1st_July": "\"July 6 - 10\"",
+    "cmt_330_1st_July": "\"July 13 - 17\""
   }
 }
