@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-14T12:05:23.805Z",
+  "exportedAt": "2026-09-14T12:06:54.469Z",
   "exportedBy": "SAPAT",
   "month": "September",
   "data": [
@@ -1985,6 +1985,25 @@
         "November": 149,
         "December": 149
       }
+    },
+    {
+      "id": 371,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "FidoPH",
+      "channel": "BPI",
+      "date": "27",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 1517,
+      "minPayment": 1517,
+      "data": {
+        "September": 1517
+      },
+      "_deletedOnFullPay": {}
     }
   ],
   "paid": {
@@ -2189,7 +2208,8 @@
     "September_42_ins": true,
     "September_70_subs": true,
     "September_326_subs": true,
-    "September_354_subs": true
+    "September_354_subs": true,
+    "September_371_debt2": true
   },
   "comments": {
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
