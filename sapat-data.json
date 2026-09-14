@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-14T08:37:53.645Z",
+  "exportedAt": "2026-09-14T08:47:08.730Z",
   "exportedBy": "SAPAT",
-  "month": "August",
+  "month": "September",
   "data": [
     {
       "id": 1,
@@ -114,7 +114,6 @@
         "June": 4000,
         "July": 3840,
         "August": 2688.8,
-        "September": 5000,
         "October": 5000,
         "November": 5000,
         "December": 5000
@@ -797,8 +796,8 @@
       "cutoff": "1st",
       "status": "On Time",
       "installments": 24,
-      "paid_inst": 5,
-      "balance": 43628.64,
+      "paid_inst": 6,
+      "balance": 13587.79,
       "data": {
         "June": 1817.86,
         "July": 1817.86,
@@ -808,7 +807,7 @@
         "November": 1817.86,
         "December": 1817.86
       },
-      "minPayment": 1817.86,
+      "minPayment": 6316.35,
       "totalPayments": 23
     },
     {
@@ -846,7 +845,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 3,
+      "paid_inst": 4,
       "balance": 36940.02,
       "data": {
         "July": 6156.67,
@@ -1302,7 +1301,6 @@
       "minPayment": 6156.67,
       "data": {
         "June": 6156.67,
-        "September": 6156.67,
         "October": 6156.67,
         "November": 6156.67,
         "December": 6156.67
@@ -1463,7 +1461,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 2,
+      "paid_inst": 3,
       "balance": 20298.06,
       "minPayment": 3383.01,
       "data": {
@@ -1525,7 +1523,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 9,
-      "paid_inst": 2,
+      "paid_inst": 3,
       "balance": 16862.22,
       "minPayment": 1873.58,
       "data": {
@@ -1706,7 +1704,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 9,
-      "paid_inst": 1,
+      "paid_inst": 2,
       "balance": 8511.12,
       "minPayment": 964.57,
       "data": {
@@ -1866,6 +1864,24 @@
       "cutoff": "2nd",
       "data": {
         "August": 599
+      }
+    },
+    {
+      "id": 361,
+      "cat": "DEBT",
+      "subtype": "Credit Card",
+      "item": "ShopeePayLater",
+      "channel": "GCash",
+      "date": "15",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 434.89,
+      "minPayment": 434.89,
+      "data": {
+        "June": 434.89
       }
     }
   ],
@@ -2055,7 +2071,12 @@
     "August_360_ls": true,
     "September_1_1st": true,
     "August_330_1st": true,
-    "August_9_2nd": true
+    "August_9_2nd": true,
+    "September_306_debt1": true,
+    "September_308_debt2": true,
+    "September_340_debt2": true,
+    "September_343_debt2": true,
+    "September_352_debt2": true
   },
   "comments": {
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
