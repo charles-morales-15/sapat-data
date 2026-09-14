@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-14T09:06:35.021Z",
+  "exportedAt": "2026-09-14T09:24:29.929Z",
   "exportedBy": "SAPAT",
   "month": "September",
   "data": [
@@ -359,22 +359,6 @@
         "July": 6600
       },
       "cutoff": "1st"
-    },
-    {
-      "id": 50,
-      "cat": "INVESTMENTS",
-      "item": "Dollar",
-      "channel": "BPI",
-      "date": "30",
-      "ada": "No",
-      "goal": "Migration Fund",
-      "data": {
-        "September": 6000,
-        "October": 6000,
-        "November": 6000,
-        "December": 6000
-      },
-      "cutoff": "2nd"
     },
     {
       "id": 60,
@@ -1979,6 +1963,17 @@
         "October": 6387.93
       },
       "_deletedOnFullPay": {}
+    },
+    {
+      "id": 368,
+      "cat": "LEISURE",
+      "item": "Dinner with Louie",
+      "channel": "GCash",
+      "date": "14",
+      "cutoff": "1st",
+      "data": {
+        "September": 900
+      }
     }
   ],
   "paid": {
@@ -2179,7 +2174,8 @@
     "September_365_debt1": true,
     "September_366_debt1": true,
     "October_367_debt1": true,
-    "September_63_ut": true
+    "September_63_ut": true,
+    "September_368_ls": true
   },
   "comments": {
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
