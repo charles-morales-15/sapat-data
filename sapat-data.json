@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-14T09:24:29.929Z",
+  "exportedAt": "2026-09-14T09:29:54.564Z",
   "exportedBy": "SAPAT",
   "month": "September",
   "data": [
@@ -913,15 +913,15 @@
       "cat": "DEBT",
       "subtype": "Microloan",
       "item": "Grab Loan",
-      "channel": "GCash",
+      "channel": "GrabPay",
       "date": "22",
       "ada": "No",
       "cutoff": "2nd",
       "status": "Delayed",
       "installments": 6,
-      "paid_inst": 3,
-      "balance": 18758.35,
-      "minPayment": 7523.97,
+      "paid_inst": 4,
+      "balance": 27695.77,
+      "minPayment": 10844.2,
       "totalPayments": 0,
       "data": {
         "June": 5617.19,
@@ -2175,7 +2175,8 @@
     "September_366_debt1": true,
     "October_367_debt1": true,
     "September_63_ut": true,
-    "September_368_ls": true
+    "September_368_ls": true,
+    "September_313_debt2": true
   },
   "comments": {
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
