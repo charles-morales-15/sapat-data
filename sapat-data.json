@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-29T06:43:01.009Z",
+  "exportedAt": "2026-09-29T06:58:15.634Z",
   "exportedBy": "SAPAT",
-  "month": "September",
+  "month": "October",
   "data": [
     {
       "id": 1,
@@ -68,7 +68,7 @@
         "June": 160,
         "July": 140,
         "August": 160,
-        "September": 160,
+        "September": 140,
         "October": 160,
         "November": 160,
         "December": 160
@@ -186,7 +186,7 @@
         "June": 1140,
         "July": 920,
         "August": 660,
-        "September": 700,
+        "September": 830,
         "October": 700,
         "November": 700,
         "December": 700
@@ -763,7 +763,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 3,
+      "paid_inst": 4,
       "balance": 20750.35,
       "data": {
         "June": 4150.07,
@@ -773,7 +773,7 @@
         "October": 4150.07,
         "November": 4150.07
       },
-      "minPayment": 12450.21,
+      "minPayment": 1817.86,
       "totalPayments": 6
     },
     {
@@ -1283,7 +1283,7 @@
       "cutoff": "1st",
       "status": "On Time",
       "installments": 12,
-      "paid_inst": 4,
+      "paid_inst": 5,
       "balance": 272184.84,
       "minPayment": 23000,
       "data": {
@@ -1307,9 +1307,9 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 36,
-      "paid_inst": 3,
+      "paid_inst": 4,
       "balance": 39405.55,
-      "minPayment": 3472.97,
+      "minPayment": 4801.47,
       "data": {
         "June": 5966.29,
         "July": 5966.29,
@@ -2251,7 +2251,14 @@
     "September_371_debt2": true,
     "September_372_ls": true,
     "September_373_ls": true,
-    "September_8_1st": true
+    "September_8_1st": true,
+    "September_9_2nd": true,
+    "September_2_2nd": true,
+    "September_3_2nd": true,
+    "September_10_2nd": true,
+    "October_334_debt1": true,
+    "September_307_debt2": true,
+    "September_335_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
