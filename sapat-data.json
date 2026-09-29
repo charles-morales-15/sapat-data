@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-29T12:43:56.352Z",
+  "exportedAt": "2026-09-29T13:13:20.218Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -375,7 +375,7 @@
         "June": 2246.18,
         "July": 2246.18,
         "August": 2246.18,
-        "September": 2246.18,
+        "September": 2206.18,
         "October": 2246.18,
         "November": 2246.18,
         "December": 2246.18
@@ -610,33 +610,6 @@
       "subtype": "Entertainment",
       "paymentTerms": "Monthly",
       "amount": 549
-    },
-    {
-      "id": 77,
-      "cat": "SUBSCRIPTIONS",
-      "item": "PrimeVideo",
-      "channel": "Paymaya",
-      "date": "28",
-      "ada": "Yes",
-      "action": "Cut",
-      "data": {
-        "January": 149,
-        "February": 149,
-        "March": 149,
-        "April": 149,
-        "May": 149,
-        "June": 149,
-        "July": 149,
-        "August": 149,
-        "September": 149,
-        "October": 149,
-        "November": 149,
-        "December": 149
-      },
-      "cutoff": "2nd",
-      "subtype": "Entertainment",
-      "paymentTerms": "Monthly",
-      "amount": 149
     },
     {
       "id": 85,
@@ -1562,23 +1535,6 @@
       }
     },
     {
-      "id": 348,
-      "cat": "SUBSCRIPTIONS",
-      "item": "Bumble Dating app: Chat & Date",
-      "channel": "Paymaya",
-      "date": "4",
-      "ada": "No",
-      "action": "Review",
-      "subtype": "Entertainment",
-      "paymentTerms": "Quarterly",
-      "cutoff": "1st",
-      "amount": 599,
-      "data": {
-        "July": 599,
-        "October": 599
-      }
-    },
-    {
       "id": 349,
       "cat": "DEBT",
       "subtype": "Digital Bank",
@@ -2099,7 +2055,6 @@
     "June_70_subs": true,
     "June_326_subs": true,
     "June_76_subs": true,
-    "June_77_subs": true,
     "May_63_ut": true,
     "May_65_ut": true,
     "May_66_ut": true,
@@ -2160,7 +2115,6 @@
     "July_326_subs": true,
     "July_70_subs": true,
     "July_346_debt1": true,
-    "July_348_subs": true,
     "July_63_ut": true,
     "July_330_1st": true,
     "July_9_2nd": true,
@@ -2182,7 +2136,6 @@
     "July_325_subs": true,
     "July_324_subs": true,
     "July_347_subs": true,
-    "July_77_subs": true,
     "July_76_subs": true,
     "July_61_ut": true,
     "July_313_debt2": true,
@@ -2225,7 +2178,6 @@
     "August_75_subs": true,
     "August_357_subs": true,
     "August_76_subs": true,
-    "August_77_subs": true,
     "August_347_subs": true,
     "August_318_subs": true,
     "August_61_ut": true,
@@ -2274,7 +2226,18 @@
     "September_374_ls": true,
     "October_66_ut": true,
     "October_64_ut": true,
-    "October_62_ut": true
+    "October_62_ut": true,
+    "September_61_ut": true,
+    "September_74_subs": true,
+    "September_328_subs": true,
+    "September_325_subs": true,
+    "September_75_subs": true,
+    "September_324_subs": true,
+    "September_347_subs": true,
+    "September_357_subs": true,
+    "September_318_subs": true,
+    "September_323_subs": true,
+    "September_76_subs": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
