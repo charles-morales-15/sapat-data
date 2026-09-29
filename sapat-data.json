@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-29T13:13:40.815Z",
+  "exportedAt": "2026-09-29T13:18:12.284Z",
   "exportedBy": "SAPAT",
-  "month": "October",
+  "month": "September",
   "data": [
     {
       "id": 1,
@@ -867,8 +867,8 @@
       "status": "Delayed",
       "installments": 6,
       "paid_inst": 4,
-      "balance": 27695.77,
-      "minPayment": 10844.2,
+      "balance": 42098.33,
+      "minPayment": 25246.76,
       "totalPayments": 0,
       "data": {
         "June": 5617.19,
@@ -2010,6 +2010,17 @@
       "data": {
         "September": 1500
       }
+    },
+    {
+      "id": 375,
+      "cat": "LEISURE",
+      "item": "Masseur",
+      "channel": "BPI",
+      "date": "29",
+      "cutoff": "2nd",
+      "data": {
+        "September": 1000
+      }
     }
   ],
   "paid": {
@@ -2237,11 +2248,13 @@
     "September_357_subs": true,
     "September_318_subs": true,
     "September_323_subs": true,
-    "September_76_subs": true
+    "September_76_subs": true,
+    "September_375_ls": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
     "cmt_330_1st_July": "\"July 13 - 17\"",
+    "cmt_313_d_debt2_September": "\"Closed\"",
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
     "cmt_4_1st_July": "\"July 6 - 10\"",
     "cmt_8_1st_September": "\"Dry Cleaning + 440\""
