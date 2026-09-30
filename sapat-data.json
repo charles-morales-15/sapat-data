@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-29T15:44:35.671Z",
+  "exportedAt": "2026-09-30T08:02:13.240Z",
   "exportedBy": "SAPAT",
-  "month": "September",
+  "month": "October",
   "data": [
     {
       "id": 1,
@@ -92,7 +92,7 @@
         "July": 3840,
         "August": 5000,
         "September": 3361,
-        "October": 5000,
+        "October": 6220.72,
         "November": 5000,
         "December": 5000
       },
@@ -1973,6 +1973,22 @@
       "data": {
         "September": 1000
       }
+    },
+    {
+      "id": 376,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Erica Anne Baldo",
+      "channel": "BPI",
+      "date": "15",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 10000,
+      "minPayment": 0,
+      "data": {}
     }
   ],
   "paid": {
@@ -2193,7 +2209,10 @@
     "September_318_subs": true,
     "September_323_subs": true,
     "September_76_subs": true,
-    "September_375_ls": true
+    "September_375_ls": true,
+    "October_4_1st": true,
+    "September_370_subs": true,
+    "September_369_subs": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
