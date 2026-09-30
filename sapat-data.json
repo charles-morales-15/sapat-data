@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-30T08:03:22.544Z",
+  "exportedAt": "2026-09-30T08:03:53.077Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -2024,6 +2024,17 @@
       "minPayment": 10000,
       "data": {
         "October": 10000
+      }
+    },
+    {
+      "id": 379,
+      "cat": "LEISURE",
+      "item": "China Flight (Ron Alvarez)",
+      "channel": "BPI",
+      "date": "15",
+      "cutoff": "1st",
+      "data": {
+        "October": 7286
       }
     }
   ],
