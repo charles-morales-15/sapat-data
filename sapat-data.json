@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-30T08:02:13.240Z",
+  "exportedAt": "2026-09-30T08:03:22.544Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -674,7 +674,7 @@
         "November": 1817.86,
         "December": 1817.86
       },
-      "minPayment": 6316.35,
+      "minPayment": 1817.86,
       "totalPayments": 23
     },
     {
@@ -688,7 +688,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 4,
+      "paid_inst": 1,
       "balance": 20750.35,
       "data": {
         "June": 4150.07,
@@ -696,7 +696,7 @@
         "August": 4150.07,
         "September": 4150.07,
         "October": 4150.07,
-        "November": 4150.07
+        "November": 1817.86
       },
       "minPayment": 1817.86,
       "totalPayments": 6
@@ -1141,7 +1141,7 @@
       "installments": 6,
       "paid_inst": 4,
       "balance": 31276.95,
-      "minPayment": 4923.19,
+      "minPayment": 5000,
       "data": {
         "July": 5000,
         "August": 5000,
@@ -1989,6 +1989,42 @@
       "balance": 10000,
       "minPayment": 0,
       "data": {}
+    },
+    {
+      "id": 377,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Angelica Frances Pineda",
+      "channel": "BPI",
+      "date": "15",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 5000,
+      "minPayment": 5000,
+      "data": {
+        "October": 5000
+      }
+    },
+    {
+      "id": 378,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Erica Anne Baldo",
+      "channel": "BPI",
+      "date": "15",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 10000,
+      "minPayment": 10000,
+      "data": {
+        "October": 10000
+      }
     }
   ],
   "paid": {
