@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-14T07:41:55.428Z",
+  "exportedAt": "2026-10-14T07:49:15.523Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -2090,6 +2090,43 @@
       "balance": 10000,
       "minPayment": 0,
       "data": {}
+    },
+    {
+      "id": 384,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Cha Mendoza Batongbakal",
+      "channel": "BPI",
+      "date": "14",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 10000,
+      "minPayment": 10000,
+      "data": {
+        "October": 10000
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 385,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Cha Mendoza Batongbakal",
+      "channel": "BPI",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 10000,
+      "minPayment": 10000,
+      "data": {
+        "October": 10000
+      }
     }
   ],
   "paid": {
@@ -2319,7 +2356,8 @@
     "October_381_1st": true,
     "October_382_1st": true,
     "October_306_debt1": true,
-    "October_377_debt1": true
+    "October_377_debt1": true,
+    "October_384_debt1": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
