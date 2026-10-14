@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-14T08:10:43.714Z",
+  "exportedAt": "2026-10-14T08:16:13.114Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -1545,15 +1545,15 @@
       "cat": "DEBT",
       "subtype": "Microloan",
       "item": "SLoan",
-      "channel": "Paymaya",
-      "date": "25",
+      "channel": "BPI",
+      "date": "14",
       "ada": "No",
-      "cutoff": "2nd",
+      "cutoff": "1st",
       "status": "On Time",
       "installments": 9,
-      "paid_inst": 2,
-      "balance": 8511.12,
-      "minPayment": 964.57,
+      "paid_inst": 5,
+      "balance": 4728.3099999999995,
+      "minPayment": 2836.95,
       "data": {
         "August": 945.68,
         "September": 945.68,
@@ -2144,6 +2144,25 @@
         "October": 6253
       },
       "_deletedOnFullPay": {}
+    },
+    {
+      "id": 387,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "ShopeePayLater",
+      "channel": "BPI",
+      "date": "14",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 1969.52,
+      "minPayment": 1969.52,
+      "data": {
+        "October": 1969.52
+      },
+      "_deletedOnFullPay": {}
     }
   ],
   "paid": {
@@ -2378,7 +2397,11 @@
     "October_386_debt1": true,
     "October_308_debt2": true,
     "October_340_debt2": true,
-    "October_343_debt2": true
+    "October_343_debt2": true,
+    "October_387_debt1": true,
+    "October_352_debt1": true,
+    "September_352_debt1": true,
+    "August_352_debt1": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
