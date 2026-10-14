@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-14T08:30:10.855Z",
+  "exportedAt": "2026-10-14T08:36:31.620Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -2445,7 +2445,10 @@
     "October_40_ins": true,
     "October_41_ins": true,
     "October_42_ins": true,
-    "October_379_ls": true
+    "October_379_ls": true,
+    "October_70_subs": true,
+    "October_326_subs": true,
+    "October_354_subs": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
