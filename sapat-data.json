@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-14T08:17:18.354Z",
+  "exportedAt": "2026-10-14T08:22:29.896Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -2163,6 +2163,44 @@
         "October": 1969.52
       },
       "_deletedOnFullPay": {}
+    },
+    {
+      "id": 388,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "LazadaPayLater",
+      "channel": "GCash",
+      "date": "14",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 736.5,
+      "minPayment": 736.5,
+      "data": {
+        "October": 736.5
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 389,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "LazadaFastCash",
+      "channel": "BPI",
+      "date": "14",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 7373.37,
+      "minPayment": 7373.37,
+      "data": {
+        "October": 7373.37
+      },
+      "_deletedOnFullPay": {}
     }
   ],
   "paid": {
@@ -2401,7 +2439,9 @@
     "October_387_debt1": true,
     "October_352_debt1": true,
     "September_352_debt1": true,
-    "August_352_debt1": true
+    "August_352_debt1": true,
+    "October_388_debt1": true,
+    "October_389_debt1": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
