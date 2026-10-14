@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-14T08:37:15.998Z",
+  "exportedAt": "2026-10-14T08:53:55.775Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -115,7 +115,7 @@
         "July": 740,
         "August": 440,
         "September": 1940,
-        "October": 700,
+        "October": 510,
         "November": 700,
         "December": 700
       },
@@ -2188,6 +2188,32 @@
         "October": 7373.37
       },
       "_deletedOnFullPay": {}
+    },
+    {
+      "id": 390,
+      "cat": "BASIC GOODS",
+      "item": "Meal Plan (Week 3)",
+      "channel": "BPI",
+      "cutoff": "2nd",
+      "ada": "No",
+      "subtype": "Food & Grocery",
+      "date": "29",
+      "data": {
+        "October": 5000
+      }
+    },
+    {
+      "id": 391,
+      "cat": "BASIC GOODS",
+      "item": "Meal Plan (Week 4)",
+      "channel": "BPI",
+      "cutoff": "2nd",
+      "ada": "No",
+      "subtype": "Food & Grocery",
+      "date": "29",
+      "data": {
+        "October": 5000
+      }
     }
   ],
   "paid": {
@@ -2436,7 +2462,8 @@
     "October_326_subs": true,
     "October_354_subs": true,
     "October_63_ut": true,
-    "September_65_ut": true
+    "September_65_ut": true,
+    "October_8_1st": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
