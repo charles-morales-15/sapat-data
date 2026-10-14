@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-14T08:36:31.620Z",
+  "exportedAt": "2026-10-14T08:37:15.998Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -2035,19 +2035,6 @@
       }
     },
     {
-      "id": 380,
-      "cat": "BASIC GOODS",
-      "item": "House Rent",
-      "channel": "GCash",
-      "cutoff": "1st",
-      "ada": "No",
-      "subtype": "Family",
-      "date": "15",
-      "data": {
-        "October": 10000
-      }
-    },
-    {
       "id": 381,
       "cat": "BASIC GOODS",
       "item": "Mama's Birthday Gift",
@@ -2426,7 +2413,6 @@
     "September_370_subs": true,
     "September_369_subs": true,
     "October_1_1st": true,
-    "October_380_1st": true,
     "October_381_1st": true,
     "October_382_1st": true,
     "October_306_debt1": true,
@@ -2448,7 +2434,9 @@
     "October_379_ls": true,
     "October_70_subs": true,
     "October_326_subs": true,
-    "October_354_subs": true
+    "October_354_subs": true,
+    "October_63_ut": true,
+    "September_65_ut": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
