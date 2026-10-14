@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-14T07:49:15.523Z",
+  "exportedAt": "2026-10-14T08:09:12.221Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -712,8 +712,8 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 4,
-      "balance": 36940.02,
+      "paid_inst": 5,
+      "balance": 30783.25,
       "data": {
         "July": 6156.67,
         "August": 6156.67,
@@ -722,7 +722,7 @@
         "November": 6156.67,
         "December": 6156.67
       },
-      "minPayment": 6156.67,
+      "minPayment": 12313.24,
       "totalPayments": 6
     },
     {
@@ -827,7 +827,6 @@
         "July": 5617.19,
         "August": 5617.19,
         "September": 5617.19,
-        "October": 5617.19,
         "November": 5617.19
       }
     },
@@ -1168,7 +1167,6 @@
       "minPayment": 6156.67,
       "data": {
         "June": 6156.67,
-        "October": 6156.67,
         "November": 6156.67,
         "December": 6156.67
       }
@@ -1327,7 +1325,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 3,
+      "paid_inst": 4,
       "balance": 20298.06,
       "minPayment": 3383.01,
       "data": {
@@ -1389,7 +1387,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 9,
-      "paid_inst": 3,
+      "paid_inst": 4,
       "balance": 16862.22,
       "minPayment": 1873.58,
       "data": {
@@ -2127,6 +2125,25 @@
       "data": {
         "October": 10000
       }
+    },
+    {
+      "id": 386,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "FidoPH",
+      "channel": "BPI",
+      "date": "14",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 6253,
+      "minPayment": 6253,
+      "data": {
+        "October": 6253
+      },
+      "_deletedOnFullPay": {}
     }
   ],
   "paid": {
@@ -2357,7 +2374,11 @@
     "October_382_1st": true,
     "October_306_debt1": true,
     "October_377_debt1": true,
-    "October_384_debt1": true
+    "October_384_debt1": true,
+    "October_386_debt1": true,
+    "October_308_debt2": true,
+    "October_340_debt2": true,
+    "October_343_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
