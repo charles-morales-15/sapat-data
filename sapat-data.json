@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-14T08:53:55.775Z",
+  "exportedAt": "2026-10-14T16:12:49.387Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -2192,27 +2192,25 @@
     {
       "id": 390,
       "cat": "BASIC GOODS",
-      "item": "Meal Plan (Week 3)",
+      "item": "Meal Plan (Week 3 & 4)",
       "channel": "BPI",
       "cutoff": "2nd",
       "ada": "No",
       "subtype": "Food & Grocery",
       "date": "29",
       "data": {
-        "October": 5000
+        "October": 7477.85
       }
     },
     {
-      "id": 391,
-      "cat": "BASIC GOODS",
-      "item": "Meal Plan (Week 4)",
+      "id": 392,
+      "cat": "LEISURE",
+      "item": "Fonication Starter Pack (Lube, Poppers)",
       "channel": "BPI",
-      "cutoff": "2nd",
-      "ada": "No",
-      "subtype": "Food & Grocery",
-      "date": "29",
+      "date": "14",
+      "cutoff": "1st",
       "data": {
-        "October": 5000
+        "October": 2500
       }
     }
   ],
@@ -2463,13 +2461,16 @@
     "October_354_subs": true,
     "October_63_ut": true,
     "September_65_ut": true,
-    "October_8_1st": true
+    "October_8_1st": true,
+    "October_390_2nd": true,
+    "October_392_ls": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
     "cmt_330_1st_July": "\"July 13 - 17\"",
     "cmt_313_d_debt2_September": "\"Closed\"",
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
+    "cmt_390_2nd_October": "\"Oct 19 - 29\"",
     "cmt_4_1st_July": "\"July 6 - 10\"",
     "cmt_8_1st_September": "\"Dry Cleaning + 440\""
   }
