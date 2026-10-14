@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-14T07:30:26.951Z",
+  "exportedAt": "2026-10-14T07:36:42.614Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -1190,7 +1190,6 @@
         "May": 4000,
         "July": 3840,
         "September": 3361,
-        "October": 4000,
         "November": 4000,
         "December": 4000,
         "August": 4000
@@ -2002,8 +2001,8 @@
       "status": "On Time",
       "installments": 0,
       "paid_inst": 0,
-      "balance": 5000,
-      "minPayment": 5000,
+      "balance": 15000,
+      "minPayment": 15000,
       "data": {
         "October": 5000
       }
@@ -2035,6 +2034,45 @@
       "cutoff": "1st",
       "data": {
         "October": 7286
+      }
+    },
+    {
+      "id": 380,
+      "cat": "BASIC GOODS",
+      "item": "House Rent",
+      "channel": "GCash",
+      "cutoff": "1st",
+      "ada": "No",
+      "subtype": "Family",
+      "date": "15",
+      "data": {
+        "October": 10000
+      }
+    },
+    {
+      "id": 381,
+      "cat": "BASIC GOODS",
+      "item": "Mama's Birthday Gift",
+      "channel": "GCash",
+      "cutoff": "1st",
+      "ada": "No",
+      "subtype": "Family",
+      "date": "15",
+      "data": {
+        "October": 7000
+      }
+    },
+    {
+      "id": 382,
+      "cat": "BASIC GOODS",
+      "item": "Mama's Birthday Cake",
+      "channel": "GCash",
+      "cutoff": "1st",
+      "ada": "No",
+      "subtype": "Family",
+      "date": "15",
+      "data": {
+        "October": 1650
       }
     }
   ],
@@ -2259,7 +2297,11 @@
     "September_375_ls": true,
     "October_4_1st": true,
     "September_370_subs": true,
-    "September_369_subs": true
+    "September_369_subs": true,
+    "October_1_1st": true,
+    "October_380_1st": true,
+    "October_381_1st": true,
+    "October_382_1st": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
