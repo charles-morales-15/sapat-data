@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-15T05:06:37.062Z",
+  "exportedAt": "2026-10-15T18:22:44.033Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -1186,13 +1186,11 @@
         "February": 4000,
         "March": 4000,
         "April": 4000,
-        "May": 4000,
         "July": 3840,
         "September": 3361,
         "November": 4000,
         "December": 4000,
-        "August": 4000,
-        "October": 4000
+        "August": 4000
       },
       "subtype": "Food & Grocery"
     },
@@ -1471,8 +1469,6 @@
       "cutoff": "2nd",
       "amount": 299,
       "data": {
-        "July": 299,
-        "August": 299,
         "September": 299,
         "October": 299,
         "November": 299,
@@ -1481,8 +1477,7 @@
         "February": 299,
         "March": 299,
         "April": 299,
-        "May": 299,
-        "June": 299
+        "May": 299
       }
     },
     {
@@ -1604,7 +1599,6 @@
         "March": 249,
         "April": 249,
         "May": 249,
-        "June": 249,
         "July": 249,
         "August": 249
       }
@@ -1661,9 +1655,7 @@
         "February": 1260,
         "March": 1260,
         "April": 1260,
-        "May": 1260,
-        "June": 1260,
-        "July": 1260
+        "May": 1260
       }
     },
     {
@@ -1877,10 +1869,7 @@
         "February": 350,
         "March": 350,
         "April": 350,
-        "May": 350,
-        "June": 350,
-        "July": 350,
-        "August": 350
+        "May": 350
       }
     },
     {
@@ -1904,10 +1893,7 @@
         "February": 149,
         "March": 149,
         "April": 149,
-        "May": 149,
-        "June": 149,
-        "July": 149,
-        "August": 149
+        "May": 149
       }
     },
     {
@@ -2051,11 +2037,6 @@
         "February": 7000,
         "March": 7000,
         "April": 7000,
-        "May": 7000,
-        "June": 7000,
-        "July": 7000,
-        "August": 7000,
-        "September": 7000,
         "November": 7000,
         "December": 7000
       }
@@ -2075,11 +2056,6 @@
         "February": 1650,
         "March": 1650,
         "April": 1650,
-        "May": 1650,
-        "June": 1650,
-        "July": 1650,
-        "August": 1650,
-        "September": 1650,
         "November": 1650,
         "December": 1650
       }
@@ -2228,11 +2204,6 @@
         "February": 7477.85,
         "March": 7477.85,
         "April": 7477.85,
-        "May": 7477.85,
-        "June": 7477.85,
-        "July": 7477.85,
-        "August": 7477.85,
-        "September": 7477.85,
         "November": 7477.85,
         "December": 7477.85
       }
@@ -2246,6 +2217,19 @@
       "cutoff": "1st",
       "data": {
         "October": 2500
+      }
+    },
+    {
+      "id": 393,
+      "cat": "BASIC GOODS",
+      "item": "Clothes",
+      "channel": "BPI",
+      "cutoff": "2nd",
+      "ada": "No",
+      "subtype": "Clothing",
+      "date": "16",
+      "data": {
+        "October": 2662.56
       }
     }
   ],
@@ -2366,7 +2350,6 @@
     "July_75_subs": true,
     "July_325_subs": true,
     "July_324_subs": true,
-    "July_347_subs": true,
     "July_76_subs": true,
     "July_61_ut": true,
     "July_313_debt2": true,
@@ -2407,7 +2390,6 @@
     "August_75_subs": true,
     "August_357_subs": true,
     "August_76_subs": true,
-    "August_347_subs": true,
     "August_318_subs": true,
     "August_61_ut": true,
     "August_2_2nd": true,
@@ -2498,7 +2480,8 @@
     "September_65_ut": true,
     "October_8_1st": true,
     "October_390_2nd": true,
-    "October_392_ls": true
+    "October_392_ls": true,
+    "October_393_2nd": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
