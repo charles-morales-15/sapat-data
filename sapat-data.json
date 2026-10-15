@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-14T16:12:49.387Z",
+  "exportedAt": "2026-10-15T05:06:37.062Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -827,7 +827,8 @@
         "July": 5617.19,
         "August": 5617.19,
         "September": 5617.19,
-        "November": 5617.19
+        "November": 5617.19,
+        "December": 25246.76
       }
     },
     {
@@ -1190,7 +1191,8 @@
         "September": 3361,
         "November": 4000,
         "December": 4000,
-        "August": 4000
+        "August": 4000,
+        "October": 4000
       },
       "subtype": "Food & Grocery"
     },
@@ -2044,7 +2046,18 @@
       "subtype": "Family",
       "date": "15",
       "data": {
-        "October": 7000
+        "October": 7000,
+        "January": 7000,
+        "February": 7000,
+        "March": 7000,
+        "April": 7000,
+        "May": 7000,
+        "June": 7000,
+        "July": 7000,
+        "August": 7000,
+        "September": 7000,
+        "November": 7000,
+        "December": 7000
       }
     },
     {
@@ -2057,7 +2070,18 @@
       "subtype": "Family",
       "date": "15",
       "data": {
-        "October": 1650
+        "October": 1650,
+        "January": 1650,
+        "February": 1650,
+        "March": 1650,
+        "April": 1650,
+        "May": 1650,
+        "June": 1650,
+        "July": 1650,
+        "August": 1650,
+        "September": 1650,
+        "November": 1650,
+        "December": 1650
       }
     },
     {
@@ -2199,7 +2223,18 @@
       "subtype": "Food & Grocery",
       "date": "29",
       "data": {
-        "October": 7477.85
+        "October": 7477.85,
+        "January": 7477.85,
+        "February": 7477.85,
+        "March": 7477.85,
+        "April": 7477.85,
+        "May": 7477.85,
+        "June": 7477.85,
+        "July": 7477.85,
+        "August": 7477.85,
+        "September": 7477.85,
+        "November": 7477.85,
+        "December": 7477.85
       }
     },
     {
