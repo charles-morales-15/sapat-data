@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-15T18:22:47.627Z",
+  "exportedAt": "2026-10-16T16:22:54.366Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -674,7 +674,7 @@
         "November": 1817.86,
         "December": 1817.86
       },
-      "minPayment": 6316.35,
+      "minPayment": 1817.86,
       "totalPayments": 23
     },
     {
@@ -722,7 +722,7 @@
         "November": 6156.67,
         "December": 6156.67
       },
-      "minPayment": 12313.24,
+      "minPayment": 6156.67,
       "totalPayments": 6
     },
     {
@@ -1141,7 +1141,7 @@
       "installments": 6,
       "paid_inst": 4,
       "balance": 24977.3,
-      "minPayment": 9977.3,
+      "minPayment": 5000,
       "data": {
         "July": 5000,
         "August": 5000,
@@ -1190,7 +1190,8 @@
         "September": 3361,
         "November": 4000,
         "December": 4000,
-        "August": 4000
+        "August": 4000,
+        "May": 4000
       },
       "subtype": "Food & Grocery"
     },
@@ -1477,7 +1478,10 @@
         "February": 299,
         "March": 299,
         "April": 299,
-        "May": 299
+        "May": 299,
+        "June": 299,
+        "July": 299,
+        "August": 299
       }
     },
     {
@@ -1600,7 +1604,8 @@
         "April": 249,
         "May": 249,
         "July": 249,
-        "August": 249
+        "August": 249,
+        "June": 249
       }
     },
     {
@@ -1655,7 +1660,9 @@
         "February": 1260,
         "March": 1260,
         "April": 1260,
-        "May": 1260
+        "May": 1260,
+        "June": 1260,
+        "July": 1260
       }
     },
     {
@@ -1869,7 +1876,10 @@
         "February": 350,
         "March": 350,
         "April": 350,
-        "May": 350
+        "May": 350,
+        "June": 350,
+        "July": 350,
+        "August": 350
       }
     },
     {
@@ -1893,7 +1903,10 @@
         "February": 149,
         "March": 149,
         "April": 149,
-        "May": 149
+        "May": 149,
+        "June": 149,
+        "July": 149,
+        "August": 149
       }
     },
     {
@@ -2020,44 +2033,6 @@
       "cutoff": "1st",
       "data": {
         "October": 7286
-      }
-    },
-    {
-      "id": 381,
-      "cat": "BASIC GOODS",
-      "item": "Mama's Birthday Gift",
-      "channel": "GCash",
-      "cutoff": "1st",
-      "ada": "No",
-      "subtype": "Family",
-      "date": "15",
-      "data": {
-        "October": 7000,
-        "January": 7000,
-        "February": 7000,
-        "March": 7000,
-        "April": 7000,
-        "November": 7000,
-        "December": 7000
-      }
-    },
-    {
-      "id": 382,
-      "cat": "BASIC GOODS",
-      "item": "Mama's Birthday Cake",
-      "channel": "GCash",
-      "cutoff": "1st",
-      "ada": "No",
-      "subtype": "Family",
-      "date": "15",
-      "data": {
-        "October": 1650,
-        "January": 1650,
-        "February": 1650,
-        "March": 1650,
-        "April": 1650,
-        "November": 1650,
-        "December": 1650
       }
     },
     {
@@ -2190,25 +2165,6 @@
       "_deletedOnFullPay": {}
     },
     {
-      "id": 390,
-      "cat": "BASIC GOODS",
-      "item": "Meal Plan (Week 3 & 4)",
-      "channel": "BPI",
-      "cutoff": "2nd",
-      "ada": "No",
-      "subtype": "Food & Grocery",
-      "date": "29",
-      "data": {
-        "October": 7477.85,
-        "January": 7477.85,
-        "February": 7477.85,
-        "March": 7477.85,
-        "April": 7477.85,
-        "November": 7477.85,
-        "December": 7477.85
-      }
-    },
-    {
       "id": 392,
       "cat": "LEISURE",
       "item": "Fonication Starter Pack (Lube, Poppers)",
@@ -2229,7 +2185,22 @@
       "subtype": "Clothing",
       "date": "16",
       "data": {
-        "October": 2662.56
+        "October": 2662.56,
+        "November": 2662.56,
+        "December": 2662.56
+      }
+    },
+    {
+      "id": 394,
+      "cat": "BASIC GOODS",
+      "item": "Meal Plan (Week 3 & 4)",
+      "channel": "BPI",
+      "cutoff": "1st",
+      "ada": "No",
+      "subtype": "Food & Grocery",
+      "date": "14",
+      "data": {
+        "October": 7478
       }
     }
   ],
@@ -2454,8 +2425,6 @@
     "September_370_subs": true,
     "September_369_subs": true,
     "October_1_1st": true,
-    "October_381_1st": true,
-    "October_382_1st": true,
     "October_306_debt1": true,
     "October_377_debt1": true,
     "October_384_debt1": true,
@@ -2479,9 +2448,25 @@
     "October_63_ut": true,
     "September_65_ut": true,
     "October_8_1st": true,
-    "October_390_2nd": true,
     "October_392_ls": true,
-    "October_393_2nd": true
+    "October_393_2nd": true,
+    "June_370_subs": true,
+    "June_357_subs": true,
+    "June_347_subs": true,
+    "June_369_subs": true,
+    "June_354_subs": true,
+    "July_370_subs": true,
+    "July_357_subs": true,
+    "July_347_subs": true,
+    "July_369_subs": true,
+    "July_354_subs": true,
+    "August_40_ins": true,
+    "August_370_subs": true,
+    "August_347_subs": true,
+    "August_369_subs": true,
+    "September_40_ins": true,
+    "September_41_ins": true,
+    "October_394_1st": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
