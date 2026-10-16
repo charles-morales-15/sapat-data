@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-16T16:28:08.018Z",
+  "exportedAt": "2026-10-16T16:55:21.686Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -2241,6 +2241,17 @@
       "data": {
         "October": 2000
       }
+    },
+    {
+      "id": 398,
+      "cat": "LEISURE",
+      "item": "Coffee Treat (Karl, Ven, Ryan)",
+      "channel": "BPI",
+      "date": "17",
+      "cutoff": "2nd",
+      "data": {
+        "October": 787
+      }
     }
   ],
   "paid": {
@@ -2508,7 +2519,8 @@
     "October_394_1st": true,
     "October_396_1st": true,
     "October_395_1st": true,
-    "October_397_2nd": true
+    "October_397_2nd": true,
+    "October_398_ls": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
