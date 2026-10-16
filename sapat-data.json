@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-16T16:22:54.366Z",
+  "exportedAt": "2026-10-16T16:28:08.018Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -2202,6 +2202,45 @@
       "data": {
         "October": 7478
       }
+    },
+    {
+      "id": 395,
+      "cat": "BASIC GOODS",
+      "item": "Mama's Birthday Cake",
+      "channel": "BPI",
+      "cutoff": "1st",
+      "ada": "No",
+      "subtype": "Family",
+      "date": "14",
+      "data": {
+        "October": 1650
+      }
+    },
+    {
+      "id": 396,
+      "cat": "BASIC GOODS",
+      "item": "Mama's Birthday Gift",
+      "channel": "BPI",
+      "cutoff": "1st",
+      "ada": "No",
+      "subtype": "Family",
+      "date": "14",
+      "data": {
+        "October": 7000
+      }
+    },
+    {
+      "id": 397,
+      "cat": "BASIC GOODS",
+      "item": "Brents's Weddding gift",
+      "channel": "BPI",
+      "cutoff": "2nd",
+      "ada": "No",
+      "subtype": "Family",
+      "date": "17",
+      "data": {
+        "October": 2000
+      }
     }
   ],
   "paid": {
@@ -2466,7 +2505,10 @@
     "August_369_subs": true,
     "September_40_ins": true,
     "September_41_ins": true,
-    "October_394_1st": true
+    "October_394_1st": true,
+    "October_396_1st": true,
+    "October_395_1st": true,
+    "October_397_2nd": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
