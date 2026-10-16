@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-16T16:55:21.686Z",
+  "exportedAt": "2026-10-16T16:59:32.322Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -2252,6 +2252,19 @@
       "data": {
         "October": 787
       }
+    },
+    {
+      "id": 399,
+      "cat": "BASIC GOODS",
+      "item": "iHerb (Whey, Magnesium, Protein Bar)",
+      "channel": "GCash",
+      "cutoff": "1st",
+      "ada": "No",
+      "subtype": "Food & Grocery",
+      "date": "15",
+      "data": {
+        "October": 7331.21
+      }
     }
   ],
   "paid": {
@@ -2520,7 +2533,8 @@
     "October_396_1st": true,
     "October_395_1st": true,
     "October_397_2nd": true,
-    "October_398_ls": true
+    "October_398_ls": true,
+    "October_399_1st": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
