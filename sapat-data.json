@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-16T16:59:32.322Z",
+  "exportedAt": "2026-10-20T09:52:17.730Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -1191,7 +1191,8 @@
         "November": 4000,
         "December": 4000,
         "August": 4000,
-        "May": 4000
+        "May": 4000,
+        "October": 4000
       },
       "subtype": "Food & Grocery"
     },
@@ -2200,7 +2201,9 @@
       "subtype": "Food & Grocery",
       "date": "14",
       "data": {
-        "October": 7478
+        "October": 7478,
+        "November": 7478,
+        "December": 7478
       }
     },
     {
@@ -2213,7 +2216,9 @@
       "subtype": "Family",
       "date": "14",
       "data": {
-        "October": 1650
+        "October": 1650,
+        "November": 1650,
+        "December": 1650
       }
     },
     {
@@ -2226,7 +2231,9 @@
       "subtype": "Family",
       "date": "14",
       "data": {
-        "October": 7000
+        "October": 7000,
+        "November": 7000,
+        "December": 7000
       }
     },
     {
@@ -2239,7 +2246,9 @@
       "subtype": "Family",
       "date": "17",
       "data": {
-        "October": 2000
+        "October": 2000,
+        "November": 2000,
+        "December": 2000
       }
     },
     {
@@ -2263,7 +2272,24 @@
       "subtype": "Food & Grocery",
       "date": "15",
       "data": {
-        "October": 7331.21
+        "October": 7331.21,
+        "November": 7331.21,
+        "December": 7331.21
+      }
+    },
+    {
+      "id": 400,
+      "cat": "INSURANCE",
+      "item": "St Peter",
+      "channel": "BPI",
+      "date": "18",
+      "ada": "No",
+      "type": "Funeral",
+      "delayed": 0,
+      "status": "Active",
+      "cutoff": "2nd",
+      "data": {
+        "October": 6600
       }
     }
   ],
@@ -2534,7 +2560,8 @@
     "October_395_1st": true,
     "October_397_2nd": true,
     "October_398_ls": true,
-    "October_399_1st": true
+    "October_399_1st": true,
+    "October_400_ins": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
