@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-28T09:15:33.347Z",
+  "exportedAt": "2026-10-28T09:24:37.460Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -1231,7 +1231,7 @@
       "installments": 36,
       "paid_inst": 4,
       "balance": 51994.479999999996,
-      "minPayment": 4129.32,
+      "minPayment": 8129.32,
       "data": {
         "June": 5966.29,
         "July": 5966.29,
@@ -2438,6 +2438,19 @@
       "data": {
         "October": 8038
       }
+    },
+    {
+      "id": 410,
+      "cat": "BASIC GOODS",
+      "item": "GrabFood",
+      "channel": "GrabPay",
+      "cutoff": "2nd",
+      "ada": "No",
+      "subtype": "Food & Grocery",
+      "date": "28",
+      "data": {
+        "October": 6395.5
+      }
     }
   ],
   "paid": {
@@ -2717,7 +2730,8 @@
     "October_406_debt2": true,
     "October_407_2nd": true,
     "October_408_ls": true,
-    "October_409_2nd": true
+    "October_409_2nd": true,
+    "October_410_2nd": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
