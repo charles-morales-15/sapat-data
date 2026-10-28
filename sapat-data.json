@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-28T08:18:51.404Z",
+  "exportedAt": "2026-10-28T09:05:28.989Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -139,7 +139,7 @@
         "July": 920,
         "August": 660,
         "September": 830,
-        "October": 700,
+        "October": 830,
         "November": 700,
         "December": 700
       },
@@ -688,8 +688,8 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 1,
-      "balance": 20750.35,
+      "paid_inst": 2,
+      "balance": 18418.14,
       "data": {
         "June": 4150.07,
         "July": 4150.07,
@@ -2310,6 +2310,112 @@
       "data": {
         "October": 40000
       }
+    },
+    {
+      "id": 402,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "Atome",
+      "channel": "BPI",
+      "date": "25",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 9958.13,
+      "minPayment": 9958.13,
+      "data": {
+        "October": 9958.13
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 403,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "MayaCredit",
+      "channel": "Paymaya",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 10755.17,
+      "minPayment": 10755.17,
+      "data": {
+        "October": 10755.17
+      }
+    },
+    {
+      "id": 404,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "GCredit",
+      "channel": "GCash",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 4331.21,
+      "minPayment": 4331.21,
+      "data": {
+        "October": 4331.21
+      }
+    },
+    {
+      "id": 405,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "FidoPH",
+      "channel": "BPI",
+      "date": "28",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 5861,
+      "minPayment": 5861,
+      "data": {
+        "October": 5861
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 406,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "LazadaPayLater Lazada FastCash",
+      "channel": "BPI",
+      "date": "25",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 7578.18,
+      "minPayment": 7578.18,
+      "data": {
+        "October": 7578.18
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 407,
+      "cat": "BASIC GOODS",
+      "item": "Lazada",
+      "channel": "BPI",
+      "cutoff": "2nd",
+      "ada": "No",
+      "subtype": "Clothing",
+      "date": "19",
+      "data": {
+        "October": 7418.23
+      }
     }
   ],
   "paid": {
@@ -2582,7 +2688,12 @@
     "October_399_1st": true,
     "October_400_ins": true,
     "October_3_2nd": true,
-    "October_10_2nd": true
+    "October_10_2nd": true,
+    "October_402_debt2": true,
+    "October_307_debt2": true,
+    "October_405_debt2": true,
+    "October_406_debt2": true,
+    "October_407_2nd": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
