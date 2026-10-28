@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-20T09:52:17.730Z",
+  "exportedAt": "2026-10-28T06:44:31.941Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -1191,8 +1191,7 @@
         "November": 4000,
         "December": 4000,
         "August": 4000,
-        "May": 4000,
-        "October": 4000
+        "May": 4000
       },
       "subtype": "Food & Grocery"
     },
@@ -2289,7 +2288,9 @@
       "status": "Active",
       "cutoff": "2nd",
       "data": {
-        "October": 6600
+        "October": 6600,
+        "November": 6600,
+        "December": 6600
       }
     }
   ],
@@ -2561,7 +2562,9 @@
     "October_397_2nd": true,
     "October_398_ls": true,
     "October_399_1st": true,
-    "October_400_ins": true
+    "October_400_ins": true,
+    "October_3_2nd": true,
+    "October_10_2nd": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
