@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-28T09:05:28.989Z",
+  "exportedAt": "2026-10-28T09:15:33.347Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -1147,7 +1147,6 @@
         "August": 5000,
         "September": 5000,
         "October": 5000,
-        "November": 5000,
         "December": 5000
       },
       "totalPayments": 0
@@ -1559,7 +1558,6 @@
         "August": 945.68,
         "September": 945.68,
         "October": 945.68,
-        "November": 945.68,
         "December": 945.68
       }
     },
@@ -2416,6 +2414,30 @@
       "data": {
         "October": 7418.23
       }
+    },
+    {
+      "id": 408,
+      "cat": "LEISURE",
+      "item": "Carlos Moravillas (Alitaptap)",
+      "channel": "GCash",
+      "date": "24",
+      "cutoff": "2nd",
+      "data": {
+        "October": 2000
+      }
+    },
+    {
+      "id": 409,
+      "cat": "BASIC GOODS",
+      "item": "Ate Joy",
+      "channel": "GCash",
+      "cutoff": "2nd",
+      "ada": "No",
+      "subtype": "Food & Grocery",
+      "date": "28",
+      "data": {
+        "October": 8038
+      }
     }
   ],
   "paid": {
@@ -2693,7 +2715,9 @@
     "October_307_debt2": true,
     "October_405_debt2": true,
     "October_406_debt2": true,
-    "October_407_2nd": true
+    "October_407_2nd": true,
+    "October_408_ls": true,
+    "October_409_2nd": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
