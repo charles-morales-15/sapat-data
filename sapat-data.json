@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-28T06:44:31.941Z",
+  "exportedAt": "2026-10-28T06:46:28.682Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -2012,9 +2012,9 @@
       "subtype": "Personal",
       "item": "Erica Anne Baldo",
       "channel": "BPI",
-      "date": "15",
+      "date": "29",
       "ada": "No",
-      "cutoff": "1st",
+      "cutoff": "2nd",
       "status": "On Time",
       "installments": 0,
       "paid_inst": 0,
@@ -2291,6 +2291,24 @@
         "October": 6600,
         "November": 6600,
         "December": 6600
+      }
+    },
+    {
+      "id": 401,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Francis Nicko Louie Ramos",
+      "channel": "BPI",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 40000,
+      "minPayment": 40000,
+      "data": {
+        "October": 40000
       }
     }
   ],
@@ -2570,6 +2588,7 @@
     "cmt_8_1st_June": "\"June 12 pick up\"",
     "cmt_330_1st_July": "\"July 13 - 17\"",
     "cmt_313_d_debt2_September": "\"Closed\"",
+    "cmt_401_d_debt2_October": "\"Laptop\"",
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
     "cmt_390_2nd_October": "\"Oct 19 - 29\"",
     "cmt_4_1st_July": "\"July 6 - 10\"",
