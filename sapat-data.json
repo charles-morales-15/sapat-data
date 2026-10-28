@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-28T09:24:37.460Z",
+  "exportedAt": "2026-10-28T09:32:52.320Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -1867,8 +1867,6 @@
       "amount": 350,
       "data": {
         "September": 350,
-        "October": 350,
-        "November": 350,
         "December": 350,
         "January": 350,
         "February": 350,
@@ -2477,7 +2475,6 @@
     "June_311_debt1": true,
     "June_42_ins": true,
     "December_319_subs": true,
-    "October_320_subs": true,
     "December_322_subs": true,
     "March_327_subs": true,
     "February_63_ut": true,
@@ -2731,7 +2728,15 @@
     "October_407_2nd": true,
     "October_408_ls": true,
     "October_409_2nd": true,
-    "October_410_2nd": true
+    "October_410_2nd": true,
+    "October_74_subs": true,
+    "October_328_subs": true,
+    "October_324_subs": true,
+    "October_75_subs": true,
+    "October_357_subs": true,
+    "October_347_subs": true,
+    "October_318_subs": true,
+    "October_325_subs": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
