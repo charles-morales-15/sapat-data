@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-29T07:48:56.673Z",
+  "exportedAt": "2026-10-29T07:58:45.371Z",
   "exportedBy": "SAPAT",
-  "month": "October",
+  "month": "November",
   "data": [
     {
       "id": 1,
@@ -1205,7 +1205,7 @@
       "cutoff": "1st",
       "status": "On Time",
       "installments": 12,
-      "paid_inst": 5,
+      "paid_inst": 6,
       "balance": 272184.84,
       "minPayment": 23000,
       "data": {
@@ -2750,7 +2750,9 @@
     "October_403_debt2": true,
     "October_404_debt2": true,
     "October_335_debt2": true,
-    "October_2_2nd": true
+    "October_2_2nd": true,
+    "October_61_ut": true,
+    "November_334_debt1": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
