@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-29T07:45:26.441Z",
+  "exportedAt": "2026-10-29T07:48:56.673Z",
   "exportedBy": "SAPAT",
   "month": "October",
   "data": [
@@ -1229,9 +1229,9 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 36,
-      "paid_inst": 4,
-      "balance": 51994.479999999996,
-      "minPayment": 8129.32,
+      "paid_inst": 5,
+      "balance": 26994.48,
+      "minPayment": 3129.32,
       "data": {
         "June": 5966.29,
         "July": 5966.29,
@@ -2017,7 +2017,8 @@
       "minPayment": 10000,
       "data": {
         "October": 10000
-      }
+      },
+      "_deletedOnFullPay": {}
     },
     {
       "id": 379,
@@ -2081,7 +2082,8 @@
       "minPayment": 10000,
       "data": {
         "October": 10000
-      }
+      },
+      "_deletedOnFullPay": {}
     },
     {
       "id": 386,
@@ -2302,9 +2304,7 @@
       "paid_inst": 1,
       "balance": 40000,
       "minPayment": 40000,
-      "data": {
-        "October": 40000
-      }
+      "data": {}
     },
     {
       "id": 402,
@@ -2341,7 +2341,8 @@
       "minPayment": 10755.17,
       "data": {
         "October": 10755.17
-      }
+      },
+      "_deletedOnFullPay": {}
     },
     {
       "id": 404,
@@ -2355,11 +2356,12 @@
       "status": "On Time",
       "installments": 1,
       "paid_inst": 1,
-      "balance": 4331.21,
-      "minPayment": 4331.21,
+      "balance": 8025.62,
+      "minPayment": 8025.62,
       "data": {
         "October": 4331.21
-      }
+      },
+      "_deletedOnFullPay": {}
     },
     {
       "id": 405,
@@ -2741,7 +2743,14 @@
     "November_66_ut": true,
     "October_65_ut": true,
     "November_62_ut": true,
-    "October_369_subs": true
+    "October_369_subs": true,
+    "October_76_subs": true,
+    "October_385_debt2": true,
+    "October_378_debt2": true,
+    "October_403_debt2": true,
+    "October_404_debt2": true,
+    "October_335_debt2": true,
+    "October_2_2nd": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
