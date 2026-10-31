@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-29T07:58:45.371Z",
+  "exportedAt": "2026-10-31T10:06:27.876Z",
   "exportedBy": "SAPAT",
   "month": "November",
   "data": [
@@ -79,7 +79,7 @@
       "id": 4,
       "cat": "BASIC GOODS",
       "item": "Meal Plan (Week 1)",
-      "channel": "BPI",
+      "channel": "GCash",
       "cutoff": "1st",
       "ada": "No",
       "data": {
@@ -93,7 +93,7 @@
         "August": 5000,
         "September": 3361,
         "October": 6220.72,
-        "November": 5000,
+        "November": 3457.13,
         "December": 5000
       },
       "subtype": "Food & Grocery"
@@ -1175,7 +1175,7 @@
       "id": 330,
       "cat": "BASIC GOODS",
       "item": "Meal Plan (Week 2)",
-      "channel": "BPI",
+      "channel": "GCash",
       "cutoff": "1st",
       "ada": "No",
       "date": "11",
@@ -1187,10 +1187,11 @@
         "April": 4000,
         "July": 3840,
         "September": 3361,
-        "November": 4000,
+        "November": 2503.57,
         "December": 4000,
         "August": 4000,
-        "May": 4000
+        "May": 4000,
+        "October": 4000
       },
       "subtype": "Food & Grocery"
     },
@@ -1874,7 +1875,10 @@
         "May": 350,
         "June": 350,
         "July": 350,
-        "August": 350
+        "August": 350,
+        "October": 350,
+        "November": 350,
+        "December": 350
       }
     },
     {
@@ -2198,7 +2202,6 @@
       "date": "14",
       "data": {
         "October": 7478,
-        "November": 7478,
         "December": 7478
       }
     },
@@ -2411,7 +2414,9 @@
       "subtype": "Clothing",
       "date": "19",
       "data": {
-        "October": 7418.23
+        "October": 7418.23,
+        "November": 7418.23,
+        "December": 7418.23
       }
     },
     {
@@ -2435,7 +2440,9 @@
       "subtype": "Food & Grocery",
       "date": "28",
       "data": {
-        "October": 8038
+        "October": 8038,
+        "November": 8038,
+        "December": 8038
       }
     },
     {
@@ -2448,7 +2455,9 @@
       "subtype": "Food & Grocery",
       "date": "28",
       "data": {
-        "October": 6395.5
+        "October": 6395.5,
+        "November": 6395.5,
+        "December": 6395.5
       }
     }
   ],
@@ -2752,7 +2761,9 @@
     "October_335_debt2": true,
     "October_2_2nd": true,
     "October_61_ut": true,
-    "November_334_debt1": true
+    "November_334_debt1": true,
+    "November_4_1st": true,
+    "November_330_1st": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
