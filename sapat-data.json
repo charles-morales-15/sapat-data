@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-12T10:43:14.562Z",
+  "exportedAt": "2026-11-12T10:53:59.125Z",
   "exportedBy": "SAPAT",
   "month": "November",
   "data": [
@@ -2110,21 +2110,6 @@
       }
     },
     {
-      "id": 393,
-      "cat": "BASIC GOODS",
-      "item": "Clothes",
-      "channel": "BPI",
-      "cutoff": "2nd",
-      "ada": "No",
-      "subtype": "Clothing",
-      "date": "16",
-      "data": {
-        "October": 2662.56,
-        "December": 2662.56,
-        "November": 2662.56
-      }
-    },
-    {
       "id": 394,
       "cat": "BASIC GOODS",
       "item": "Meal Plan (Week 3 & 4)",
@@ -2137,21 +2122,6 @@
         "October": 7478,
         "December": 7478,
         "November": 7478
-      }
-    },
-    {
-      "id": 397,
-      "cat": "BASIC GOODS",
-      "item": "Brents's Weddding gift",
-      "channel": "BPI",
-      "cutoff": "2nd",
-      "ada": "No",
-      "subtype": "Family",
-      "date": "17",
-      "data": {
-        "October": 2000,
-        "December": 2000,
-        "November": 2000
       }
     },
     {
@@ -2319,8 +2289,7 @@
       "date": "19",
       "data": {
         "October": 7418.23,
-        "December": 7418.23,
-        "November": 7418.23
+        "December": 7418.23
       }
     },
     {
@@ -2332,21 +2301,6 @@
       "cutoff": "2nd",
       "data": {
         "October": 2000
-      }
-    },
-    {
-      "id": 409,
-      "cat": "BASIC GOODS",
-      "item": "Ate Joy",
-      "channel": "GCash",
-      "cutoff": "2nd",
-      "ada": "No",
-      "subtype": "Food & Grocery",
-      "date": "28",
-      "data": {
-        "October": 8038,
-        "November": 8038,
-        "December": 8038
       }
     },
     {
@@ -2498,6 +2452,17 @@
       "cutoff": "1st",
       "data": {
         "November": 2400
+      }
+    },
+    {
+      "id": 419,
+      "cat": "LEISURE",
+      "item": "Moalboal Resort",
+      "channel": "BPI",
+      "date": "12",
+      "cutoff": "1st",
+      "data": {
+        "November": 7099.3
       }
     }
   ],
@@ -2734,7 +2699,6 @@
     "September_65_ut": true,
     "October_8_1st": true,
     "October_392_ls": true,
-    "October_393_2nd": true,
     "June_370_subs": true,
     "June_357_subs": true,
     "June_347_subs": true,
@@ -2752,7 +2716,6 @@
     "September_40_ins": true,
     "September_41_ins": true,
     "October_394_1st": true,
-    "October_397_2nd": true,
     "October_398_ls": true,
     "October_399_1st": true,
     "October_400_ins": true,
@@ -2764,7 +2727,6 @@
     "October_406_debt2": true,
     "October_407_2nd": true,
     "October_408_ls": true,
-    "October_409_2nd": true,
     "October_410_2nd": true,
     "October_74_subs": true,
     "October_328_subs": true,
@@ -2801,7 +2763,10 @@
     "November_415_debt1": true,
     "November_416_debt1": true,
     "November_417_debt1": true,
-    "November_418_ls": true
+    "November_418_ls": true,
+    "November_40_ins": true,
+    "November_41_ins": true,
+    "November_419_ls": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
