@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-12T10:39:39.668Z",
+  "exportedAt": "2026-11-12T10:43:14.562Z",
   "exportedBy": "SAPAT",
   "month": "November",
   "data": [
@@ -2490,26 +2490,14 @@
       "_deletedOnFullPay": {}
     },
     {
-      "id": 102,
-      "cat": "DEBT",
-      "subtype": "Digital Bank",
-      "item": "GCash Cash Loan (BillEase)",
-      "channel": "GCash",
-      "date": "1 & 15",
-      "ada": "Yes",
-      "cutoff": "both",
-      "status": "On Time",
-      "installments": 24,
-      "paid_inst": 1,
-      "balance": 41810.78,
+      "id": 418,
+      "cat": "LEISURE",
+      "item": "Louie's Poppers",
+      "channel": "BPI",
+      "date": "12",
+      "cutoff": "1st",
       "data": {
-        "June": 3635.72,
-        "July": 3635.72,
-        "August": 3635.72,
-        "September": 3635.72,
-        "October": 3635.72,
-        "November": 3635.72,
-        "December": 3635.72
+        "November": 2400
       }
     }
   ],
@@ -2812,7 +2800,8 @@
     "November_414_debt1": true,
     "November_415_debt1": true,
     "November_416_debt1": true,
-    "November_417_debt1": true
+    "November_417_debt1": true,
+    "November_418_ls": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
