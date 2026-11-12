@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-12T13:27:48.944Z",
+  "exportedAt": "2026-11-12T13:54:56.880Z",
   "exportedBy": "SAPAT",
   "month": "November",
   "data": [
@@ -2113,7 +2113,7 @@
       "id": 394,
       "cat": "BASIC GOODS",
       "item": "Meal Plan (Week 3 & 4)",
-      "channel": "BPI",
+      "channel": "GCash",
       "cutoff": "1st",
       "ada": "No",
       "subtype": "Food & Grocery",
@@ -2121,7 +2121,7 @@
       "data": {
         "October": 7478,
         "December": 7478,
-        "November": 7478
+        "November": 5888.57
       }
     },
     {
@@ -2133,21 +2133,6 @@
       "cutoff": "2nd",
       "data": {
         "October": 787
-      }
-    },
-    {
-      "id": 399,
-      "cat": "BASIC GOODS",
-      "item": "iHerb (Whey, Magnesium, Protein Bar)",
-      "channel": "GCash",
-      "cutoff": "1st",
-      "ada": "No",
-      "subtype": "Food & Grocery",
-      "date": "15",
-      "data": {
-        "October": 7331.21,
-        "December": 7331.21,
-        "November": 7331.21
       }
     },
     {
@@ -2476,6 +2461,19 @@
       "data": {
         "November": 7880
       }
+    },
+    {
+      "id": 421,
+      "cat": "BASIC GOODS",
+      "item": "Whey Protein (iHerb)",
+      "channel": "BPI",
+      "cutoff": "1st",
+      "ada": "No",
+      "subtype": "Food & Grocery",
+      "date": "12",
+      "data": {
+        "November": 9659.88
+      }
     }
   ],
   "paid": {
@@ -2729,7 +2727,6 @@
     "September_41_ins": true,
     "October_394_1st": true,
     "October_398_ls": true,
-    "October_399_1st": true,
     "October_400_ins": true,
     "October_3_2nd": true,
     "October_10_2nd": true,
@@ -2780,7 +2777,10 @@
     "November_41_ins": true,
     "November_419_ls": true,
     "November_420_1st": true,
-    "November_42_ins": true
+    "November_42_ins": true,
+    "November_421_1st": true,
+    "November_394_1st": true,
+    "November_8_1st": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
