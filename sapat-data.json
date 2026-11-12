@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-31T10:06:27.876Z",
+  "exportedAt": "2026-11-12T07:15:57.837Z",
   "exportedBy": "SAPAT",
   "month": "November",
   "data": [
@@ -2202,7 +2202,8 @@
       "date": "14",
       "data": {
         "October": 7478,
-        "December": 7478
+        "December": 7478,
+        "November": 7478
       }
     },
     {
