@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-12T15:06:31.687Z",
+  "exportedAt": "2026-11-12T15:21:26.245Z",
   "exportedBy": "SAPAT",
-  "month": "November",
+  "month": "December",
   "data": [
     {
       "id": 1,
@@ -286,30 +286,6 @@
         "December": 444
       },
       "cutoff": "1st"
-    },
-    {
-      "id": 60,
-      "cat": "UTILITIES",
-      "item": "Condo Rent",
-      "channel": "BPI",
-      "date": "30",
-      "ada": "Yes",
-      "data": {
-        "January": 10000,
-        "May": 30000,
-        "June": 10000,
-        "August": 10000,
-        "September": 10000,
-        "October": 10000,
-        "November": 10000,
-        "December": 10000,
-        "February": 10000,
-        "March": 10000,
-        "April": 10000,
-        "July": 10000
-      },
-      "cutoff": "2nd",
-      "subtype": "Condo"
     },
     {
       "id": 61,
@@ -2473,6 +2449,20 @@
       "data": {
         "November": 9659.88
       }
+    },
+    {
+      "id": 422,
+      "cat": "UTILITIES",
+      "subtype": "Condo",
+      "item": "Condo Rent",
+      "channel": "BPI",
+      "date": "27",
+      "ada": "No",
+      "cutoff": "2nd",
+      "data": {
+        "November": 60000,
+        "December": 60000
+      }
     }
   ],
   "paid": {
@@ -2517,10 +2507,8 @@
     "June_63_ut": true,
     "June_65_ut": true,
     "June_66_ut": true,
-    "June_60_ut": false,
     "June_61_ut": true,
     "June_64_ut": true,
-    "May_60_ut": true,
     "May_61_ut": true,
     "May_62_ut": true,
     "May_64_ut": true,
