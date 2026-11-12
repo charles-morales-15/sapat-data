@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-12T14:01:17.672Z",
+  "exportedAt": "2026-11-12T15:05:23.132Z",
   "exportedBy": "SAPAT",
   "month": "November",
   "data": [
@@ -2298,7 +2298,6 @@
       "date": "28",
       "data": {
         "October": 6395.5,
-        "November": 6395.5,
         "December": 6395.5
       }
     },
@@ -2785,7 +2784,8 @@
     "November_70_subs": true,
     "November_354_subs": true,
     "November_326_subs": true,
-    "November_63_ut": true
+    "November_63_ut": true,
+    "November_65_ut": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
