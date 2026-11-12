@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-12T07:41:57.245Z",
+  "exportedAt": "2026-11-12T07:44:53.635Z",
   "exportedBy": "SAPAT",
   "month": "November",
   "data": [
@@ -663,19 +663,18 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 24,
-      "paid_inst": 7,
+      "paid_inst": 24,
       "balance": 18279.58,
       "data": {
         "June": 1817.86,
         "July": 1817.86,
-        "August": 1817.86,
-        "September": 1817.86,
-        "October": 1817.86,
-        "November": 1817.86,
-        "December": 1817.86
+        "August": 1817.86
       },
       "minPayment": 7372.42,
-      "totalPayments": 23
+      "totalPayments": 23,
+      "_deletedOnFullPay": {
+        "September": 1817.86
+      }
     },
     {
       "id": 307,
@@ -689,7 +688,7 @@
       "status": "On Time",
       "installments": 6,
       "paid_inst": 1,
-      "balance": 20750.35,
+      "balance": 28222.35,
       "data": {
         "June": 4150.07,
         "July": 4150.07,
@@ -698,7 +697,7 @@
         "October": 4150.07,
         "November": 1817.86
       },
-      "minPayment": 1817.86,
+      "minPayment": 7472,
       "totalPayments": 6
     },
     {
@@ -2784,7 +2783,11 @@
     "November_411_1st": true,
     "November_308_debt2": true,
     "November_340_debt2": true,
-    "November_413_debt1": true
+    "November_413_debt1": true,
+    "October_306_debt2": true,
+    "September_306_debt2": true,
+    "August_306_debt2": true,
+    "July_306_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
