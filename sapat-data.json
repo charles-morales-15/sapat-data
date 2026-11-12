@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-12T07:28:53.885Z",
+  "exportedAt": "2026-11-12T07:41:57.245Z",
   "exportedBy": "SAPAT",
   "month": "November",
   "data": [
@@ -656,15 +656,15 @@
       "id": 306,
       "cat": "DEBT",
       "subtype": "Microloan",
-      "item": "BillEase (GCash Cash Loan)",
-      "channel": "GCash",
-      "date": "15 & 30",
+      "item": "BillEase",
+      "channel": "BPI",
+      "date": "29",
       "ada": "Yes",
-      "cutoff": "1st",
+      "cutoff": "2nd",
       "status": "On Time",
       "installments": 24,
       "paid_inst": 7,
-      "balance": 15405.65,
+      "balance": 18279.58,
       "data": {
         "June": 1817.86,
         "July": 1817.86,
@@ -674,7 +674,7 @@
         "November": 1817.86,
         "December": 1817.86
       },
-      "minPayment": 1817.86,
+      "minPayment": 7372.42,
       "totalPayments": 23
     },
     {
@@ -712,18 +712,20 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 5,
+      "paid_inst": 6,
       "balance": 30783.25,
       "data": {
         "July": 6156.67,
         "August": 6156.67,
         "September": 6156.67,
         "October": 6156.67,
-        "November": 6156.67,
-        "December": 6156.67
+        "November": 6156.67
       },
       "minPayment": 6156.67,
-      "totalPayments": 6
+      "totalPayments": 6,
+      "_deletedOnFullPay": {
+        "December": 6156.67
+      }
     },
     {
       "id": 310,
@@ -1326,7 +1328,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 4,
+      "paid_inst": 5,
       "balance": 20298.06,
       "minPayment": 3383.01,
       "data": {
@@ -2187,7 +2189,6 @@
       "date": "16",
       "data": {
         "October": 2662.56,
-        "November": 2662.56,
         "December": 2662.56
       }
     },
@@ -2440,6 +2441,41 @@
       "data": {
         "November": 2310.3
       }
+    },
+    {
+      "id": 412,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "Maya Credit",
+      "channel": "Paymaya",
+      "date": "12",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 10755.16,
+      "minPayment": 0,
+      "data": {}
+    },
+    {
+      "id": 413,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "Maya Credit",
+      "channel": "Paymaya",
+      "date": "12",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 10755.16,
+      "minPayment": 10755.16,
+      "data": {
+        "November": 10755.16
+      },
+      "_deletedOnFullPay": {}
     }
   ],
   "paid": {
@@ -2745,7 +2781,10 @@
     "November_330_1st": true,
     "October_330_1st": true,
     "November_1_1st": true,
-    "November_411_1st": true
+    "November_411_1st": true,
+    "November_308_debt2": true,
+    "November_340_debt2": true,
+    "November_413_debt1": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
