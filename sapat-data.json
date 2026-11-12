@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-12T07:15:57.837Z",
+  "exportedAt": "2026-11-12T07:28:53.885Z",
   "exportedBy": "SAPAT",
   "month": "November",
   "data": [
@@ -2207,36 +2207,6 @@
       }
     },
     {
-      "id": 395,
-      "cat": "BASIC GOODS",
-      "item": "Mama's Birthday Cake",
-      "channel": "BPI",
-      "cutoff": "1st",
-      "ada": "No",
-      "subtype": "Family",
-      "date": "14",
-      "data": {
-        "October": 1650,
-        "November": 1650,
-        "December": 1650
-      }
-    },
-    {
-      "id": 396,
-      "cat": "BASIC GOODS",
-      "item": "Mama's Birthday Gift",
-      "channel": "BPI",
-      "cutoff": "1st",
-      "ada": "No",
-      "subtype": "Family",
-      "date": "14",
-      "data": {
-        "October": 7000,
-        "November": 7000,
-        "December": 7000
-      }
-    },
-    {
       "id": 397,
       "cat": "BASIC GOODS",
       "item": "Brents's Weddding gift",
@@ -2247,7 +2217,6 @@
       "date": "17",
       "data": {
         "October": 2000,
-        "November": 2000,
         "December": 2000
       }
     },
@@ -2273,7 +2242,6 @@
       "date": "15",
       "data": {
         "October": 7331.21,
-        "November": 7331.21,
         "December": 7331.21
       }
     },
@@ -2416,7 +2384,6 @@
       "date": "19",
       "data": {
         "October": 7418.23,
-        "November": 7418.23,
         "December": 7418.23
       }
     },
@@ -2459,6 +2426,19 @@
         "October": 6395.5,
         "November": 6395.5,
         "December": 6395.5
+      }
+    },
+    {
+      "id": 411,
+      "cat": "BASIC GOODS",
+      "item": "Watsons",
+      "channel": "GCash",
+      "cutoff": "1st",
+      "ada": "No",
+      "subtype": "Food & Grocery",
+      "date": "12",
+      "data": {
+        "November": 2310.3
       }
     }
   ],
@@ -2724,8 +2704,6 @@
     "September_40_ins": true,
     "September_41_ins": true,
     "October_394_1st": true,
-    "October_396_1st": true,
-    "October_395_1st": true,
     "October_397_2nd": true,
     "October_398_ls": true,
     "October_399_1st": true,
@@ -2764,7 +2742,10 @@
     "October_61_ut": true,
     "November_334_debt1": true,
     "November_4_1st": true,
-    "November_330_1st": true
+    "November_330_1st": true,
+    "October_330_1st": true,
+    "November_1_1st": true,
+    "November_411_1st": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
