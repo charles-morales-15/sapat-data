@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-12T10:53:59.125Z",
+  "exportedAt": "2026-11-12T13:27:48.944Z",
   "exportedBy": "SAPAT",
   "month": "November",
   "data": [
@@ -2163,7 +2163,6 @@
       "cutoff": "2nd",
       "data": {
         "October": 6600,
-        "November": 6600,
         "December": 6600
       }
     },
@@ -2463,6 +2462,19 @@
       "cutoff": "1st",
       "data": {
         "November": 7099.3
+      }
+    },
+    {
+      "id": 420,
+      "cat": "BASIC GOODS",
+      "item": "Zara",
+      "channel": "BPI",
+      "cutoff": "1st",
+      "ada": "No",
+      "subtype": "Clothing",
+      "date": "12",
+      "data": {
+        "November": 7880
       }
     }
   ],
@@ -2766,7 +2778,9 @@
     "November_418_ls": true,
     "November_40_ins": true,
     "November_41_ins": true,
-    "November_419_ls": true
+    "November_419_ls": true,
+    "November_420_1st": true,
+    "November_42_ins": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
