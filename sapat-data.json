@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-12T15:21:26.245Z",
+  "exportedAt": "2026-11-12T15:36:59.707Z",
   "exportedBy": "SAPAT",
   "month": "December",
   "data": [
@@ -2463,6 +2463,21 @@
         "November": 60000,
         "December": 60000
       }
+    },
+    {
+      "id": 423,
+      "cat": "INSURANCE",
+      "item": "Columbarium",
+      "channel": "BPI",
+      "date": "15",
+      "ada": "No",
+      "type": "Funeral",
+      "delayed": 0,
+      "status": "Active",
+      "cutoff": "1st",
+      "data": {
+        "December": 1313.75
+      }
     }
   ],
   "paid": {
@@ -2773,7 +2788,8 @@
     "November_354_subs": true,
     "November_326_subs": true,
     "November_63_ut": true,
-    "November_65_ut": true
+    "November_65_ut": true,
+    "December_423_ins": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
