@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-12T07:44:53.635Z",
+  "exportedAt": "2026-11-12T10:39:39.668Z",
   "exportedBy": "SAPAT",
   "month": "November",
   "data": [
@@ -116,7 +116,7 @@
         "August": 440,
         "September": 1940,
         "October": 510,
-        "November": 700,
+        "November": 650,
         "December": 700
       },
       "subtype": "Clothing",
@@ -653,30 +653,6 @@
       "cutoff": "2nd"
     },
     {
-      "id": 306,
-      "cat": "DEBT",
-      "subtype": "Microloan",
-      "item": "BillEase",
-      "channel": "BPI",
-      "date": "29",
-      "ada": "Yes",
-      "cutoff": "2nd",
-      "status": "On Time",
-      "installments": 24,
-      "paid_inst": 24,
-      "balance": 18279.58,
-      "data": {
-        "June": 1817.86,
-        "July": 1817.86,
-        "August": 1817.86
-      },
-      "minPayment": 7372.42,
-      "totalPayments": 23,
-      "_deletedOnFullPay": {
-        "September": 1817.86
-      }
-    },
-    {
       "id": 307,
       "cat": "DEBT",
       "subtype": "Digital Bank",
@@ -688,14 +664,14 @@
       "status": "On Time",
       "installments": 6,
       "paid_inst": 1,
-      "balance": 28222.35,
+      "balance": 20750.35,
       "data": {
         "June": 4150.07,
         "July": 4150.07,
         "August": 4150.07,
         "September": 4150.07,
         "October": 4150.07,
-        "November": 1817.86
+        "November": 7472
       },
       "minPayment": 7472,
       "totalPayments": 6
@@ -807,30 +783,6 @@
         "June": 15000
       },
       "_deletedOnFullPay": {}
-    },
-    {
-      "id": 313,
-      "cat": "DEBT",
-      "subtype": "Microloan",
-      "item": "Grab Loan",
-      "channel": "GrabPay",
-      "date": "22",
-      "ada": "No",
-      "cutoff": "2nd",
-      "status": "Delayed",
-      "installments": 6,
-      "paid_inst": 4,
-      "balance": 42098.33,
-      "minPayment": 25246.76,
-      "totalPayments": 0,
-      "data": {
-        "June": 5617.19,
-        "July": 5617.19,
-        "August": 5617.19,
-        "September": 5617.19,
-        "November": 5617.19,
-        "December": 25246.76
-      }
     },
     {
       "id": 314,
@@ -1151,26 +1103,6 @@
         "December": 5000
       },
       "totalPayments": 0
-    },
-    {
-      "id": 329,
-      "cat": "DEBT",
-      "subtype": "Microloan",
-      "item": "GLoan",
-      "channel": "GCash",
-      "date": "17",
-      "ada": "No",
-      "cutoff": "2nd",
-      "status": "On Time",
-      "installments": 6,
-      "paid_inst": 1,
-      "balance": 36939.92,
-      "minPayment": 6156.67,
-      "data": {
-        "June": 6156.67,
-        "November": 6156.67,
-        "December": 6156.67
-      }
     },
     {
       "id": 330,
@@ -2188,7 +2120,8 @@
       "date": "16",
       "data": {
         "October": 2662.56,
-        "December": 2662.56
+        "December": 2662.56,
+        "November": 2662.56
       }
     },
     {
@@ -2217,7 +2150,8 @@
       "date": "17",
       "data": {
         "October": 2000,
-        "December": 2000
+        "December": 2000,
+        "November": 2000
       }
     },
     {
@@ -2242,7 +2176,8 @@
       "date": "15",
       "data": {
         "October": 7331.21,
-        "December": 7331.21
+        "December": 7331.21,
+        "November": 7331.21
       }
     },
     {
@@ -2384,7 +2319,8 @@
       "date": "19",
       "data": {
         "October": 7418.23,
-        "December": 7418.23
+        "December": 7418.23,
+        "November": 7418.23
       }
     },
     {
@@ -2438,7 +2374,8 @@
       "subtype": "Food & Grocery",
       "date": "12",
       "data": {
-        "November": 2310.3
+        "November": 2310.3,
+        "December": 2310.3
       }
     },
     {
@@ -2475,6 +2412,105 @@
         "November": 10755.16
       },
       "_deletedOnFullPay": {}
+    },
+    {
+      "id": 414,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "Lazada Pay Later",
+      "channel": "BPI",
+      "date": "12",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 1564.11,
+      "minPayment": 1564.11,
+      "data": {
+        "November": 1564.11
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 415,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "Lazada Fast Cash",
+      "channel": "BPI",
+      "date": "12",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 2720.01,
+      "minPayment": 2720.01,
+      "data": {
+        "November": 2720.01
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 416,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "Atome",
+      "channel": "BPI",
+      "date": "12",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 8623.93,
+      "minPayment": 8623.93,
+      "data": {
+        "November": 8623.93
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 417,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Angelica Frances Pineda",
+      "channel": "BPI",
+      "date": "12",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 0,
+      "paid_inst": 0,
+      "balance": 10000,
+      "minPayment": 10000,
+      "data": {
+        "November": 10000
+      },
+      "_deletedOnFullPay": {}
+    },
+    {
+      "id": 102,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "GCash Cash Loan (BillEase)",
+      "channel": "GCash",
+      "date": "1 & 15",
+      "ada": "Yes",
+      "cutoff": "both",
+      "status": "On Time",
+      "installments": 24,
+      "paid_inst": 1,
+      "balance": 41810.78,
+      "data": {
+        "June": 3635.72,
+        "July": 3635.72,
+        "August": 3635.72,
+        "September": 3635.72,
+        "October": 3635.72,
+        "November": 3635.72,
+        "December": 3635.72
+      }
     }
   ],
   "paid": {
@@ -2494,7 +2530,6 @@
     "June_9_2nd": true,
     "June_29_debt2": true,
     "June_30_debt2": true,
-    "June_306_debt1": true,
     "June_307_debt2": true,
     "June_308_debt1": true,
     "June_310_debt1": true,
@@ -2511,7 +2546,6 @@
     "February_64_ut": true,
     "June_101_debt1": true,
     "June_314_debt1": true,
-    "June_306_debt2": true,
     "June_70_subs": true,
     "June_326_subs": true,
     "June_76_subs": true,
@@ -2528,9 +2562,7 @@
     "May_61_ut": true,
     "May_62_ut": true,
     "May_64_ut": true,
-    "June_329_debt2": true,
     "June_330_1st": true,
-    "June_313_debt2": true,
     "June_317_debt2": true,
     "July_42_ins": true,
     "June_75_subs": true,
@@ -2562,7 +2594,6 @@
     "July_1_1st": true,
     "July_4_1st": true,
     "July_3_2nd": true,
-    "July_306_debt1": true,
     "July_342_debt1": true,
     "July_308_debt2": true,
     "July_340_debt2": true,
@@ -2595,12 +2626,10 @@
     "July_324_subs": true,
     "July_76_subs": true,
     "July_61_ut": true,
-    "July_313_debt2": true,
     "July_10_1st": true,
     "August_8_1st": true,
     "August_1_1st": true,
     "August_342_debt1": true,
-    "August_306_debt1": true,
     "August_308_debt2": true,
     "August_340_debt2": true,
     "August_343_debt2": true,
@@ -2624,7 +2653,6 @@
     "September_66_ut": true,
     "August_65_ut": true,
     "August_335_debt2": true,
-    "August_313_debt2": true,
     "August_42_ins": true,
     "August_74_subs": true,
     "August_328_subs": true,
@@ -2647,7 +2675,6 @@
     "September_1_1st": true,
     "August_330_1st": true,
     "August_9_2nd": true,
-    "September_306_debt1": true,
     "September_308_debt2": true,
     "September_340_debt2": true,
     "September_343_debt2": true,
@@ -2660,7 +2687,6 @@
     "October_367_debt1": true,
     "September_63_ut": true,
     "September_368_ls": true,
-    "September_313_debt2": true,
     "September_42_ins": true,
     "September_70_subs": true,
     "September_326_subs": true,
@@ -2697,7 +2723,6 @@
     "September_370_subs": true,
     "September_369_subs": true,
     "October_1_1st": true,
-    "October_306_debt1": true,
     "October_377_debt1": true,
     "October_384_debt1": true,
     "October_386_debt1": true,
@@ -2784,10 +2809,10 @@
     "November_308_debt2": true,
     "November_340_debt2": true,
     "November_413_debt1": true,
-    "October_306_debt2": true,
-    "September_306_debt2": true,
-    "August_306_debt2": true,
-    "July_306_debt2": true
+    "November_414_debt1": true,
+    "November_415_debt1": true,
+    "November_416_debt1": true,
+    "November_417_debt1": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
