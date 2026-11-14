@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-14T16:32:30.778Z",
+  "exportedAt": "2026-11-14T16:38:52.662Z",
   "exportedBy": "SAPAT",
   "month": "November 2026",
   "data": [
@@ -3405,6 +3405,32 @@
         "October 2027": 174.24,
         "November 2027": 174.24,
         "December 2027": 174.24
+      }
+    },
+    {
+      "id": 427,
+      "cat": "INSURANCE",
+      "item": "Columbarium",
+      "channel": "GCash",
+      "date": "30",
+      "ada": "No",
+      "type": "Funeral",
+      "delayed": 0,
+      "status": "Active",
+      "cutoff": "2nd",
+      "data": {
+        "December": 1313.75
+      }
+    },
+    {
+      "id": 428,
+      "cat": "LEISURE",
+      "item": "Christmas Party with Pansol Buddies",
+      "channel": "BPI",
+      "date": "15",
+      "cutoff": "1st",
+      "data": {
+        "November": 1500
       }
     }
   ],
