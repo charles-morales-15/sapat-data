@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-14T16:47:54.798Z",
+  "exportedAt": "2026-11-14T16:59:12.161Z",
   "exportedBy": "SAPAT",
   "month": "November 2026",
   "data": [
@@ -2830,7 +2830,8 @@
         "September 2027": 6600,
         "October 2027": 6600,
         "November 2027": 6600,
-        "December 2027": 6600
+        "December 2027": 6600,
+        "November": 6600
       }
     },
     {
@@ -4146,7 +4147,8 @@
     "October 2026_407_debt2": true,
     "October 2026_408_debt2": true,
     "October 2026_410_debt2": true,
-    "November 2026_428_ls": true
+    "November 2026_428_ls": true,
+    "October 2026_369_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
