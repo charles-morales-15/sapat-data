@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-14T16:38:52.662Z",
+  "exportedAt": "2026-11-14T16:41:46.068Z",
   "exportedBy": "SAPAT",
-  "month": "November 2026",
+  "month": "December 2026",
   "data": [
     {
       "id": 1,
@@ -3324,29 +3324,6 @@
       }
     },
     {
-      "id": 102,
-      "cat": "DEBT",
-      "subtype": "Digital Bank",
-      "item": "GCash Cash Loan (BillEase)",
-      "channel": "GCash",
-      "date": "1 & 15",
-      "ada": "Yes",
-      "cutoff": "both",
-      "status": "On Time",
-      "installments": 24,
-      "paid_inst": 1,
-      "balance": 41810.78,
-      "data": {
-        "June": 3635.72,
-        "July": 3635.72,
-        "August": 3635.72,
-        "September": 3635.72,
-        "October": 3635.72,
-        "November": 3635.72,
-        "December": 3635.72
-      }
-    },
-    {
       "id": 424,
       "cat": "SUBSCRIPTIONS",
       "item": "Crunchyroll",
@@ -3431,6 +3408,36 @@
       "cutoff": "1st",
       "data": {
         "November": 1500
+      }
+    },
+    {
+      "id": 429,
+      "cat": "DEBT",
+      "subtype": "Personal",
+      "item": "Laptop Monthly Payment",
+      "channel": "BPI",
+      "date": "15",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 24,
+      "paid_inst": 0,
+      "balance": 1916.25,
+      "minPayment": 1916.25,
+      "data": {
+        "December": 1916.25,
+        "January 2027": 1916.25,
+        "February 2027": 1916.25,
+        "March 2027": 1916.25,
+        "April 2027": 1916.25,
+        "May 2027": 1916.25,
+        "June 2027": 1916.25,
+        "July 2027": 1916.25,
+        "August 2027": 1916.25,
+        "September 2027": 1916.25,
+        "October 2027": 1916.25,
+        "November 2027": 1916.25,
+        "December 2027": 1916.25
       }
     }
   ],
