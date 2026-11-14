@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-14T09:55:35.645Z",
+  "exportedAt": "2026-11-14T16:06:15.492Z",
   "exportedBy": "SAPAT",
-  "month": "November 2026",
+  "month": "October 2026",
   "data": [
     {
       "id": 1,
@@ -266,7 +266,11 @@
       "installments": 0,
       "paid_inst": 0,
       "balance": 11488.24,
-      "data": {
+      "data": {},
+      "cutoff": "2nd",
+      "minPayment": 3995.15,
+      "totalPayments": 0,
+      "_deletedOnFullPay": {
         "June": 3754.67,
         "July": 3775.1,
         "August": 3995.15,
@@ -286,10 +290,7 @@
         "October 2027": 3995.15,
         "November 2027": 3995.15,
         "December 2027": 3995.15
-      },
-      "cutoff": "2nd",
-      "minPayment": 3995.15,
-      "totalPayments": 0
+      }
     },
     {
       "id": 30,
@@ -303,7 +304,11 @@
       "installments": 0,
       "paid_inst": 0,
       "balance": 8500,
-      "data": {
+      "data": {},
+      "cutoff": "2nd",
+      "minPayment": 1926.17,
+      "totalPayments": 0,
+      "_deletedOnFullPay": {
         "June": 1926.67,
         "July": 1926.17,
         "August": 1926.17,
@@ -323,10 +328,7 @@
         "October 2027": 1926.17,
         "November 2027": 1926.17,
         "December 2027": 1926.17
-      },
-      "cutoff": "2nd",
-      "minPayment": 1926.17,
-      "totalPayments": 0
+      }
     },
     {
       "id": 40,
@@ -968,7 +970,8 @@
       "balance": 3500,
       "minPayment": 3500,
       "totalPayments": 0,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "June": 3500,
         "July": 3500,
         "August": 3500,
@@ -988,8 +991,7 @@
         "October 2027": 3500,
         "November 2027": 3500,
         "December 2027": 3500
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 101,
@@ -1087,7 +1089,8 @@
       "paid_inst": 0,
       "balance": 4410,
       "minPayment": 4410,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "June": 4410,
         "July": 4410,
         "August": 4410,
@@ -1107,8 +1110,7 @@
         "October 2027": 4410,
         "November 2027": 4410,
         "December 2027": 4410
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 317,
@@ -1823,7 +1825,8 @@
       "paid_inst": 0,
       "balance": 10755.16,
       "minPayment": 10755.16,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "August": 10755.16,
         "September": 10755.16,
         "October": 10755.16,
@@ -1841,8 +1844,7 @@
         "October 2027": 10755.16,
         "November 2027": 10755.16,
         "December 2027": 10755.16
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 350,
@@ -1858,7 +1860,8 @@
       "paid_inst": 0,
       "balance": 5798.96,
       "minPayment": 4438.72,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "August": 5798.96,
         "September": 4438.72,
         "October": 4438.72,
@@ -1876,8 +1879,7 @@
         "October 2027": 4438.72,
         "November 2027": 4438.72,
         "December 2027": 4438.72
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 351,
@@ -1893,7 +1895,8 @@
       "paid_inst": 0,
       "balance": 3224.67,
       "minPayment": 3224.67,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "August": 3224.67,
         "September": 3224.67,
         "October": 3224.67,
@@ -1911,8 +1914,7 @@
         "October 2027": 3224.67,
         "November 2027": 3224.67,
         "December 2027": 3224.67
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 352,
@@ -2027,7 +2029,8 @@
       "paid_inst": 0,
       "balance": 7500,
       "minPayment": 7500,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "August": 7500,
         "September": 7500,
         "October": 7500,
@@ -2045,8 +2048,7 @@
         "October 2027": 7500,
         "November 2027": 7500,
         "December 2027": 7500
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 356,
@@ -2112,7 +2114,8 @@
       "paid_inst": 0,
       "balance": 3591,
       "minPayment": 3591,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "August": 3591,
         "September": 3591,
         "October": 3591,
@@ -2130,8 +2133,7 @@
         "October 2027": 3591,
         "November 2027": 3591,
         "December 2027": 3591
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 359,
@@ -2147,7 +2149,8 @@
       "paid_inst": 0,
       "balance": 3000,
       "minPayment": 3000,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "August": 3000,
         "September": 3000,
         "October": 3000,
@@ -2165,8 +2168,7 @@
         "October 2027": 3000,
         "November 2027": 3000,
         "December 2027": 3000
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 360,
@@ -2209,7 +2211,8 @@
       "paid_inst": 0,
       "balance": 426.36,
       "minPayment": 426.36,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "September": 426.36,
         "October": 426.36,
         "November": 426.36,
@@ -2226,8 +2229,7 @@
         "October 2027": 426.36,
         "November 2027": 426.36,
         "December 2027": 426.36
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 363,
@@ -2243,7 +2245,8 @@
       "paid_inst": 0,
       "balance": 4114.35,
       "minPayment": 4114.35,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "September": 4114.35,
         "October": 4114.35,
         "November": 4114.35,
@@ -2260,8 +2263,7 @@
         "October 2027": 4114.35,
         "November 2027": 4114.35,
         "December 2027": 4114.35
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 364,
@@ -2277,7 +2279,8 @@
       "paid_inst": 0,
       "balance": 4601.35,
       "minPayment": 4601.35,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "September": 4601.35,
         "October": 4601.35,
         "November": 4601.35,
@@ -2294,8 +2297,7 @@
         "October 2027": 4601.35,
         "November 2027": 4601.35,
         "December 2027": 4601.35
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 365,
@@ -2311,7 +2313,8 @@
       "paid_inst": 0,
       "balance": 10000,
       "minPayment": 10000,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "September": 10000,
         "October": 10000,
         "November": 10000,
@@ -2328,8 +2331,7 @@
         "October 2027": 10000,
         "November 2027": 10000,
         "December 2027": 10000
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 366,
@@ -2345,7 +2347,8 @@
       "paid_inst": 0,
       "balance": 3000,
       "minPayment": 3000,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "September": 3000,
         "October": 3000,
         "November": 3000,
@@ -2362,8 +2365,7 @@
         "October 2027": 3000,
         "November 2027": 3000,
         "December 2027": 3000
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 367,
@@ -2431,21 +2433,7 @@
         "June": 350,
         "July": 350,
         "August": 350,
-        "October": 350,
-        "November": 350,
-        "December": 350,
-        "January 2027": 350,
-        "February 2027": 350,
-        "March 2027": 350,
-        "April 2027": 350,
-        "May 2027": 350,
-        "June 2027": 350,
-        "July 2027": 350,
-        "August 2027": 350,
-        "September 2027": 350,
-        "October 2027": 350,
-        "November 2027": 350,
-        "December 2027": 350
+        "October": 350
       }
     },
     {
@@ -2501,7 +2489,8 @@
       "paid_inst": 0,
       "balance": 1517,
       "minPayment": 1517,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "September": 1517,
         "October": 1517,
         "November": 1517,
@@ -2518,8 +2507,7 @@
         "October 2027": 1517,
         "November 2027": 1517,
         "December 2027": 1517
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 372,
@@ -3680,7 +3668,28 @@
     "November 2026_326_subs": true,
     "November 2026_63_ut": true,
     "November 2026_65_ut": true,
-    "December 2026_423_ins": true
+    "December 2026_423_ins": true,
+    "September 2026_310_debt1": true,
+    "September 2026_349_debt1": true,
+    "September 2026_355_debt1": true,
+    "October 2026_362_debt1": true,
+    "September 2026_30_debt2": true,
+    "September 2026_29_debt2": true,
+    "September 2026_358_debt2": true,
+    "September 2026_351_debt2": true,
+    "September 2026_350_debt2": true,
+    "September 2026_359_debt2": true,
+    "September 2026_315_debt2": true,
+    "September 2026_353_debt2": true,
+    "July 2026_30_debt2": true,
+    "August 2026_30_debt2": true,
+    "October 2026_353_debt2": true,
+    "October 2026_30_debt2": true,
+    "October 2026_364_debt2": true,
+    "October 2026_363_debt2": true,
+    "October 2026_371_debt2": true,
+    "October 2026_365_debt1": true,
+    "October 2026_366_debt1": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
