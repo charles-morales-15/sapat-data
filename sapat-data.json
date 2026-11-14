@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-14T16:06:15.492Z",
+  "exportedAt": "2026-11-14T16:16:15.409Z",
   "exportedBy": "SAPAT",
-  "month": "October 2026",
+  "month": "November 2026",
   "data": [
     {
       "id": 1,
@@ -1943,40 +1943,6 @@
       }
     },
     {
-      "id": 353,
-      "cat": "DEBT",
-      "subtype": "Credit Card",
-      "item": "Atome",
-      "channel": "Paymaya",
-      "date": "25",
-      "ada": "No",
-      "cutoff": "2nd",
-      "status": "On Time",
-      "installments": 0,
-      "paid_inst": 0,
-      "balance": 5722,
-      "minPayment": 1,
-      "data": {
-        "August": 1,
-        "September": 1,
-        "October": 1,
-        "November": 1,
-        "December": 1,
-        "January 2027": 1,
-        "February 2027": 1,
-        "March 2027": 1,
-        "April 2027": 1,
-        "May 2027": 1,
-        "June 2027": 1,
-        "July 2027": 1,
-        "August 2027": 1,
-        "September 2027": 1,
-        "October 2027": 1,
-        "November 2027": 1,
-        "December 2027": 1
-      }
-    },
-    {
       "id": 354,
       "cat": "SUBSCRIPTIONS",
       "item": "Youtube Premium",
@@ -2381,7 +2347,8 @@
       "paid_inst": 0,
       "balance": 6387.93,
       "minPayment": 6387.93,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "October": 6387.93,
         "November": 6387.93,
         "December": 6387.93,
@@ -2397,8 +2364,7 @@
         "October 2027": 6387.93,
         "November 2027": 6387.93,
         "December 2027": 6387.93
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 368,
@@ -2432,8 +2398,7 @@
         "May": 350,
         "June": 350,
         "July": 350,
-        "August": 350,
-        "October": 350
+        "August": 350
       }
     },
     {
@@ -2583,7 +2548,8 @@
       "paid_inst": 0,
       "balance": 15000,
       "minPayment": 15000,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "October": 5000,
         "November": 15000,
         "December": 15000,
@@ -2615,7 +2581,8 @@
       "paid_inst": 0,
       "balance": 10000,
       "minPayment": 10000,
-      "data": {
+      "data": {},
+      "_deletedOnFullPay": {
         "October": 10000,
         "November": 10000,
         "December": 10000,
@@ -2631,8 +2598,7 @@
         "October 2027": 10000,
         "November 2027": 10000,
         "December 2027": 10000
-      },
-      "_deletedOnFullPay": {}
+      }
     },
     {
       "id": 379,
@@ -2838,7 +2804,6 @@
       "data": {
         "October": 6600,
         "December": 6600,
-        "November": 6600,
         "January 2027": 6600,
         "February 2027": 6600,
         "March 2027": 6600,
@@ -3484,7 +3449,6 @@
     "August 2026_63_ut": true,
     "August 2026_70_subs": true,
     "August 2026_326_subs": true,
-    "August 2026_353_debt2": true,
     "August 2026_4_1st": true,
     "August 2026_355_debt1": true,
     "August 2026_356_ls": true,
@@ -3618,13 +3582,9 @@
     "October 2026_407_2nd": true,
     "October 2026_408_ls": true,
     "October 2026_410_2nd": true,
-    "October 2026_74_subs": true,
     "October 2026_328_subs": true,
     "October 2026_324_subs": true,
-    "October 2026_75_subs": true,
     "October 2026_357_subs": true,
-    "October 2026_347_subs": true,
-    "October 2026_318_subs": true,
     "October 2026_325_subs": true,
     "October 2026_9_2nd": true,
     "November 2026_64_ut": true,
@@ -3680,16 +3640,23 @@
     "September 2026_350_debt2": true,
     "September 2026_359_debt2": true,
     "September 2026_315_debt2": true,
-    "September 2026_353_debt2": true,
     "July 2026_30_debt2": true,
     "August 2026_30_debt2": true,
-    "October 2026_353_debt2": true,
     "October 2026_30_debt2": true,
     "October 2026_364_debt2": true,
     "October 2026_363_debt2": true,
     "October 2026_371_debt2": true,
     "October 2026_365_debt1": true,
-    "October 2026_366_debt1": true
+    "October 2026_366_debt1": true,
+    "October 2026_318_subs": true,
+    "October 2026_347_subs": true,
+    "October 2026_320_subs": true,
+    "October 2026_370_subs": true,
+    "October 2026_75_subs": true,
+    "October 2026_74_subs": true,
+    "November 2026_367_debt1": true,
+    "November 2026_377_debt1": true,
+    "November 2026_378_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
