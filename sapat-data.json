@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-15T07:05:09.215Z",
+  "exportedAt": "2026-11-15T07:09:45.128Z",
   "exportedBy": "SAPAT",
   "month": "December 2026",
   "data": [
@@ -1182,7 +1182,7 @@
       "id": 319,
       "cat": "SUBSCRIPTIONS",
       "item": "Co-Star Personalized Astrology",
-      "channel": "Paymaya",
+      "channel": "BPI",
       "date": "17",
       "ada": "Yes",
       "action": "Cut",
@@ -1214,7 +1214,7 @@
       "id": 321,
       "cat": "SUBSCRIPTIONS",
       "item": "Duolingo",
-      "channel": "Paymaya",
+      "channel": "BPI",
       "date": "16",
       "ada": "Yes",
       "action": "Keep",
@@ -1230,7 +1230,7 @@
       "id": 322,
       "cat": "SUBSCRIPTIONS",
       "item": "HBO Max",
-      "channel": "Paymaya",
+      "channel": "BPI",
       "date": "30",
       "ada": "Yes",
       "action": "Cut",
@@ -2804,7 +2804,6 @@
       "cutoff": "2nd",
       "data": {
         "October": 6600,
-        "December": 6600,
         "January 2027": 6600,
         "February 2027": 6600,
         "March 2027": 6600,
@@ -3223,33 +3222,6 @@
         "October 2027": 60000,
         "November 2027": 60000,
         "December 2027": 60000
-      }
-    },
-    {
-      "id": 423,
-      "cat": "INSURANCE",
-      "item": "Columbarium",
-      "channel": "BPI",
-      "date": "15",
-      "ada": "No",
-      "type": "Funeral",
-      "delayed": 0,
-      "status": "Active",
-      "cutoff": "1st",
-      "data": {
-        "December": 1313.75,
-        "January 2027": 1313.75,
-        "February 2027": 1313.75,
-        "March 2027": 1313.75,
-        "April 2027": 1313.75,
-        "May 2027": 1313.75,
-        "June 2027": 1313.75,
-        "July 2027": 1313.75,
-        "August 2027": 1313.75,
-        "September 2027": 1313.75,
-        "October 2027": 1313.75,
-        "November 2027": 1313.75,
-        "December 2027": 1313.75
       }
     },
     {
@@ -3677,7 +3649,6 @@
     "November 2026_326_subs": true,
     "November 2026_63_ut": true,
     "November 2026_65_ut": true,
-    "December 2026_423_ins": true,
     "September 2026_310_debt1": true,
     "September 2026_349_debt1": true,
     "September 2026_355_debt1": true,
@@ -4043,7 +4014,8 @@
     "October 2026_410_debt2": true,
     "November 2026_428_ls": true,
     "October 2026_407_2nd": true,
-    "November 2026_420_1st": true
+    "November 2026_420_1st": true,
+    "December 2026_427_ins": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
