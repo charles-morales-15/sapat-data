@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-15T07:27:30.757Z",
+  "exportedAt": "2026-11-15T07:40:07.872Z",
   "exportedBy": "SAPAT",
-  "month": "December 2026",
+  "month": "November 2026",
   "data": [
     {
       "id": 1,
@@ -2399,8 +2399,7 @@
         "June": 350,
         "July": 350,
         "August": 350,
-        "October": 350,
-        "November": 350
+        "October": 350
       }
     },
     {
@@ -2817,7 +2816,8 @@
         "October 2027": 6600,
         "November 2027": 6600,
         "December 2027": 6600,
-        "November": 6600
+        "November": 6600,
+        "December": 6600
       }
     },
     {
@@ -2942,7 +2942,20 @@
       "date": "19",
       "data": {
         "October": 7418.23,
-        "November": 7418.23
+        "November": 7418.23,
+        "December": 7418.23,
+        "January 2027": 7418.23,
+        "February 2027": 7418.23,
+        "March 2027": 7418.23,
+        "April 2027": 7418.23,
+        "May 2027": 7418.23,
+        "June 2027": 7418.23,
+        "July 2027": 7418.23,
+        "August 2027": 7418.23,
+        "September 2027": 7418.23,
+        "October 2027": 7418.23,
+        "November 2027": 7418.23,
+        "December 2027": 7418.23
       }
     },
     {
@@ -2993,7 +3006,20 @@
       "subtype": "Food & Grocery",
       "date": "12",
       "data": {
-        "November": 2310.3
+        "November": 2310.3,
+        "December": 2310.3,
+        "January 2027": 2310.3,
+        "February 2027": 2310.3,
+        "March 2027": 2310.3,
+        "April 2027": 2310.3,
+        "May 2027": 2310.3,
+        "June 2027": 2310.3,
+        "July 2027": 2310.3,
+        "August 2027": 2310.3,
+        "September 2027": 2310.3,
+        "October 2027": 2310.3,
+        "November 2027": 2310.3,
+        "December 2027": 2310.3
       }
     },
     {
@@ -3172,7 +3198,20 @@
       "subtype": "Clothing",
       "date": "12",
       "data": {
-        "November": 7880
+        "November": 7880,
+        "December": 7880,
+        "January 2027": 7880,
+        "February 2027": 7880,
+        "March 2027": 7880,
+        "April 2027": 7880,
+        "May 2027": 7880,
+        "June 2027": 7880,
+        "July 2027": 7880,
+        "August 2027": 7880,
+        "September 2027": 7880,
+        "October 2027": 7880,
+        "November 2027": 7880,
+        "December 2027": 7880
       }
     },
     {
