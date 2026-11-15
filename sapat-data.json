@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-15T07:47:27.046Z",
+  "exportedAt": "2026-11-15T08:53:40.517Z",
   "exportedBy": "SAPAT",
   "month": "November 2026",
   "data": [
@@ -910,7 +910,7 @@
       "cat": "DEBT",
       "subtype": "Digital Bank",
       "item": "BillEase (BPI Loan)",
-      "channel": "Paymaya",
+      "channel": "BPI",
       "date": "1",
       "ada": "No",
       "cutoff": "2nd",
@@ -2816,8 +2816,7 @@
         "October 2027": 6600,
         "November 2027": 6600,
         "December 2027": 6600,
-        "December": 6600,
-        "November": 6600
+        "December": 6600
       }
     },
     {
@@ -3393,6 +3392,29 @@
         "October 2027": 1916.25,
         "November 2027": 1916.25,
         "December 2027": 1916.25
+      }
+    },
+    {
+      "id": 102,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "GCash Cash Loan (BillEase)",
+      "channel": "GCash",
+      "date": "1 & 15",
+      "ada": "Yes",
+      "cutoff": "both",
+      "status": "On Time",
+      "installments": 24,
+      "paid_inst": 1,
+      "balance": 41810.78,
+      "data": {
+        "June": 3635.72,
+        "July": 3635.72,
+        "August": 3635.72,
+        "September": 3635.72,
+        "October": 3635.72,
+        "November": 3635.72,
+        "December": 3635.72
       }
     }
   ],
