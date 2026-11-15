@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-15T07:40:07.872Z",
+  "exportedAt": "2026-11-15T07:43:46.387Z",
   "exportedBy": "SAPAT",
   "month": "November 2026",
   "data": [
@@ -2816,7 +2816,6 @@
         "October 2027": 6600,
         "November 2027": 6600,
         "December 2027": 6600,
-        "November": 6600,
         "December": 6600
       }
     },
