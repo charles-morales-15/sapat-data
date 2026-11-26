@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-26T07:04:39.517Z",
+  "exportedAt": "2026-11-26T07:28:48.103Z",
   "exportedBy": "SAPAT",
   "month": "November 2026",
   "data": [
@@ -58,7 +58,7 @@
         "August": 4000,
         "September": 3000,
         "October": 3000,
-        "November": 3000,
+        "November": 3050,
         "December": 3000,
         "January 2027": 3000,
         "February 2027": 3000,
@@ -200,7 +200,7 @@
         "August": 660,
         "September": 830,
         "October": 830,
-        "November": 700,
+        "November": 680,
         "December": 700,
         "January 2027": 700,
         "February 2027": 700,
@@ -1501,7 +1501,7 @@
       "cutoff": "1st",
       "status": "On Time",
       "installments": 12,
-      "paid_inst": 6,
+      "paid_inst": 7,
       "balance": 272184.84,
       "minPayment": 23000,
       "data": {
@@ -2956,7 +2956,7 @@
       "data": {
         "October": 7418.23,
         "December": 7418.23,
-        "November": 7418.23,
+        "November": 20104.17,
         "January 2027": 7418.23,
         "February 2027": 7418.23,
         "March 2027": 7418.23,
@@ -2994,7 +2994,7 @@
       "data": {
         "October": 6395.5,
         "December": 6395.5,
-        "November": 6395.5,
+        "November": 10612.41,
         "January 2027": 6395.5,
         "February 2027": 6395.5,
         "March 2027": 6395.5,
@@ -4147,7 +4147,14 @@
     "October 2026_408_debt2": true,
     "October 2026_410_debt2": true,
     "November 2026_428_ls": true,
-    "October 2026_369_debt2": true
+    "October 2026_369_debt2": true,
+    "November 2026_9_2nd": true,
+    "November 2026_2_2nd": true,
+    "November 2026_410_2nd": true,
+    "November 2026_3_2nd": true,
+    "November 2026_10_2nd": true,
+    "December 2026_334_debt1": true,
+    "November 2026_407_2nd": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
