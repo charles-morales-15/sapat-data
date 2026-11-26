@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-26T08:11:38.062Z",
+  "exportedAt": "2026-11-26T08:25:58.198Z",
   "exportedBy": "SAPAT",
   "month": "November 2026",
   "data": [
@@ -3638,6 +3638,17 @@
       "data": {
         "November": 10780
       }
+    },
+    {
+      "id": 438,
+      "cat": "LEISURE",
+      "item": "Ang Tahanan Ni Bernarda Alba",
+      "channel": "Paymaya",
+      "date": "26",
+      "cutoff": "2nd",
+      "data": {
+        "November": 8637.6
+      }
     }
   ],
   "paid": {
@@ -4333,7 +4344,8 @@
     "November 2026_434_debt2": true,
     "November 2026_307_debt2": true,
     "December 2026_42_ins": true,
-    "November 2026_437_ls": true
+    "November 2026_437_ls": true,
+    "November 2026_438_ls": true
   },
   "comments": {
     "cmt_437_ls_cmt_November": "\"with 1500 damage fee for toilet lid\"",
@@ -4341,6 +4353,7 @@
     "cmt_330_1st_July": "\"July 13 - 17\"",
     "cmt_313_d_debt2_September": "\"Closed\"",
     "cmt_401_d_debt2_October": "\"Laptop\"",
+    "cmt_438_ls_cmt_November": "\"Sun 28 Feb 2027 7:30PM\"",
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
     "cmt_390_2nd_October": "\"Oct 19 - 29\"",
     "cmt_4_1st_July": "\"July 6 - 10\"",
