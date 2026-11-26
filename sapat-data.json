@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-26T08:25:58.198Z",
+  "exportedAt": "2026-11-26T08:54:06.159Z",
   "exportedBy": "SAPAT",
   "month": "November 2026",
   "data": [
@@ -1413,22 +1413,8 @@
         "August": 1134.1,
         "September": 1100,
         "October": 1100,
-        "November": 1100,
-        "December": 1100,
         "January": 1100,
-        "February": 1100,
-        "January 2027": 1100,
-        "February 2027": 1100,
-        "March 2027": 1100,
-        "April 2027": 1100,
-        "May 2027": 1100,
-        "June 2027": 1100,
-        "July 2027": 1100,
-        "August 2027": 1100,
-        "September 2027": 1100,
-        "October 2027": 1100,
-        "November 2027": 1100,
-        "December 2027": 1100
+        "February": 1100
       }
     },
     {
@@ -2401,21 +2387,7 @@
         "June": 350,
         "July": 350,
         "August": 350,
-        "October": 350,
-        "November": 350,
-        "December": 350,
-        "January 2027": 350,
-        "February 2027": 350,
-        "March 2027": 350,
-        "April 2027": 350,
-        "May 2027": 350,
-        "June 2027": 350,
-        "July 2027": 350,
-        "August 2027": 350,
-        "September 2027": 350,
-        "October 2027": 350,
-        "November 2027": 350,
-        "December 2027": 350
+        "October": 350
       }
     },
     {
@@ -3649,6 +3621,38 @@
       "data": {
         "November": 8637.6
       }
+    },
+    {
+      "id": 439,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Google AI Pro 50% Offer",
+      "channel": "Atome",
+      "date": "26",
+      "ada": "No",
+      "action": "Keep",
+      "subtype": "AI Tools",
+      "paymentTerms": "Annual",
+      "cutoff": "2nd",
+      "amount": 5670.5,
+      "data": {
+        "November": 5670.5
+      }
+    },
+    {
+      "id": 440,
+      "cat": "SUBSCRIPTIONS",
+      "item": "McAfee PC Optimizer",
+      "channel": "Atome",
+      "date": "26",
+      "ada": "No",
+      "action": "Keep",
+      "subtype": "AI Tools",
+      "paymentTerms": "Annual",
+      "cutoff": "2nd",
+      "amount": 1391.86,
+      "data": {
+        "November": 1391.86
+      }
     }
   ],
   "paid": {
@@ -4345,7 +4349,9 @@
     "November 2026_307_debt2": true,
     "December 2026_42_ins": true,
     "November 2026_437_ls": true,
-    "November 2026_438_ls": true
+    "November 2026_438_ls": true,
+    "November 2026_439_subs": true,
+    "November 2026_440_subs": true
   },
   "comments": {
     "cmt_437_ls_cmt_November": "\"with 1500 damage fee for toilet lid\"",
