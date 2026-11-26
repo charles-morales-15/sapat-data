@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-26T07:33:20.719Z",
+  "exportedAt": "2026-11-26T07:44:22.811Z",
   "exportedBy": "SAPAT",
   "month": "November 2026",
   "data": [
@@ -1701,7 +1701,7 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 9,
-      "paid_inst": 4,
+      "paid_inst": 5,
       "balance": 16862.22,
       "minPayment": 1873.58,
       "data": {
@@ -3141,9 +3141,9 @@
       "subtype": "Microloan",
       "item": "Atome",
       "channel": "BPI",
-      "date": "12",
+      "date": "28",
       "ada": "No",
-      "cutoff": "1st",
+      "cutoff": "2nd",
       "status": "On Time",
       "installments": 0,
       "paid_inst": 0,
@@ -3506,6 +3506,100 @@
         "July 2027": 3000,
         "August 2027": 3000,
         "September 2027": 3000
+      }
+    },
+    {
+      "id": 431,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "GLoan",
+      "channel": "GCash",
+      "date": "15",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 24,
+      "paid_inst": 0,
+      "balance": 100000,
+      "minPayment": 6156.67,
+      "data": {
+        "December": 6156.67,
+        "January 2027": 6156.67,
+        "February 2027": 6156.67,
+        "March 2027": 6156.67,
+        "April 2027": 6156.67,
+        "May 2027": 6156.67,
+        "June 2027": 6156.67,
+        "July 2027": 6156.67,
+        "August 2027": 6156.67,
+        "September 2027": 6156.67,
+        "October 2027": 6156.67,
+        "November 2027": 6156.67,
+        "December 2027": 6156.67
+      }
+    },
+    {
+      "id": 432,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "GGives - iHerb (Whey)",
+      "channel": "GCash",
+      "date": "15",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 9,
+      "paid_inst": 1,
+      "balance": 12520.17,
+      "minPayment": 1391.17,
+      "data": {
+        "November": 1391.17,
+        "December": 1391.17,
+        "January 2027": 1391.17,
+        "February 2027": 1391.17,
+        "March 2027": 1391.17,
+        "April 2027": 1391.17,
+        "May 2027": 1391.17,
+        "June 2027": 1391.17,
+        "July 2027": 1391.17
+      }
+    },
+    {
+      "id": 433,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "GCredit",
+      "channel": "GCash",
+      "date": "26",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 4949.7,
+      "minPayment": 4949.7,
+      "data": {},
+      "_deletedOnFullPay": {
+        "November": 4949.7
+      }
+    },
+    {
+      "id": 434,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "Atome",
+      "channel": "Paymaya",
+      "date": "26",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 1,
+      "paid_inst": 1,
+      "balance": 8419.73,
+      "minPayment": 8419.73,
+      "data": {},
+      "_deletedOnFullPay": {
+        "November": 8419.73
       }
     }
   ],
@@ -4196,7 +4290,11 @@
     "November 2026_10_2nd": true,
     "December 2026_334_debt1": true,
     "November 2026_407_2nd": true,
-    "November 2026_335_debt2": true
+    "November 2026_335_debt2": true,
+    "November 2026_343_debt2": true,
+    "November 2026_432_debt1": true,
+    "November 2026_433_debt2": true,
+    "November 2026_434_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
