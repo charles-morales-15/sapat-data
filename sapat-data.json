@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-26T07:44:22.811Z",
+  "exportedAt": "2026-11-26T07:57:36.975Z",
   "exportedBy": "SAPAT",
-  "month": "November 2026",
+  "month": "December 2026",
   "data": [
     {
       "id": 1,
@@ -910,24 +910,25 @@
       "cat": "DEBT",
       "subtype": "Digital Bank",
       "item": "BillEase (BPI Loan)",
-      "channel": "BPI",
+      "channel": "Paymaya",
       "date": "1",
       "ada": "No",
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 1,
+      "paid_inst": 6,
       "balance": 20750.35,
-      "data": {
+      "data": {},
+      "minPayment": 7372.42,
+      "totalPayments": 6,
+      "_deletedOnFullPay": {
         "June": 4150.07,
         "July": 4150.07,
         "August": 4150.07,
         "September": 4150.07,
         "October": 4150.07,
         "November": 7472
-      },
-      "minPayment": 7472,
-      "totalPayments": 6
+      }
     },
     {
       "id": 308,
@@ -3147,10 +3148,9 @@
       "status": "On Time",
       "installments": 0,
       "paid_inst": 0,
-      "balance": 8623.93,
+      "balance": 8707.93,
       "minPayment": 8623.93,
       "data": {
-        "November": 8623.93,
         "December": 8623.93,
         "January 2027": 8623.93,
         "February 2027": 8623.93,
@@ -3600,6 +3600,64 @@
       "data": {},
       "_deletedOnFullPay": {
         "November": 8419.73
+      }
+    },
+    {
+      "id": 435,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "Billease to Maya Loan",
+      "channel": "Maribank",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 12,
+      "paid_inst": 1,
+      "balance": 15764.52,
+      "minPayment": 1313.71,
+      "data": {
+        "December": 1313.71,
+        "January 2027": 1313.71,
+        "February 2027": 1313.71,
+        "March 2027": 1313.71,
+        "April 2027": 1313.71,
+        "May 2027": 1313.71,
+        "June 2027": 1313.71,
+        "July 2027": 1313.71,
+        "August 2027": 1313.71,
+        "September 2027": 1313.71,
+        "October 2027": 1313.71,
+        "November 2027": 1313.71
+      }
+    },
+    {
+      "id": 436,
+      "cat": "DEBT",
+      "subtype": "Microloan",
+      "item": "Billease to BPI Loan",
+      "channel": "Maribank",
+      "date": "29",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 12,
+      "paid_inst": 1,
+      "balance": 72704.52,
+      "minPayment": 6058.71,
+      "data": {
+        "December": 6058.71,
+        "January 2027": 6058.71,
+        "February 2027": 6058.71,
+        "March 2027": 6058.71,
+        "April 2027": 6058.71,
+        "May 2027": 6058.71,
+        "June 2027": 6058.71,
+        "July 2027": 6058.71,
+        "August 2027": 6058.71,
+        "September 2027": 6058.71,
+        "October 2027": 6058.71,
+        "November 2027": 6058.71
       }
     }
   ],
@@ -4294,7 +4352,8 @@
     "November 2026_343_debt2": true,
     "November 2026_432_debt1": true,
     "November 2026_433_debt2": true,
-    "November 2026_434_debt2": true
+    "November 2026_434_debt2": true,
+    "November 2026_307_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
