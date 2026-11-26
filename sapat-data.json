@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-26T08:04:07.838Z",
+  "exportedAt": "2026-11-26T08:11:38.062Z",
   "exportedBy": "SAPAT",
-  "month": "December 2026",
+  "month": "November 2026",
   "data": [
     {
       "id": 1,
@@ -3627,6 +3627,17 @@
         "October 2027": 6058.71,
         "November 2027": 6058.71
       }
+    },
+    {
+      "id": 437,
+      "cat": "LEISURE",
+      "item": "Airbnb for Cebu Trip",
+      "channel": "Atome",
+      "date": "15",
+      "cutoff": "1st",
+      "data": {
+        "November": 10780
+      }
     }
   ],
   "paid": {
@@ -4320,9 +4331,12 @@
     "November 2026_432_debt1": true,
     "November 2026_433_debt2": true,
     "November 2026_434_debt2": true,
-    "November 2026_307_debt2": true
+    "November 2026_307_debt2": true,
+    "December 2026_42_ins": true,
+    "November 2026_437_ls": true
   },
   "comments": {
+    "cmt_437_ls_cmt_November": "\"with 1500 damage fee for toilet lid\"",
     "cmt_8_1st_June": "\"June 12 pick up\"",
     "cmt_330_1st_July": "\"July 13 - 17\"",
     "cmt_313_d_debt2_September": "\"Closed\"",
