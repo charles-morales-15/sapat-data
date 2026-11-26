@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-26T08:00:05.844Z",
+  "exportedAt": "2026-11-26T08:04:07.838Z",
   "exportedBy": "SAPAT",
   "month": "December 2026",
   "data": [
@@ -3050,10 +3050,10 @@
       "ada": "No",
       "cutoff": "1st",
       "status": "On Time",
-      "installments": 0,
+      "installments": 24,
       "paid_inst": 0,
-      "balance": 10755.16,
-      "minPayment": 10755.16,
+      "balance": 16132.74,
+      "minPayment": 16132.74,
       "data": {
         "November": 10755.16,
         "December": 10755.16,
