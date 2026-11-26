@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-26T09:11:28.313Z",
+  "exportedAt": "2026-11-26T09:14:15.323Z",
   "exportedBy": "SAPAT",
   "month": "December 2026",
   "data": [
@@ -3651,6 +3651,35 @@
       "amount": 1391.86,
       "data": {
         "November": 1391.86
+      }
+    },
+    {
+      "id": 441,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "Maribank Loan",
+      "channel": "Maribank",
+      "date": "15",
+      "ada": "No",
+      "cutoff": "1st",
+      "status": "On Time",
+      "installments": 12,
+      "paid_inst": 0,
+      "balance": 54159.96,
+      "minPayment": 4513.33,
+      "data": {
+        "December": 4513.33,
+        "January 2027": 4513.33,
+        "February 2027": 4513.33,
+        "March 2027": 4513.33,
+        "April 2027": 4513.33,
+        "May 2027": 4513.33,
+        "June 2027": 4513.33,
+        "July 2027": 4513.33,
+        "August 2027": 4513.33,
+        "September 2027": 4513.33,
+        "October 2027": 4513.33,
+        "November 2027": 4513.33
       }
     }
   ],
