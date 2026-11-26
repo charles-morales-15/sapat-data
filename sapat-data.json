@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-26T07:28:48.103Z",
+  "exportedAt": "2026-11-26T07:33:20.719Z",
   "exportedBy": "SAPAT",
   "month": "November 2026",
   "data": [
@@ -1530,10 +1530,11 @@
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 36,
-      "paid_inst": 5,
+      "paid_inst": 36,
       "balance": 26994.48,
-      "minPayment": 3129.32,
-      "data": {
+      "minPayment": 5000,
+      "data": {},
+      "_deletedOnFullPay": {
         "June": 5966.29,
         "July": 5966.29,
         "August": 5966.29,
@@ -3019,20 +3020,7 @@
       "subtype": "Food & Grocery",
       "date": "12",
       "data": {
-        "November": 2310.3,
-        "December": 2310.3,
-        "January 2027": 2310.3,
-        "February 2027": 2310.3,
-        "March 2027": 2310.3,
-        "April 2027": 2310.3,
-        "May 2027": 2310.3,
-        "June 2027": 2310.3,
-        "July 2027": 2310.3,
-        "August 2027": 2310.3,
-        "September 2027": 2310.3,
-        "October 2027": 2310.3,
-        "November 2027": 2310.3,
-        "December 2027": 2310.3
+        "November": 2310.3
       }
     },
     {
@@ -3465,6 +3453,59 @@
         "October 2027": 1916.25,
         "November 2027": 1916.25,
         "December 2027": 1916.25
+      }
+    },
+    {
+      "id": 411,
+      "cat": "BASIC GOODS",
+      "item": "Watsons",
+      "channel": "GCash",
+      "cutoff": "1st",
+      "ada": "No",
+      "subtype": "Food & Grocery",
+      "date": "12",
+      "data": {
+        "November": 2310.3,
+        "December": 2310.3,
+        "January 2027": 2310.3,
+        "February 2027": 2310.3,
+        "March 2027": 2310.3,
+        "April 2027": 2310.3,
+        "May 2027": 2310.3,
+        "June 2027": 2310.3,
+        "July 2027": 2310.3,
+        "August 2027": 2310.3,
+        "September 2027": 2310.3,
+        "October 2027": 2310.3,
+        "November 2027": 2310.3,
+        "December 2027": 2310.3
+      }
+    },
+    {
+      "id": 430,
+      "cat": "DEBT",
+      "subtype": "Credit Card",
+      "item": "BPI CC Rewards",
+      "channel": "Atome",
+      "date": "30",
+      "ada": "No",
+      "cutoff": "2nd",
+      "status": "On Time",
+      "installments": 10,
+      "paid_inst": 0,
+      "balance": 27286.84,
+      "minPayment": 3000,
+      "data": {
+        "December": 3000,
+        "January 2027": 3000,
+        "February 2027": 3000,
+        "March 2027": 3000,
+        "April 2027": 3000,
+        "May 2027": 3000,
+        "June 2027": 3000,
+        "July 2027": 3000,
+        "August 2027": 3000,
+        "September 2027": 3000
       }
     }
   ],
@@ -4154,7 +4195,8 @@
     "November 2026_3_2nd": true,
     "November 2026_10_2nd": true,
     "December 2026_334_debt1": true,
-    "November 2026_407_2nd": true
+    "November 2026_407_2nd": true,
+    "November 2026_335_debt2": true
   },
   "comments": {
     "cmt_8_1st_June": "\"June 12 pick up\"",
