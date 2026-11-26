@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-26T08:54:06.159Z",
+  "exportedAt": "2026-11-26T09:11:28.313Z",
   "exportedBy": "SAPAT",
-  "month": "November 2026",
+  "month": "December 2026",
   "data": [
     {
       "id": 1,
@@ -462,7 +462,7 @@
         "August": 2246.18,
         "September": 2206.18,
         "October": 2246.18,
-        "November": 2246.18,
+        "November": 4000,
         "December": 2246.18,
         "January 2027": 2205.22,
         "February 2027": 2205.22,
@@ -498,7 +498,7 @@
         "September": 4848,
         "October": 4848,
         "November": 4848,
-        "December": 5000,
+        "December": 4848,
         "June": 4614.7,
         "January 2027": 4614.7,
         "February 2027": 4614.7,
@@ -3223,8 +3223,7 @@
       "ada": "No",
       "cutoff": "2nd",
       "data": {
-        "November": 60000,
-        "December": 60000,
+        "December": 120000,
         "January 2027": 60000,
         "February 2027": 60000,
         "March 2027": 60000,
@@ -4351,7 +4350,10 @@
     "November 2026_437_ls": true,
     "November 2026_438_ls": true,
     "November 2026_439_subs": true,
-    "November 2026_440_subs": true
+    "November 2026_440_subs": true,
+    "November 2026_61_ut": true,
+    "December 2026_66_ut": true,
+    "December 2026_62_ut": true
   },
   "comments": {
     "cmt_437_ls_cmt_November": "\"with 1500 damage fee for toilet lid\"",
