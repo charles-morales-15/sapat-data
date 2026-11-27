@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-11-26T09:23:19.457Z",
+  "exportedAt": "2026-11-27T02:41:10.875Z",
   "exportedBy": "SAPAT",
   "month": "December 2026",
   "data": [
@@ -910,15 +910,22 @@
       "cat": "DEBT",
       "subtype": "Digital Bank",
       "item": "BillEase (BPI Loan)",
-      "channel": "Paymaya",
+      "channel": "BPI",
       "date": "1",
       "ada": "No",
       "cutoff": "2nd",
       "status": "On Time",
       "installments": 6,
-      "paid_inst": 6,
+      "paid_inst": 1,
       "balance": 20750.35,
-      "data": {},
+      "data": {
+        "June": 4150.07,
+        "July": 4150.07,
+        "August": 4150.07,
+        "September": 4150.07,
+        "October": 4150.07,
+        "November": 7372.42
+      },
       "minPayment": 7372.42,
       "totalPayments": 6,
       "_deletedOnFullPay": {
@@ -3681,6 +3688,45 @@
         "October 2027": 4513.33,
         "November 2027": 4513.33
       }
+    },
+    {
+      "id": 102,
+      "cat": "DEBT",
+      "subtype": "Digital Bank",
+      "item": "GCash Cash Loan (BillEase)",
+      "channel": "GCash",
+      "date": "1 & 15",
+      "ada": "Yes",
+      "cutoff": "both",
+      "status": "On Time",
+      "installments": 24,
+      "paid_inst": 1,
+      "balance": 41810.78,
+      "data": {
+        "June": 3635.72,
+        "July": 3635.72,
+        "August": 3635.72,
+        "September": 3635.72,
+        "October": 3635.72,
+        "November": 3635.72,
+        "December": 3635.72
+      }
+    },
+    {
+      "id": 442,
+      "cat": "SUBSCRIPTIONS",
+      "item": "Telegram Video Downloader",
+      "channel": "BPI",
+      "date": "27",
+      "ada": "No",
+      "action": "Keep",
+      "subtype": "Entertainment",
+      "paymentTerms": "Annual",
+      "cutoff": "2nd",
+      "amount": 6620.84,
+      "data": {
+        "December": 6620.84
+      }
     }
   ],
   "paid": {
@@ -4382,15 +4428,16 @@
     "November 2026_440_subs": true,
     "November 2026_61_ut": true,
     "December 2026_66_ut": true,
-    "December 2026_62_ut": true
+    "December 2026_62_ut": true,
+    "December 2026_442_subs": true
   },
   "comments": {
     "cmt_437_ls_cmt_November": "\"with 1500 damage fee for toilet lid\"",
     "cmt_8_1st_June": "\"June 12 pick up\"",
     "cmt_330_1st_July": "\"July 13 - 17\"",
+    "cmt_438_ls_cmt_November": "\"Sun 28 Feb 2027 7:30PM\"",
     "cmt_313_d_debt2_September": "\"Closed\"",
     "cmt_401_d_debt2_October": "\"Laptop\"",
-    "cmt_438_ls_cmt_November": "\"Sun 28 Feb 2027 7:30PM\"",
     "cmt_9_2nd_June": "\"June 29 Delivered\"",
     "cmt_390_2nd_October": "\"Oct 19 - 29\"",
     "cmt_4_1st_July": "\"July 6 - 10\"",
